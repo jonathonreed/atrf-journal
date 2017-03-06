@@ -69,8 +69,8 @@
 
     span {
       @extend %letter-spacing;
-
-      font-family: $font-body;
+      font-family: $font-header;
+      font-weight: 300;
     }
   }
 }
@@ -432,7 +432,6 @@
   }
 
   p:first-child {
-    font-size: 1.25em;
   }
 
   a {
