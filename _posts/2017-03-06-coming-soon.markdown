@@ -5,7 +5,7 @@ author: jcr
 date: 2017-03-06
 categories:
   - Personal
-description: 
+description: Working on website development and the structure for our digital journal is the current focus. It’s powered through Jekyll, hosted on Github and will be integrated with our online map.
 image: http://astheravenfli.es/journal/img/2017/03/06/IMG_1082-JCR-2000-web.jpg
 image-sm:
 ---
