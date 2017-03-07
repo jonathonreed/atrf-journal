@@ -30,12 +30,12 @@ layout: default
   </section>
 
   <section class="profile">
+    {{ if page.jonathon }}
     <div class="profile__card">
       <div class="profile__img">
         <figure class="absolute-bg" style="background-image: url('{{ site.jcr-profile_img }}');"></figure>
       </div>
       <div class="profile__container">
-        {{ if page.jonathon }}
         <p>{{ site.jcr-profile }}</p>
         {% if site.jcr-email or site.jcr-social %}
           <ul class="profile__social">

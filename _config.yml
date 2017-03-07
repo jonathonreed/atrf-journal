@@ -20,14 +20,24 @@ social:
   facebook: http://facebook.com/chairsandtablesorg
   twitter: http://twitter.com/chaisesettables
   instagram: http://instagram.com/chaisesettables
+
+ac-name: Asad Chishti
+ac-profile_img: http://astheravenfli.es/img/journal/IMG_8521-JCR-2000-web.jpg
+ac-profile: TBD
+ac-social:
+  facebook: https://www.facebook.com/chishti.asad
+  twitter: http://twitter.com/asad_ch
+  instagram: http://instagram.com/asad_ch
   
 jcr-name: Jonathon Reed
 jcr-profile_img: http://astheravenfli.es/img/journal/IMG_0010-JCR-2000-web.jpg
-jcr-profile: Adventurer, educator, activist.
+jcr-profile: Jonathon is a semi-professional adventurer with roots in education and activism.
 jcr-social:
   facebook: http://facebook.com/jonathonreed
   twitter: http://twitter.com/jonathoncomfort
+  500px: http://500px.com/jonathonreed
   instagram: http://instagram.com/jonathonreed
+  vimeo: http://vimeo.com/jonathonreed
 
 
 # Build settings
