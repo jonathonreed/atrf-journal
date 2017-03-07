@@ -30,23 +30,44 @@ layout: default
   </section>
 
   <section class="profile">
-    {{ if page.jonathon }}
+    {% if page.author == 'jcr' %}
+      <div class="profile__card">
+        <div class="profile__img">
+          <figure class="absolute-bg" style="background-image: url('{{ site.jcr-profile_img }}');"></figure>
+        </div>
+        <div class="profile__container">
+          <p>{{ site.jcr-profile }}</p>
+          {% if site.jcr-email or site.jcr-social %}
+            <ul class="profile__social">
+              {% if site.jcr-email %}
+                <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.jcr-email }}"></a></li>
+              {% endif %}
+              {% for jcr-social in site.jcr-social %}
+                <li><a class="fa fa-lg fa-{{ jcr-social[0] }}" href="{{ jcr-social[1] }}" target="_blank"></a></li>
+              {% endfor %}
+            </ul>
+          </div>
+      </div>
+      {% endif %}
+    {% endif %}
+        {% if page.author == 'ac' %}
     <div class="profile__card">
       <div class="profile__img">
-        <figure class="absolute-bg" style="background-image: url('{{ site.jcr-profile_img }}');"></figure>
+        <figure class="absolute-bg" style="background-image: url('{{ site.ac-profile_img }}');"></figure>
       </div>
       <div class="profile__container">
-        <p>{{ site.jcr-profile }}</p>
-        {% if site.jcr-email or site.jcr-social %}
+        <p>{{ site.ac-profile }}</p>
+        {% if site.ac-email or site.ac-social %}
           <ul class="profile__social">
-            {% if site.jcr-email %}
-              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.jcr-email }}"></a></li>
+            {% if site.ac-email %}
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.ac-email }}"></a></li>
             {% endif %}
-            {% for jcr-social in site.jcr-social %}
-              <li><a class="fa fa-lg fa-{{ jcr-social[0] }}" href="{{ jcr-social[1] }}" target="_blank"></a></li>
+            {% for ac-social in site.ac-social %}
+              <li><a class="fa fa-lg fa-{{ jcr-social[0] }}" href="{{ ac-social[1] }}" target="_blank"></a></li>
             {% endfor %}
           </ul>
         {% endif %}
+      {% endif %}
       </div>
     </div>
   </section>
