@@ -113,6 +113,7 @@
   &__date {
     font-family: $font-header;
     color: $color-black;
+	text-transform: uppercase;
   }
 
   &__header {
@@ -127,6 +128,7 @@
 
   &__more {
     @include button-slide();
+    font-weight: 400;
   }
 }
 
@@ -262,7 +264,7 @@
 
   &__archive {
     @include border-slide();
-
+    font-weight: 400;
     @extend %letter-spacing;
   }
 

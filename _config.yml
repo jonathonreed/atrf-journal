@@ -17,7 +17,17 @@ name:
 profile_img: 
 profile: 
 social:
-  github: 
+  facebook: http://facebook.com/chairsandtablesorg
+  twitter: http://twitter.com/chaisesettables
+  instagram: http://instagram.com/chaisesettables
+jcr-name: Jonathon Reed
+jcr-profile_img: http://astheravenfli.es/img/journal/IMG_0010-JCR-2000-web.jpg
+jcr-profile: Adventurer, educator, activist.
+jcr-social:
+  facebook: http://facebook.com/jonathonreed
+  twitter: http://twitter.com/jonathoncomfort
+  instagram: http://instagram.com/jonathonreed
+
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]

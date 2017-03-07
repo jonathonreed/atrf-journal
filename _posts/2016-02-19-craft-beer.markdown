@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kickstarter and Jekyll Test"
+jonathon: true
 date: 2017-03-06
 categories:
   - Personal
