@@ -6,7 +6,7 @@ date: 2017-03-06
 categories:
   - Personal
 description: 
-image: http://astheravenfli.es/img/2017/03/06/IMG_1082-JCR-1920-web.jpg
+image: http://astheravenfli.es/img/2017/03/06/IMG_1082-JCR-2000-web.jpg
 image-sm:
 ---
 Working on website development and the structure for our digital journal is the current focus. It&rsquo;s powered through Jekyll, hosted on Github and will be integrated with our <a href="http://astheravenfli.es">online map</a>. More to come.
