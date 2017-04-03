@@ -6,11 +6,11 @@ date: 2017-04-03
 categories:
   - Partners
 description: On my favourite camera store with a little extra exposure.
-image: 
+image: http://astheravenfli.es/journal/img/2017/04/03/IMG_8357-JCR-1920-web.jpg
 image-sm:
 ---
 
-For five years now I've been taking film photos on an old camera that a friend's dad gifted to me.
+For five years now I&rsquo;ve been taking film photos on an old camera that a friend's dad gifted to me.
 
 The process of capturing a moment of time feels more magical on those tiny cannisters of 35 mm. Something about the sound of the shutter, my thumb rolling the film, the ritual of loading and unloading the roll.
 
