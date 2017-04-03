@@ -15,4 +15,4 @@ We had some cake to celebrate our <a href="https://www.kickstarter.com/projects/
 
 <blockquote>It happened at a meeting between an Indian community in northwest British Columbia and some government officials. The officials claimed the land for the government. The natives [sic] were astonished by the claim. They couldn&rsquo;t understand what these relative newcomers were talking about. Finally one of the elders put what was bothering them in the form of a question. &ldquo;If this is your land,&rdquo; he asked, &ldquo;where are your stories?&rdquo; <cite>J. Edward Chamberlin</cite></blockquote>
 
-Warm weather is headed our way, and St. John&rsquo;s is coming ever closer!
+Warm weather is headed our way, and St. John&rsquo;s is coming ever closer.
