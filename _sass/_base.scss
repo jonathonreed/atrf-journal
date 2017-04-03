@@ -5,8 +5,8 @@ $font-header: 'Oswald', monospace;
 $font-body: 'Inconsolata', monospace;
 $font-post: 'Open Sans', sans-serif;
 
-$color-alpha: #26466D;
-$color-alpha--light: #d6e2f1;
+$color-alpha: #cd3333;
+$color-alpha--light: #f7e0e0;
 
 $color-black: #202020;
 $color-grey: #f8f9f9;
@@ -103,13 +103,13 @@ p {
 a {
   color: $color-black;
   text-decoration: none;
-  transition: color 0.2s ease-in-out;
+  transition: 0.2s ease-out;
 
   &:hover,
   &:active,
   &:focus {
-    color: $color-alpha;
-    border-bottom-color: $color-alpha !important;
+    color: $color-black;
+    border-bottom-color: $color-black !important;
   }
 }
 
