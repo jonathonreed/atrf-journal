@@ -16,6 +16,8 @@ The process of capturing a moment of time feels more magical on those tiny canni
 
 Between my first roll of film and the second, a dear friend introduced me to this incredible place called <a href="http://downtowncamera.com" target="blank">Downtown Camera</a>.
 
+<img src="../img/2017/04/03/downtown-camera-journal.png" width="100%">
+
 All of my rolls since have been developed there and I can&rsquo;t quite begin to articulate the wondrousness of this business. I can recognize most of the staff by their voice on the phone, they actually spell my last name correctly each time (a feat for spelling as well as for consistency), and it has never occurred to me, even when I haven&rsquo;t lived in Toronto to get my film developed anywhere else. They&rsquo;ve got a lifelong customer in me.
 
 We&rsquo;ve been very fortunate, in many regards, to carefully choose who we&rsquo;d like to work with on this wildly ambitious project. Our idealism and na&iuml;vet&eacute; has come across a whole lot of no-responses, an overwhelming number of no&rsquo;s, and a few select and precious affirmatives, &ldquo;Yes, of course.&rdquo;
