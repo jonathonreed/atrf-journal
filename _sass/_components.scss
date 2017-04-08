@@ -433,6 +433,11 @@
     }
   }
 
+	p {
+		text-align: justify;
+		text-align-last: left;
+	}
+	
   p:first-child {
   }
 
@@ -443,6 +448,10 @@
   img {
     margin: 2em 0;
   }
+	
+	img.logo {
+		width: auto;
+	}
 
   figure {
     margin: 2em 0;
