@@ -21,7 +21,7 @@ I connected with Dali and Finn, who had started a clothing company to address ed
 
 When I knew him, Ben was a fun-loving kid with natural charisma and a knack for making people laugh. Younger kids looked up to him. He wore his baseball hat backwards and shirts that were too big. Now he&rsquo;s changing the world.
 
-<img src="http://astheravenfli.es/journal/img/2017/04/tri-240-web.png" class="logo" width="240" style="float:right;margin:0 1em;">
+<img <a href="http://www.trihandkerchiefs.com/" target="blank">src="http://astheravenfli.es/journal/img/2017/04/tri-240-web.png" class="logo" width="240" style="float:right;margin:0 1em;"></a>
 
 TRI Handkerchiefs is focused on deforestation, habitat loss in Indonesia. TRI educates and empowers people to make sustainable choices in their daily lives, and donates 100% of their profits to grassroots organizations impacting positive change in Borneo, Kalimantan and other islands.
 
