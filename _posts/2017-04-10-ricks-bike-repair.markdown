@@ -19,6 +19,8 @@ It&rsquo;s not an uncommon direction for the conversation to go. At this point I
 
 Contrast Rick. He looked us up and down, said, &ldquo;Sounds great guys, when do you leave?&rdquo; Then started talking about cadence, tire options and weight conversions.
 
+<img src="http://astheravenfli.es/journal/img/2017/04/ricks-240-web.png" class="logo" width="240" style="float:right;margin:0 1em;">
+
 <a href="http://ricksbikerepair.ca" target="blank">Rick&rsquo;s Bike Repair</a> is a local bike shop just a short ride from our home base in Kingston. In the months leading up to our departure, it became a constant source of knowledge, support, gear and training. Rick had guidance on every element of long-distance touring that we&rsquo;d thought of, and plenty we hadn&rsquo;t. More than a few times Asad and I had a discussion that concluded with a pause and, &ldquo;We should ask Rick.&rdquo;
 
 <img src="http://astheravenfli.es/journal/img/2017/04/IMG_9476-JCR-2000-web.jpg">
