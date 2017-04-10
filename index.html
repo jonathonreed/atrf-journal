@@ -4,6 +4,10 @@ layout: default
 <section class="previews">
   <div>
     {% for post in paginator.posts %}
+	  <a class="nav nav--white" href="http://astheravenfli.es">
+      <i class="fa fa-lg fa-arrow-left"></i>
+      <span>Back to Main Site</span>
+    </a>
       <figure class="absolute-bg preview__img" style="background-image: url('{{ post.image }}');"></figure>
     {% endfor %}
     <div class="previews__container">
