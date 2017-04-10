@@ -473,6 +473,32 @@ padding: 1em;
 /**
  * Profile Card
  */
+
+.subscribe {
+	width: 90%;
+	max-width: $mq-md;
+	margin: -2em auto 0 auto;
+	padding-bottom: 4em;
+	text-align: left;
+	
+	@media (min-width: $mq-lg) {
+		width: 55%;
+	}
+	
+	&__card {
+		@include box-shadow(1px);
+		
+		display: flex;
+		padding: 1em;
+	  background-color: $color-white;
+	}
+	
+	&__card .content-description p {
+		width: 100%;
+		text-align: left;
+		text-align-last: left;
+	}
+}
 .profile {
   width: 90%;
   max-width: $mq-md;
@@ -486,8 +512,8 @@ padding: 1em;
   &__card {
     @include box-shadow(1px);
 
-    display: flex;
-    flex-direction: column;
+	  display: flex;
+	  flex-direction: column;
 
     @media (min-width: $mq-md) {
       flex-direction: row;

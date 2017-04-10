@@ -158,3 +158,138 @@ ol, ul {
   background-color: $color-alpha;
   text-shadow: none;
 }
+
+/* Mailchimp */
+
+#mc_embed_signup {
+		clear: left;
+		width:100%;
+	}
+
+	#mc_embed_signup form {
+		margin: 0;
+		padding: 0 0 0.4em 0;
+		text-align: left;
+	}
+
+	.mc-field-group {
+		display: inline-block;
+	} /* positions input field horizontally */
+
+	#mc_embed_signup input.email {
+		box-sizing: border-box;
+		display: inline-block;
+		width: 20em;
+		height: 1.8em;
+		padding: 0px 0.4em;
+		margin: 0;
+		border: none;
+		-webkit-border-radius: 1px;
+		-moz-border-radius: 1px;
+		border-radius: 1px;
+		background-color: $color-grey;
+		font-size: 1em;
+		color: #202020;
+		vertical-align: top;
+		text-align: left;
+		text-align-last: left;
+	}
+
+	#mc_embed_signup label {
+		display: block;
+		padding-bottom: 1em;
+		font-size: 1em;
+		font-weight: bold;
+	}
+
+	#mc_embed_signup .clear {
+		display: inline-block;
+	} /* positions button horizontally in line with input */
+
+	#mc_embed_signup .button {
+		box-sizing:border-box;
+		display: inline-block;
+		height: 1.8em;
+		margin: 0;
+		padding: 0 1.2em;
+		border: none;
+		-webkit-border-radius: 1px;
+		-moz-border-radius: 1px;
+		border-radius: 1px;
+		background-color: $color-grey;
+		font-weight: 400;
+		font-size: 1em;
+		color: #404040;
+		transition: 0.2s ease-out;
+	}
+
+	#mc_embed_signup input.button:hover {
+		color: $color-white;
+		background-color: $color-alpha;
+	}
+
+	#mc_embed_signup .button:hover {
+		background-color: #777;
+		cursor: pointer;
+	}
+
+	#mc_embed_signup div#mce-responses {
+		float: left;
+		clear: both;
+		top: -1.4em;
+		width: 90%;
+		margin: 0 5%;
+		padding: 0em .5em 0em .5em;
+		overflow: hidden;
+	}
+
+	#mc_embed_signup div.response {
+		float: left;
+		top: -1.5em;
+		width:80%;
+		margin: 1em 0;
+		padding: 1em .5em .5em 0;
+		font-weight: bold;
+		z-index: 1;
+	}
+
+	#mc_embed_signup #mce-error-response {
+		display:none;
+	}
+
+	#mc_embed_signup #mce-success-response {
+		display:none;
+		color: #529214;
+	}
+
+	#mc_embed_signup label.error {
+		display: block;
+		float: none;
+		width: auto;
+		margin-left: 1.05em;
+		padding: .5em 0;
+		text-align: left;
+	}
+
+	@media (max-width: 768px) {
+
+		#mc_embed_signup input.email {
+			width:80%;
+			margin-bottom: 0 auto;
+			padding: 0.3em;
+			text-align: center;
+		}
+
+		#mc_embed_signup .clear {
+			display: block;
+			width: 80%;
+			margin: 0 auto;
+			padding: 0.3em;
+		}
+
+		#mc_embed_signup .button {
+			width: 100%;
+			margin:0 auto;
+		}
+
+	}
