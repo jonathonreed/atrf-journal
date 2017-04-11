@@ -18,9 +18,11 @@ We researched the issue a fair amount, with various different considerations and
 
 Aside from two folding solar panels and the multitude of adapters for each of the different battery types we've got, we'll have in our bags two beautiful batteries which will charge from the solar panels or a wall outlet. Ready to get our thirsty devices some juice. 
 
-<img src="http://astheravenfli.es/journal/img/2017/04/IMG_9476-JCR-2000-web.jpg">
-<img src="http://astheravenfli.es/journal/img/2017/04/IMG_9457-JCR-2000-web.jpg">
+<img src="http://astheravenfli.es/journal/img/2017/04/IMG_8526-JCR-2000-web.jpg">
+<img src="http://astheravenfli.es/journal/img/2017/04/IMG_8538-JCR-2000-web.jpg">
 
 Voltaic Systems prioritizes adaptability, being able to charge as many different devices as possible, ruggedness, keeping their customers going in the most difficult of environments, and conserving resources in as environmentally friendly a manner as possible. All of these are high priorities for us on this expedition as well.  
 
 Not all days are going to be sunny, far from it though one can hope, but when the sun is in the sky and we're basking in those rays, we'll be ready to store them as well as soak them.
+
+*We're not actually too worried about Polar Bears though people keep bringing them up lately.
