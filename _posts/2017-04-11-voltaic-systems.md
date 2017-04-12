@@ -5,7 +5,7 @@ author: ac
 date: 2017-04-11
 categories:
   - Partners
-description: When the sun shines, we'll be ready to soak it up.
+description: When the sun shines, we’ll be ready to soak it up.
 image: http://astheravenfli.es/journal/img/2017/04/IMG_8538-JCR-2000-web.jpg
 image-sm:
 ---
