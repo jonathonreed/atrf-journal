@@ -439,6 +439,10 @@
 	
 	img.logo {
 		width: auto;
+		
+		@media (min-width: $mq-md) {
+			margin: 1em auto;
+		}
 	}
 
 	figure {
