@@ -270,8 +270,12 @@ ol, ul {
 
 	@media (max-width: 768px) {
 
+		#mc_embed_signup {
+			width: 100%;
+		}
+		
 		#mc_embed_signup input.email {
-			width:80%;
+			width: 100%;
 			margin-bottom: 0 auto;
 			padding: 0.3em;
 			text-align: center;
@@ -279,14 +283,15 @@ ol, ul {
 
 		#mc_embed_signup .clear {
 			display: block;
-			width: 80%;
+			width: 100%;
 			margin: 0 auto;
-			padding: 0.3em;
+			padding: 0.3em 0;
 		}
 
 		#mc_embed_signup .button {
 			width: 100%;
-			margin:0 auto;
+			margin: 0 auto;
+			text-align: center;
 		}
 
 	}
