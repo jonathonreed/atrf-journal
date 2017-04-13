@@ -30,7 +30,7 @@ The quote itself is one which I haven't been able to chase down an attribution f
 <blockquote>
 	"Until bears have storytellers 
 	tales will only be told 
-	of the hunter's bravery.""
+	of the hunter's bravery."
 </blockquote>
 
 History is written by the victors and the reports from the minorities and the marginalized are a lot more elusive. We're trying to continue this work and find and learn about these bear stories because history is also alive in the way we remember it and in the manner we retell it.
