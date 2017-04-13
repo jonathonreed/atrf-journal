@@ -12,7 +12,7 @@ image-sm:
 
 Counting down the days (11!) before we depart from our homebase and hit the road. 
 
-Aside from the logistics, the research, and last-minute delays around inventory, we're also pedaling rapidly to fulfil our reward shipments to backers from our crowdfunding campaign.
+Aside from the logistics, the research, and last-minute delays around inventory, we're also pedaling as fast as we can to fulfil our reward shipments to backers from our crowdfunding campaign.
 
 We knew from the very beginning that we'd love to offer a letterpress poster for one of the reward tiers and couldn't think of anyone other than Vince of <a href="http://everlovinpress.com">Everlovin' Press</a>. 
 
@@ -28,11 +28,11 @@ Having seen his work around town, consistently being impressed, and now having s
 The quote itself is one which I haven't been able to chase down an attribution for aside from <a href="https://twitter.com/tejucole/status/389825695125229568">a similar Teju Cole tweet</a>.
 
 <blockquote>
-	Until bears have storytellers 
+	"Until bears have storytellers 
 	tales will only be told 
-	of the hunter's bravery.
+	of the hunter's bravery.""
 </blockquote>
 
-History is written by the victors and the reports from the minorities and the marginalized is a lot more elusive. We're trying to continue this work and find and learn about these bear stories. 
+History is written by the victors and the reports from the minorities and the marginalized are a lot more elusive. We're trying to continue this work and find and learn about these bear stories because history is also alive in the way we remember it and in the manner we retell it.
 
 This poster is a visual and textured reminder, at 11 by 17 it isn't quite small enough to carry around, but we'll certainly be keeping it close to the top of our minds and hearts.
