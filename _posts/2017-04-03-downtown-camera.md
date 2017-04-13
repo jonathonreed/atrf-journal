@@ -20,6 +20,8 @@ Between my first roll of film and the second, a dear friend introduced me to thi
 
 All of my rolls since have been developed there and I can&rsquo;t quite begin to articulate the wondrousness of this business. I can recognize most of the staff by their voice on the phone, they actually spell my last name correctly each time (a feat for spelling as well as for consistency), and it has never occurred to me, even when I haven&rsquo;t lived in Toronto to get my film developed anywhere else. They&rsquo;ve got a lifelong customer in me.
 
+<img src="http://astheravenfli.es/journal/img/2017/04/03-02-AC-2000-WEB.jpg">
+
 We&rsquo;ve been very fortunate, in many regards, to carefully choose who we&rsquo;d like to work with on this wildly ambitious project. Our idealism and na&iuml;vet&eacute; has come across a whole lot of no-responses, an overwhelming number of no&rsquo;s, and a few select and precious affirmatives, &ldquo;Yes, of course.&rdquo;
 
 So, of course, I&rsquo;m thrilled to write that we&rsquo;ll be trekking across this vast landscape with a few undeveloped rolls, more rolls than I&rsquo;ve ever shot actually, and we&rsquo;ll be shipping them from as many corners as we encounter to be developed by Downtown Camera in the most diverse city in the country and to share with you.
