@@ -5,7 +5,7 @@ author: jcr
 date: 2017-04-14
 categories:
   - History
-description: We’re both outdoor athletes and filmmakers. PolarPro helps bridge the gap.
+description: Knowing what I know now, I treasure the land-based stories of my youthful adventures and imagination, and I also carry the painful, defining history that precedes them.
 image: http://astheravenfli.es/journal/img/2017/04/04141701-2000-web.jpg
 image-sm:
 ---
