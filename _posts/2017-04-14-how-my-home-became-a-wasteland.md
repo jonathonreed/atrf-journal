@@ -4,7 +4,7 @@ title: "How My Home Became a Wasteland"
 author: jcr
 date: 2017-04-14
 categories:
-  - Partners
+  - History
 description: We’re both outdoor athletes and filmmakers. PolarPro helps bridge the gap.
 image: http://astheravenfli.es/journal/img/2017/04/04141701-2000-web.jpg
 image-sm:
