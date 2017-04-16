@@ -4,7 +4,7 @@ title: "As The Raven Flies Patch"
 author: ac
 date: 2017-04-15
 categories:
-  - Partners
+  - Product
 description: Limited edition patch.
 image: http://astheravenfli.es/journal/img/2017/04/IMG_8639-AC-2000-WEB.jpg
 image-sm:
