@@ -16,7 +16,7 @@ I thought I knew my home.
 
 And in the context of my short life at 9 or 10 years old, perhaps I did. But even then the land had seen centuries I never imagined, and I'm not ashamed to admit that I didn't have any idea of its history, nor did I even suspect that there was a history worth knowing. That changed in the last few years, with two major learning experiences that transformed my sense of place and brought ongoing issues of stewardship, sustainability and Indigenous rights right against my heart.
 
-<h2>A Land of Treaties</h2>
+<h2 class="grey">A Land of Treaties</h2>
 As a kid and a young teenager, I knew my property had been abandoned by its previous owners in the 1960s, and that was it. It never occurred to me to wonder who or what had preceded that.
 
 Colonialism at its finest. 
@@ -32,7 +32,7 @@ As I learned this, I figured it wasn't completely applicable to the specific pla
 
 I wasn't wrong in thinking our land was undesirable. I was, however, wrong in thinking it had always been that way.
 
-<h2>A Land of Fire</h2>
+<h2 class="grey">A Land of Fire</h2>
 "The land itself," writes Vernon LeCraw, "was covered by virgin forest, the growth of ventures in which only the biggest and best of the trees had survived. This is especially true where the great white pine held sway—and they were most numerous of all, particularly in Digby. The park-like forests teemed with wildlife." He goes on to describe wild pigeons darkening the sun, the waters swarming with fish, beaver, otter, ducks and geese; and the forest holding game in quantities akin to paradise.
 
 LeCraw notes the remnants of a five-mile deer fence, designed and laborously constructed to hunt deer effectively, presumably by the dozen Indigenous villages and camps nearby. This clearly wasn't a bleak waypoint, as I had thought. This was a land of abundance, held in balance by the long-term stewardship of its inhabitants.
