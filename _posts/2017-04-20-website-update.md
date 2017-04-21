@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Looking for Hosts in Newfoundland"
+title: "Website Update"
 author: jcr
-date: 2017-04-19
+date: 2017-04-20
 categories:
-  - Personal
+  - Product
 description: Still hovering around freezing on the east coast.
 image: http://astheravenfli.es/journal/img/2017/04/IMG_8664-JCR-2000-web.jpg
 image-sm:
 ---
 
-We have been blessed to receive an outpouring of folks offering to take us in along our route since we started sharing content related to this trip. From St. John's to the Sault to Whitehorse and so many places* in between.
+We've been working hard to tie up loose ends before departing this weekend, and one of those loose ends has certainly been website development. It's been a gradual process of updates but we're happy to be able to announce the website is almost completely a go. Still need to fix a tiny bit of code for mobile users; other than that it's solid.
 
-The beginning of our route, however, is currently an empty list between St. John's and Cape Breton. This is an issue because that's where we'll be the least experienced and facing the adverse weather of early spring on the Atlantic. So if you or anyone you know has any leads for hosts in Newfoundland along Highway 1 (major stops are Arnold's Cove, Gander, Twilingate, Bishop's Falls, Corner Brook and Port-aux-Basques), please email <a href="mailto:jcr@chairsandtables.org">jcr@chairsandtables.org</a> or direct them to our <a href="http://astheravenfli.es/host-us/">host us</a> page.
+If you browse through the <a href="http://astheravenfli.es/about/">about</a> pages, you'll find new responsive navigation thanks to some template somewhere on the internet, with better styling thanks to Jonathon's creativity.
 
-Last week of prep. See you out there!
+More importantly, if you visit <a href="http://astheravenfli.es">the main site</a>, you'll find that the route has been completed and styled with huge thanks to our friend Phil(!), including two markers holding the place for many more to come. That map is our home base for the next six months. We invite you to bookmark it or make it your home page (seriously) to keep an eye on our progress as we fight our way through the headwinds and rainclouds of this distant northern landscape.
 
-*I nearly wrote 'everywhere' but&hellip;not quite.
+We've made significant headway with the rewards for our <a href="https://www.kickstarter.com/projects/asadch/as-the-raven-flies-cross-canada-cycle-tour/" target="blank">Kickstarter backers</a> and will have those ready to ship in the next couple days. Lastly, all our subscribers got our first expedition dispatch today. If you're not subscribed yet, the box is below.
