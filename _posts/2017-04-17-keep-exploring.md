@@ -24,7 +24,7 @@ So I want people to be able to imagine the 15,000-km route, because I want peopl
 
 <img src="http://astheravenfli.es/journal/img/2017/04/IMG_8630-JCR-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/04/keep-exploring-220-web.png" class="logo" width="220" style="float:right;margin:1em;">
+<a href="http://wekeepexploring.com"><img src="http://astheravenfli.es/journal/img/2017/04/keep-exploring-220-web.png" class="logo" width="220" style="float:right;margin:1em;"></a>
 
 Our partnership with <a href="https://www.wekeepexploring.com">Keep Exploring</a> is a way to do that. KE is a young company from the US dedicated to helping people find adventure in the everyday. Anti-routine, pro-encouragement, they've built a culture of authenticity and inspiration where everyone belongs and is called to love the wild spaces around them.
 
