@@ -30,7 +30,9 @@ It wasn't just a wonderful event for the programming but for the details in the 
 
 <img src="http://astheravenfli.es/journal/img/2017/04/IMG_8972-AC-web.jpg">
 
-It was a mix of tremendous sadness and moments of humour and how did we get here and where do we go from here, and yes, of corse, we will go together because that is the only way forward for us.
+It was a mix of tremendous sadness and moments of humour and how did we get here and where do we go from here, and yes, of course, we will go together because that is the only way forward for us. The stories that were shared resonated in our hearts. Facilitators and participants alike spoke about generational trauma, healing and hopes for the future.
+
+<blockquote>150 years ago, Canada was built through the skills and knowledge of our [Indigenous] ancestors. The same will be required of the next 150 years. <cite>Pytor Hodgson</cite></blockquote>
 
 There was an impressive Inuk teenager who taught us a little of the Inuit ways and lit the <a href="https://en.wikipedia.org/wiki/Kudlik">Kudlik</a>.
 
