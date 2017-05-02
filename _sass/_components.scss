@@ -465,7 +465,7 @@
 
 .log {
 	width: 100% !important;
-	margin: 1em 0;
+	margin: -4em 0 1em 0;
 	text-align: left;
     padding-bottom: 4em;
 	
@@ -473,17 +473,19 @@
 		width: 55%;
 	}
 	
-	&__card {	
+	&__card {
+		@include box-shadow(1px);
+		
 		display: flex;
         width: 100%;
 		padding: 1em;
+	  background-color: $color-white;
 	}
 	
 	&__card .content-description p {
 		width: 100%;
         font-family: 'Inconsolata';
         font-weight: 300;
-        color: $color-white;
 		text-align: left;
 		text-align-last: left;
 	}
