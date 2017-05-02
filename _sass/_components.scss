@@ -473,19 +473,17 @@
 		width: 55%;
 	}
 	
-	&__card {
-		@include box-shadow(1px);
-		
+	&__card {	
 		display: flex;
         width: 100%;
 		padding: 1em;
-	  background-color: $color-white;
 	}
 	
 	&__card .content-description p {
 		width: 100%;
         font-family: 'Inconsolata';
         font-weight: 300;
+        color: $color-white;
 		text-align: left;
 		text-align-last: left;
 	}
