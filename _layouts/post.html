@@ -31,10 +31,10 @@ layout: default
     <center>
       <div class="content-description">
       <p>
-        {{ page.beginning }} to {{ page.end }}<br>
-        {{ page.territory }}<br>
-        {{ page.distance }}<br>
-        {{ page.weather }}<br>
+        {% if page.beginning %}{{ page.beginning }} to {% if page.middle %}{{ page.middle }} to {% endif %}{{ page.end }}<br>{% endif %}
+        {% if page.territory %}{{ page.territory }}<br>{% endif %}
+        {% if page.distance %}{{ page.distance }}<br>{% endif %}
+        {% if page.weather %}{{ page.weather }}<br>{% endif %}
       </p>
 	</div>
     </center>
