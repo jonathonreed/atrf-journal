@@ -31,7 +31,7 @@ layout: default
     <center>
       <div class="content-description">
       <p>
-        {{ page.beginning }} to {{ page.middle }} to {{ page.end }}<br>
+        {{ page.beginning }} {% if page.middle == false %} to {{ page.end }}<br>
         {{ page.territory }}<br>
         {{ page.distance }}<br>
         {{ page.weather }}<br>
