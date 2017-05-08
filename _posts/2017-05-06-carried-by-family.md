@@ -5,7 +5,7 @@ author: jcr
 date: 2017-05-06
 categories:
   - Personal
-description: 
+description: We are privileged to be loved.
 image: http://astheravenfli.es/journal/img/2017/04/IMG_8732-JCR-2000-web.jpg
 image-sm:
 ---
