@@ -6,7 +6,7 @@ author: jcr
 date: 2017-05-09
 categories:
   - People
-description: 
+description: I’m a gender transformer.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_0558-atrf-jcr-2000-web.jpg
 image-sm:
 ---
