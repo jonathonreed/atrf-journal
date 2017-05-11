@@ -43,3 +43,5 @@ He's currently waiting on an order of expensive paper to keep printing. He likes
 <img src="http://astheravenfli.es/journal/img/2017/05/IMG_0342-atrf-jcr-2000-web.jpg">
 
 <img src="http://astheravenfli.es/journal/img/2017/05/IMG_0343-atrf-jcr-2000-web.jpg">
+
+You can find Michael on <a href="http://instagram.com/michaelciesielski" target="blank">Instagram</a>.
