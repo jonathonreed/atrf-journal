@@ -24,7 +24,7 @@ We got closer and eventually called out a greeting, leaving behind the bicycles 
 
 "We did," he replied with a mixture of insouciance and pride. "About thirty of us. We built it all."
 
-They were as interested in us as we were in them, and we talked about bicycling across Canada ("Dat's ahbsolutely cooked, man") and they talked about dirt biking after school ("Sometimes wit'out the school if we're fucked-like"). Eventually more teenagers came down from farther up the cliff, A.J. and Colin jumped to make tell the others that about us, and before we knew it we were down in the quarry shooting photos.
+They were as interested in us as we were in them, and we talked about bicycling across Canada ("Dat's ahbsolutely cooked, man") and they talked about dirt biking after school ("Sometimes wit'out the school if we're fucked-like"). Eventually more teenagers came down from farther up the cliff, A.J. and Colin jumped to tell the others about us, and before we knew it we were down in the quarry shooting photos.
 
 
 <img src="http://astheravenfli.es/journal/img/2017/05/IMG_0678-atrf-jcr-2000-web.jpg">
