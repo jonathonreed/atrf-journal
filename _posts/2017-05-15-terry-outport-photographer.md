@@ -17,7 +17,7 @@ I know this is sterotyping, but I hadn't expected to hear much about climate cha
 
 "We get icebergs when ice calves from Arctic ice sheets and glaciers," he said, "and that's happening faster than ever. Faster than scientists could have predicted. So we're getting entire glaciers breaking apart and sending ice to the northeast coast of Newfoundland." He gestured at the expanse of ice beyond the wharf, stretching out into the fog. "That's what this is. This isn't an accident. It's the new norm. We'll get more and more ice in the years to come, and then we'll get none at all."
 
-When I first met him he had struck up a conversation with Ray, an old fisherman on the wharf. I didn't catch the conversation in entirety because of their rough Newfoundland accents. ("We drop the 'h's where they belong," he explained with a laugh, "And pick them up where they don't.") What I did understand was that Ray was asking him who he belonged to, and Terry responded by naming his father, uncle and grandfather. Ray nodded his head, listening, "Know him," he said, "Know him."
+When I first met him he had struck up a conversation with Ray, an old fisherman on the wharf. I didn't catch the conversation in entirety because of their rough Newfoundland accents. ("We drop the 'h's where they belong," he explained with a laugh, "And pick them up where they don't.") What I did understand was that Ray was asking him who he belonged to, and Terry responded by naming his father, uncle and grandfather. Ray nodded his head, listening, "Know him," he said. "Know him."
 
 I wasn't surprised because I'd witnessed parts of similar conversations, but it was beautiful nonetheless. Terry's belonging was connected his family, and his family belonged to the land. To the ocean.
 
