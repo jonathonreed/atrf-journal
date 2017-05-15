@@ -10,7 +10,7 @@ image: http://astheravenfli.es/journal/img/2017/05/IMG_0324-atrf-jcr-2000-web.jp
 image-sm:
 ---
 
-Spent some time with an artist, Michael, who is currently operating out of St. Michael's Printshop in St. John's. His hands had less ink on them than I expected but they flipped through his tools just the same.
+Spent some time with an artist, Michael Ciesielski, who is currently operating out of St. Michael's Printshop in St. John's. His hands had less ink on them than I expected but they flipped through his tools just the same.
 
 "I'm going to get my MFA in woodcut printing and then hopefully open up my own studio somewhere. Maybe offer classes or work as a studio technician. It's not easy to make a living just by selling art."
 
