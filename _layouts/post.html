@@ -66,7 +66,7 @@ layout: default
       </div>
       {% endif %}
     {% endif %}
-        {% if page.author == 'ac' %}
+    {% if page.author == 'ac' %}
     <div class="profile__card">
       <div class="profile__img">
         <figure class="absolute-bg" style="background-image: url('{{ site.ac-profile_img }}');"></figure>
@@ -80,6 +80,24 @@ layout: default
             {% endif %}
             {% for ac-social in site.ac-social %}
               <li><a class="fa fa-lg fa-{{ ac-social[0] }}" href="{{ ac-social[1] }}" target="_blank"></a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endif %}
+	  {% if page.author == 'chat' %}
+    <div class="profile__card">
+      <div class="profile__img">
+        <figure class="absolute-bg" style="background-image: url('{{ site.chat-profile_img }}');"></figure>
+      </div>
+      <div class="profile__container">
+        <p>{{ site.chat-profile }}</p>
+        {% if site.chat-email or site.chat-social %}
+          <ul class="profile__social">
+            {% if site.chat-email %}
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.chat-email }}"></a></li>
+            {% endif %}
+            {% for chat-social in site.chat-social %}
+              <li><a class="fa fa-lg fa-{{ chat-social[0] }}" href="{{ chat-social[1] }}" target="_blank"></a></li>
             {% endfor %}
           </ul>
         {% endif %}

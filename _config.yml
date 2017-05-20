@@ -39,6 +39,14 @@ jcr-social:
   500px: http://500px.com/jonathonreed
   instagram: http://instagram.com/jonathonreed
   vimeo: http://vimeo.com/jonathonreed
+  
+chat-name: Chairs and Tables
+chat-profile_img: http://chairsandtables.org/img/IMG_9553-JCR-1920-web.jpg
+chat-profile: We&rsquo;re Jonathon Reed and Asad Chishti. Chairs and Tables is the name we operate under for collaborative work.
+chat-social:
+  facebook: http://facebook.com/chairsandtablesorg
+  twitter: http://twitter.com/chairstablesorg
+  instagram: http://instagram.com/chairstablesorg
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md", "vendor"]
