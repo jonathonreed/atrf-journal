@@ -6,7 +6,7 @@ author: chat
 date: 2017-05-21
 categories:
   - People
-description: 
+description: If nobody else hears my story, two more people have heard it and that is how change happens.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_1602-atrf-jcr-2000-web.jpg
 image-sm:
 ---
