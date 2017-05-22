@@ -11,116 +11,134 @@ image: http://astheravenfli.es/journal/img/2017/05/IMG_1602-atrf-jcr-2000-web.jp
 image-sm:
 ---
 
-We called Calvin and he offered to meet us on the Trans-Canada Highway at an upcoming gas-station restaurant. "Better put your jackets on," he remarked on the phone. "I can see the rain coming across the water. It's coming with the wind."
+"His name is Calvin White," the text from <a href="http://astheravenfli.es/journal/2017/05/09/day-009/" target="blank">Steph</a> said, "and he's an Elder in the Mi'kmaq community. He does a lot of speaking and storytelling and such all over Newfoundland and the Atlantic region."
+
+We called him on the phone while bicycling near Stephenville and he offered to meet us on the Trans-Canada Highway at an upcoming gas-station restaurant. "Better put your jackets on," he remarked. "I can see the rain coming across the water. It's coming with the wind."
+
+He met us in the parking lot and waved us indoors. We unpacked some recording gear and then stepped out of the rain, lining some of our wet gear against the diner's electric fireplace. There we sat for the next two hours, at a table near the window, listening to him talk. The smell of coffee wafted across the room and rain rippled on the puddles in the gravel parking lot.
+
+"My name is Calvin White," he began, "and I live about 20 kilometres from here in a little community called Flat Bay."
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323766555&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>My name is Calvin White and I live about 20 km from here in a little community called Flat Bay.</blockquote> 
+The first question Asad asked was related to Canada's 150th anniversary, and we quickly understood that Calvin would be pulling no punches. "I'm not about to celebrate the 150th," he said without hesitation. "I don't have any reason to celebrate the atrocities that have been brought on my people."
 
->>150 Years of Survival
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792426&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792426&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<blockquote>Thank God we've survived. That would be one thing to celebrate; we can celebrate our survival. Of colonialism taking over, because we have survived that, and its been a struggle and certainly nothing to celebrate. There is a real ignorance in society when it comes to a lot of the darker chapters of Canadian history. Especially the chapters that deal with the First Nations people.</blockquote>
 
-<blockquote>But from my perspective I'm not about to celebrate the 150th, Canada hasn't been that good to my people. So I don't feel like celebrating to me it's not a celebration.</blockquote> 
+Right away Calvin referred to a belief that we had heard on multiple occasions as we crossed Newfoundland, that there were no Indigenous people left on the island. This was the position of the Newfoundland government upon entering Confederation in 1949, and it continues today. Several non-Aboriginal Newfoundlanders had told us about the extermination of the <a href="https://en.wikipedia.org/wiki/Beothuk" target="_blank">Beothuk</a> in the early 19th century, but made no reference to the Mi'kmaq. This belief, as Calvin explained, was and is an act of denial.
 
-<blockquote>That would be one thing to celebrate, we can celebrate our survival. Of colonialism taking over, we can survive that, because we have survived that and its been a struggle and certainly nothing to celebrate. There is a real ignorance in society when it comes to a lot of the darker chapters of Canadian history. Especially the chapters that deal with the First Nations people.</blockquote>
+His battle for over three decades, therefore, was to gain legal recognition from the federal government in order to protect his people and his culture.
 
->>First Nations, Not Indian
+<blockquote>I didn't want Mi&rsquo;kmaq to go the way the Beothuk had went.</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792432&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+"I'm a First Nations person," he said, and you have to understand that for Calvin, that was a powerful statement, one that had been undermined and attacked by the government for his entire life. "We were brought into Canada."
 
-<blockquote>I never call myself an Indian, Indians are people who come from India.</blockquote>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792432&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>I'm a First Nations person, I'm an Aboriginal person.</blockquote>
+Calvin grew up in Flat Bay, an isolated community surrounded by two rivers, the Gulf of St. Lawrence and 90 miles of interior. Isolation brought various advantages and disadvantages; but with respect to the authorities of the provincial and federal government, Flat Bay was "out of sight, out of mind, and certainly out of reach." As a boy he practiced a traditional way of life, hunting and fishing and living off the land.
 
-<blockquote>We were brought into Canada.</blockquote>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792435&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
->>Indigenous History in Newfoundland
+That began to change in 1969, when Pierre Trudeau introduced the <a href="https://en.wikipedia.org/wiki/1969_White_Paper">White Paper</a> in attempt to erase 'Indian' as a legal identity.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792435&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<blockquote>We lost our isolation in 1960. [&hellip;] In 1969 we were already feeling the effects of forced assimilation or the intent to impose assimilation upon people. We were being eroded of our culture, our land was being stolen away from us, our language was being taken away from us.</blockquote>
 
-<blockquote>I was raised in an isolated community and having lived in an isolated community there were advantages.</blockquote>
+This attack on Calvin's way of life had already been going on in less isolated communities for years. Things like hunting and fishing regulations, land appropriation and residential schooling were taking place across Newfoundland, and were beginning to have an impact on the place he called home.
 
-<blockquote>The bureaucracy and the authorities never imposed themself on our community because we were out of sight, out of mind, and certainly, out of reach.</blockquote>
+<blockquote>That oppression was reaching my community, so that&rsquo;s what inspired me to take up the challenge of Aboriginal causes and get involved.</blockquote>
 
-<blockquote>I grew up practicing the traditional way of life, hunting and fishing and living off the land.</blockquote>
+To understand the effect of discrimination and assimilation on Mi'kmaq culture, you have to try to understand the culture in which Calvin grew up. Calvin wasn't coming from a place of poverty or dependence. He was proud of his identity, and had been for his entire life.
 
-<blockquote>We were already feeling the effects of forced assimilation or the intent to impose assimilation upon people. We were being eroded of our culture, our land was being stolen away from us, our language was taken away from us</blockquote>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792445&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>I don't have to tell you about the atrocities of the residential schools. I'm sure you've been exposed to that and have some knowledge of that.</blockquote>
+<blockquote>When you're a 10-year-old boy, if you can take the shovel and go down on the beach, and dig a bucket of clams and come home and have that for supper; how can anybody look at you and say you&rsquo;re in poverty and you need to get out of that poverty?</blockquote>
 
-<blockquote>That oppression was reaching my community so that's what inspired me to take up the challenge of Aboriginal causes and get involved.</blockquote>
+He listed over a dozen different fish they had available in Flat Bay, spoke of hunters providing the community's pregnant women with the best and most nutritious caribou meat, described the significance of traditional roles in the community. "You had people who took care of the dead, people who took care of the sick, people who took care of the hunting. There was always leadership in the community."
 
->>Growing Up On Caviar
+This is the leadership that was being eroded by the Canadian government—and it's that erosion to which Calvin responded.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792445&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792470&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>When you're a 10-year-old boy, if you can take the shovel and go down on the beach, and dig a bucket of clams and come home and have that for supper. How can anybody look at you and say you're in poverty and you need to get out of that poverty?</blockquote>
+<blockquote>I&rsquo;m going to travel around Newfoundland and organize Aboriginal people because we&rsquo;ve been denied, we&rsquo;ve been lied to, we&rsquo;ve been discriminated against. It&rsquo;s just been racism that we grew up with and I&rsquo;m not going to tolerate it anymore. I&rsquo;m going to challenge the bureaucracy.</blockquote>
 
->>Savages on the West Coast
+Challenging the government meant that the Mi'kmaq in Newfoundland had to gain legal status in order to advocate for themselves. Gaining the recognition of the federal government, however, meant that they had to prove their identity, which in turn meant that a lot of Calvin's work as a new chief was consumed in research. "In order to legitimize our existence, we had to find historical documentation to substantiate our existence."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792460&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+"The courts are colonial."
 
-<blockquote>Traveling Europeans ... mostly on fishing expeditions ... because of the connection that they made with our people ... they included them in a lot of their notes.</blockquote>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792460&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>All kinds of references mentioning our people ... it talked about the Mi’kmaq people of bay of St. George, it talked about the savages on the West Coast of Newfoundland, it talked about the jackie tars ... which was a derogatory term that was given to people who were lesser than other people.</blockquote>
+Mi'kmaq history is oral, so Calvin's research was predominantly based on the written accounts of travelling Europeans, mostly on fishing expeditions. Because of the connection that they made with the Mi'kmaq people, they included them in a lot of their notes.
 
->>Fishing Industry in Newfoundland
+<blockquote>They made all kinds of references mentioning our people. They talked about the Mi&rsquo;kmaq people of Bay of St. George, they talked about the savages on the west coast of Newfoundland, they talked about the Jackatars [&hellip;] which was a derogatory term that was given to people who were lesser than other people.</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792465&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+There were a number of stories that Calvin told that were particularly eye-opening, and his explanation of the term 'Jackatar' was one of them. It was a derogatory and racialized term that, set in the context of the Newfoundland Mi'kmaq, had a loaded history. "We won't call you First Nation," as Calvin put it, "because then we would have to deal with you according to our responsibility [in the Constitution], and we don't want to call you Canadians because you're certainly not like us. So we'll call you a Jackatar. [&hellip;] Uneducated, lazy, ignorant, thieving."
 
-<blockquote>Instead of Aboriginal people being integrated into colonial society or colonial thinking, it was the opposite. Rural Newfoundlanders survived because they adopted an Aboriginal way of life. That's why rural Newfoundland was so thriving and made such a contribution to the building of the capitalism that we now have serving us.</blockquote>
+The term 'Jackatar' wasn't some accidental cultural slang. It was an intentional tool used to discredit the Mi'kmaq and maintain the government's oppression.
 
-<blockquote>Built on the backs of Newfoundland fisherman: Aboriginal and Non-Aboriginal. People who got up at 4 o'clock in the morning and risked their lives to bring money in that ended up with the merchants of St. John's.</blockquote>
+Another eye-opening story was Calvin's account of the fishing industry in Newfoundland. While we were <a href="http://astheravenfli.es/journal/2017/05/10/day-010/" target="blank">in Twillingate</a> we had realized that the island's history of fishing stretched far beyond the collapse of the Atlantic cod in the late 20th century. (Jonathon reflected on it briefly in <a href="https://ello.co/jonathonreed/post/ynupi7-tz4j2vhmdxwunua" target="_blank">a post on Ello</a>.) From Calvin's perspective, the devastation of the fishery had a clear culprit. It wasn't rural Newfoundlanders.
 
-<blockquote>So the relationship was phenomenal, it was an excellent relationship.  We needed their money or we needed their shoes or we needed their clothing. My grandmother used to carry berries to Sandy Point and she wouldn't come back with cash, she'd come back with a backload of clothes that she could cut over for children, for her grandchildren.</blockquote>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792465&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
->>The Decision
+<blockquote>Instead of Aboriginal people being integrated into colonial society or colonial thinking, it was the opposite. Rural Newfoundlanders survived because they adopted an Aboriginal way of life. That&rsquo;s why rural Newfoundland was so thriving and made such a contribution to the building of the capitalism that we now have.</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792470&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+The economy of Newfoundland, he said, was "built on the backs of Newfoundland fisherman, Aboriginal and non-Aboriginal. People who got up at 4 o'clock in the morning and risked their lives to bring in money that ended up with the merchants of St. John's."
 
-<blockquote>I'm going to travel around Newfoundland and organize Aboriginal people because we've been denied, we've been lied to, we've been discriminated against, just been racism that we grew up with and I'm not going to tolerate it anymore. I'm going to challenge the bureaucracy.</blockquote>
+Calvin spoke highly of the relationship between Indigenous communities and the rural Newfoundland fisherman. It was a relationship of interdependence, with the people of Flat Bay trading things from the interior like meat and berries in return for clothing and manufactured supplies. "My grandmother used to carry berries to Sandy Point and she wouldn't come back with cash, she'd come back with a backload of clothes that she could cut over for children, for her grandchildren."
 
->>Indigenous Culture
+The collapse of the fishing industry was bigger than that.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792482&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<blockquote>The government has this mentality that big is better, and from their perspective probably so. But for people that live in rural Newfoundland, and especially in Aboriginal communities, big is not always better. Big is destructive.</blockquote>
 
-<blockquote>Culture is not smoking a pipe or using sweetgrass or smudging, that's only one. That is the spiritual aspect of culture. Culture is holistic, it's how you live, it's the things you eat, the knowledge of how you prepare food, how do you relate to your neighbour, how do you relate to your family, that's what culture is.</blockquote>
+He spoke of foreign fleets and large draggers owned by wealthy merchants in St. John's destroying rural Newfoundland. While rural fisherman had been satisfied with their income for generations, the government "handed the quotas to larger corporations." That's when overfishing became an issue.
 
->>Preservation
+It was a question of who had control, and what they did with that control. The oligarchs funding the provincial and federal political parties were at odds with the culture of rural fishermen and Indigenous communities.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792495&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792482&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>As important as our education system is, our education system fails to teach us about preservation.</blockquote>
+<blockquote>Culture is not smoking a pipe or using sweetgrass or smudging, that&rsquo;s only one, that&rsquo;s the spiritual aspect of culture. Culture is holistic, it&rsquo;s how you live, it&rsquo;s the things you eat, the knowledge of how you prepare food, how do you relate to your neighbour, how do you relate to your family, that&rsquo;s what culture is.</blockquote>
 
->>Responsibility to Future Generations
+Indigenous culture in Newfoundland was intact when Calvin began mobilizing in 1970, but deteriorating fast. That deterioration was having consequences for the social well-being of First Nation communities as well as on the ecological stability of the island.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792502&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792495&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>We lose all sight of responsibility to the future generations and that's the battle, that's the struggle, that's the struggle to try to convince people that there are certain things we need to hang on to, we need to keep intact, there are values we need.</blockquote>
+<blockquote>As important as our [provincial] education system is, our education system fails to teach us about preservation.</blockquote>
 
->>The Next 150 Years
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792502&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792506&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<blockquote>We lose all sight of responsibility to the future generations and that&rsquo;s the battle, that&rsquo;s the struggle, that&rsquo;s the struggle to try to convince people that there are certain things we need to hang on to, we need to keep intact, there are values we need.</blockquote>
 
-<blockquote>I don't hold these people  responsible for what their forefathers done, I don't hold anybody in government responsible for what their forefathers done to our people, I hold them responsible for what they fail to do now.</blockquote>
+Calvin's values were present in everything he talked about, from his grandfather's teachings to the education of his children. He criticized materialism and corruption and governmental control. At one point he laughed a bit and paused. "I'm radical," he said, "I can't help it."
 
-<blockquote>What are we going to do in the next 150 years with our Aboriginal people. We're not going to celebrate the last 150 because we don't have anything to celebrate, what we have is a trail of broken promises.</blockquote>
+And yet he wasn't a nomadic rebel radicalized in the 1960s counterculture narrative. He came from an old tradition, a powerful sense of identity and a determination to protect it.
 
->>How Culture Survives
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792510&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792510&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+That determination gave him a sense of purpose that has lasted for the last 50 years. "I have not lost my passion for Aboriginal justice," he said clearly. "That is something that will remain, that I'll do until the Creator calls me. This is my life."
 
-<blockquote>Culture survives because it embraces not because it overpowers.</blockquote>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792523&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
->>Shared Knowledge
+<blockquote>This was another teaching of my grandfather, that knowledge that is withheld is of no value, knowledge is meant to be shared. [&hellip;] If you share it, it won&rsquo;t be lost.</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792523&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+"Now having said that," he added with a laugh, "don't ask me about my favourite fishing hole because I'm not going to tell you."
 
-<blockquote>This was another teaching of my grandfather is that knowledge that are withheld is of no value, knowledge is meant to be shared ... now having said that, don't ask me about my favourite fishing hole because I'm not going to tell you that's not knowledge. Knowledge is how big are the fish there.</blockquote>
+Having fought for decades to create the Qalipu First Nation, to oppose the government's inadequate registration process, to mobilize First Nations in Newfoundland and rebuild the Mi'kmaq people, Calvin spoke of his responsibility to share his knowledge and his story.
 
->>Responsibility of Storytelling
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792534&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792534&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<blockquote>That&rsquo;s part of my responsibility. I don&rsquo;t know you, I don&rsquo;t know what your project is about, I don&rsquo;t know who you were, but that&rsquo;s immaterial to me. If one other person or if nobody else hears my story, two more people have heard it and that is how change happens.</blockquote>
 
-<blockquote>That's part of my responsibility like I don't know you, I don't know what your project is about, I don't know who you were ... if one other person or if nobody else hears my story, two more people have heard it and that is how change happens.</blockquote>
+He described empowering Indigenous youth to do the same; to share their story, be proud of their identity and stand up for what they believe in. "We need a generation of young people, of Calvin Whites who are 30 years old." It wasn't a statement of pride, but a quiet reference to the sacrifices he had made, the unrelenting determination he had carried throughout his life, and the reality of being 74 years old. Rather than handing on the torch, it felt like he was lighting as many torches as he could.
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792506&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+Calvin's eyes were fixed on the future.
+
+<blockquote>The way we move forward as a nation is, I don&rsquo;t hold these people  responsible for what their forefathers done, I don&rsquo;t hold anybody in government responsible for what their forefathers done to our people, I hold them responsible for what they fail to do now.</blockquote>
+
+He made reference to the 1969 White Paper again. "Trudeau's gone, he's dead," he said. "There is another Trudeau, though. I need to challenge him today. We're not going to celebrate the last 150 years because we don't have anything to celebrate, what we have is a trail of broken promises." 
+
+"What are you going to do now," he asked, directing his question at Justin Trudeau, "while you're in power? To set the example, to change the agenda, to change the status quo, to try to implement positive things for the next 150 years? That's what we need to do. That's what we have to do."
+
+<blockquote>He can do that. The government can do that.</blockquote>
