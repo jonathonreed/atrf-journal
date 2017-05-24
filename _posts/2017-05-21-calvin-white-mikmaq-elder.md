@@ -21,6 +21,8 @@ He met us in the parking lot and waved us indoors. We unpacked some recording ge
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323766555&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
+<img src="http://astheravenfli.es/journal/img/2017/05/IMG_7900-atrf-ac-2000-web.jpg">
+
 The first question Asad asked was related to Canada's 150th anniversary, and we quickly understood that Calvin would be pulling no punches. "I'm not about to celebrate the 150th," he said without hesitation. "I don't have any reason to celebrate the atrocities that have been brought on my people."
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/323792426&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
