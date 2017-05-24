@@ -5,7 +5,7 @@ title: "This Will Be Under Water"
 author: jcr
 date: 2017-05-24
 categories:
-  - Places
+  - Climate
 description: Learning about the consequences of climate change in a small coastal community.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_2011-atrf-jcr-2000-web.jpg
 image-sm:
