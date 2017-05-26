@@ -37,6 +37,8 @@ The coastal communities of Nova Scotia have been the focus of regional, provinci
 
 Scientists used 3D mapping data of the current coastline to predict sea level rise of <a href="http://www.capebretonpost.com/news/local/2013/1/9/cheticamps-climate-change-challenges-3153623.html" target="blank">1.1 metres by the year 2100</a> and possible storm surges of 3.78 metres for the area. As I read the data I stare at the wall across the table from me and imagine the harbour front of Chéticamp, trying to visualize what that meant. I can't.
 
+<img src="http://astheravenfli.es/journal/img/2017/05/cheticamp-2100-web.jpg">
+
 I come across <a href="http://www.cbc.ca/news/canada/nova-scotia/climate-change-sea-level-rise-environment-government-report-1.3961217" target="blank">an interview with Dalhousie marine biologist Boris Worm</a> explaining the significance of the 2016 report from United States National Oceanic and Atmospheric Administration. "Nova Scotia is at the losing end of this game," he said. "Even a single foot of sea level rise would increase the likelihood of these floods 25-fold, meaning it doesn't happen every five years it happens five times a year. Think about that. That means all the time. And that's just a foot—we're talking about eight feet."
 
 Later, I find a presentation that from what I can tell is related back to the 2013 study in Chéticamp. "The climate is changing," it reads, "and changes are already being felt."
@@ -56,3 +58,5 @@ I laughed. To be hopeful with the ocean rising beside you seems as foolhardy as 
 <img src="http://astheravenfli.es/journal/img/2017/05/IMG_2098-atrf-jcr-2000-web.jpg">
 
 <img src="http://astheravenfli.es/journal/img/2017/05/IMG_2107-pano-atrf-jcr-2000-web.jpg">
+
+<i>Thanks to Michel Soucy for sending a copy of the forecasted storm surge map for Chéticamp, providing feedback and corrections to the article, and for taking us to shoot photographs of the area. And for the lobster.</i>
