@@ -6,7 +6,7 @@ author: jcr
 date: 2017-05-27
 categories:
   - Places
-description: 
+description: A small collection of stories from Cape Breton Island.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_1864-atrf-jcr-2000-web.jpg
 image-sm:
 ---
