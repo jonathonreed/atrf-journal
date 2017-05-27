@@ -6,7 +6,7 @@ author: jcr
 date: 2017-05-26
 categories:
   - People
-description: 
+description: Honour who you are, where you come from.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_2347-atrf-jcr-2000-web.jpg
 image-sm:
 ---
