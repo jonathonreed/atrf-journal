@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Paul Prosper, Chief of Paqtnkek First Nation"
+title: "Paul Prosper, Chief of Paqtnkek Mi'kmaw Nation"
 author: jcr
 date: 2017-05-26
 categories:
@@ -11,7 +11,7 @@ image: http://astheravenfli.es/journal/img/2017/05/IMG_2347-atrf-jcr-2000-web.jp
 image-sm:
 ---
 
-When we reached the exit off the Trans-Canada Highway, the rain had been falling on mainland Nova Scotia for a couple hours. Vehicles spun up a 100-km/h mist of water and gravel, passing with an ever-present roar of wet tires on asphalt. It was a mild relief to get onto the relative peace of the small highway to Paqtnkek First Nation.
+When we reached the exit off the Trans-Canada Highway, the rain had been falling on mainland Nova Scotia for a couple hours. Vehicles spun up a 100-km/h mist of water and gravel, passing with an ever-present roar of wet tires on asphalt. It was a mild relief to get onto the relative peace of the small highway to Paqtnkek Mi'kmaw Nation.
 
 "Ke'Kijka Naqata'q Wjit Mij'uajijk," the first sign in the community read. "Slow Down For The Children."
 
@@ -25,7 +25,7 @@ Paul introduced himself, and with that introduction came an acknowledgment of th
 
 <blockquote>We have a long history on this land, within this traditional territory known before concepts and terms like Canada and Nova Scotia. We refer to our traditional territory as Mi&rsquo;kma&rsquo;ki.</blockquote>
 
-As he started describing the demographics of Paqtnkek First Nation, he described an important part of their culture as well. "Community is not a physical place," he said, "but a spirit that exists within the hearts of the people."
+As he started describing the demographics of Paqtnkek Mi'kmaw Nation, he described an important part of their culture as well. "Community is not a physical place," he said, "but a spirit that exists within the hearts of the people."
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628856&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -73,11 +73,11 @@ When he spoke of youth he referred to a momentum of change, the idea that change
 
 Paul explained that he often tries to think of opportunities for youth to grow and take on leadership, and tries to be cognisant of where the youth in his community are at, to take into account their needs. "One of the things that keeps me up at night is the complexity of drugs and addictions. When I was young, there wasn't that many things to be really addicted to, but nowadays the list goes on and on. You're really waiting for the next drug fentanyl to come around, and what are we going to do about that? To ensure that there's proper supports within communities."
 
-I'm not quoting that to connect the youth in Paqtnkek First Nation to drug usage. As an educator, nearly every adult I know who works with young people is aware of and concerned about drugs like fentanyl, so it was impactful to hear a Chief speak clearly and authentically about it and the ways he tries to watch out for the youth in his community.
+I'm not quoting that to connect the youth in Paqtnkek Mi'kmaw Nation to drug usage. As an educator, nearly every adult I know who works with young people is aware of and concerned about drugs like fentanyl, so it was impactful to hear a Chief speak clearly and authentically about it and the ways he tries to watch out for the youth in his community.
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628930&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-Paul also described the importance of tradition in Paqtnkek First Nation, both the revival of old traditions and the creation of new ones. "New ceremony will get us where we need to go. [&hellip;] There's often a balance to respect and honour tradition, to value it for what it means to us as a community and as a nation. But on the other side of the balance is the need to create new tradition."
+Paul also described the importance of tradition in Paqtnkek Mi'kmaw Nation, both the revival of old traditions and the creation of new ones. "New ceremony will get us where we need to go. [&hellip;] There's often a balance to respect and honour tradition, to value it for what it means to us as a community and as a nation. But on the other side of the balance is the need to create new tradition."
 
 An example of an old tradition being revitalized was the concept of <i>netukulink</i>, which doesn't really have a good translation into English. It's a concept that emerged from the coexistence between the Mi'kmaq and <i>sitkamu</i>, their earth mother; a way of not only looking at their right to the land but also their responsibility to care for it. "It is like a sacred trust. That translates into the manner by which you function within nature, within the environment, within this wonderful place."
 
