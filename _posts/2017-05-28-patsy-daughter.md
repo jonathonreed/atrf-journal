@@ -6,7 +6,7 @@ author: jcr
 date: 2017-05-28
 categories:
   - People
-description: 
+description: Summers come, butterflies grow, and mothers love their daughters.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_1034-atrf-jcr-2000-web.jpg
 image-sm:
 ---
