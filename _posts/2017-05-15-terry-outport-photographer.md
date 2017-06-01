@@ -6,7 +6,7 @@ author: jcr
 date: 2017-05-15
 categories:
   - People
-description: “Visit outport Newfoundland, see it firsthand before it disappears.”
+description: Visit outport Newfoundland, see it firsthand before it disappears.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_1297-atrf-jcr-2000-web.jpg
 image-sm:
 ---

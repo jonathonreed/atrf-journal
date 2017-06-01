@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Everlovin' Press"
+title: "Everlovin’ Press"
 author: ac
 date: 2017-04-12
 categories:
