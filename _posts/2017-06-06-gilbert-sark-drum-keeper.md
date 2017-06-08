@@ -6,7 +6,7 @@ author: chat
 date: 2017-06-06
 categories:
   - People
-description: 
+description: The first Raven we have spoken to.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_2612-atrf-jcr-2000-web.jpg
 image-sm:
 ---

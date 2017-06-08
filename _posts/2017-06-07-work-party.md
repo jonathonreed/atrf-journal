@@ -6,7 +6,7 @@ author: jcr
 date: 2017-06-07
 categories:
   - Culture
-description: 
+description: We can accomplish a whole lot when we work together.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_8895-atrf-ac-2000-web.jpg
 image-sm:
 ---
