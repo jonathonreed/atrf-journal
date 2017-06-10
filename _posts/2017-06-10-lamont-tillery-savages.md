@@ -33,7 +33,7 @@ It is, to be blunt and direct, wonderful to talk to a person of colour in this i
 To paraphrase Lamont on a few things:
 <blockquote>Canadians should recognize the value they have and bring to the world stage. What a nation is, in many ways, represented by what they aspire towards. Rather than trying to be more like other nations, particularly the States, I'd love to see Canada really growing up to be itself.</blockquote>
 
-He told a story of himself growing up in high school, in a very sincere way, of not realizing that he was more popular than he thought he was. Mostly, he realized, in hindsight because he was just being himself. 
+He told a story of himself growing up in high school, in a very sincere way, of not realizing that he was more popular than he actually believed he was. Mostly, he realized, in hindsight because he was just being himself. 
 
 <blockquote>The more recent history of the US with slavery taints our history, Canada while it may have no shortage of it's own darker chapters holds a different place.</blockquote>
 
