@@ -25,7 +25,7 @@ Then, as part of a university First Nations history course, I was tasked with re
 
 I never knew they existed.
 
-<blockquote>"Our ancestors acquiesced cheerfully in the belief that they could hunt where and when they wished—“as long as the grass grows and the water runs”—so ran the agreement signed by Indian chiefs and representatives of His Majesty's Government. This was the law and promise which our ancestors deemed invulnerable as the laws of the Medes and Persians, but which later proved to be only a scrap of paper."<cite>
+<blockquote>&ldquo;Our ancestors acquiesced cheerfully in the belief that they could hunt where and when they wished&mdash;&lsquo;as long as the grass grows and the water runs&rsquo;&mdash;so ran the agreement signed by Indian chiefs and representatives of His Majesty&rsquo;s Government. This was the law and promise which our ancestors deemed invulnerable as the laws of the Medes and Persians, but which later proved to be only a scrap of paper.&rdquo;<cite>
 Mary Jane Muskratte Simpson, A History of the Rice Lake Indians</cite></blockquote>
 
 As I learned this, I figured it wasn't completely applicable to the specific place I called home. It just wasn't good land. How many Indigenous people could really have made a living on that barren granite and shallow rock-filled soil? At the most it would have been a waypoint between more desirable destinations.
@@ -41,7 +41,7 @@ It didn't last. The ruins of their villages lingered, but are now lost to the wi
 
 By the mid-19th century, huge demand for timber in the United States and Britain brought the lumber industry along the rivers and lakes of interior Ontario to the Northern Townships. Settlement, infrastructure and devastation followed.
 
-<blockquote>"The story of Longford Township is one of tall pine timber, crashing logs on flooding waters, sturdy lumberjacks and raging forest fires. It is the story of the South Ontario lumber industry itself." <cite>Frances Laver, Longford Township Made a Lumber Empire</cite></blockquote>
+<blockquote>&ldquo;The story of Longford Township is one of tall pine timber, crashing logs on flooding waters, sturdy lumberjacks and raging forest fires. It is the story of the South Ontario lumber industry itself.&rdquo;<cite>Frances Laver, Longford Township Made a Lumber Empire</cite></blockquote>
 
 I don't know the details of the saga of the Longford Lumber Company, but I know that it pillaged this area with an annual output of twenty-eight million feet of pine in two mills alone, supplying the US and Britain with the lifeblood of empire. As local historian Watson Kirkconnell writes, "The lumberman’s axe echoed through the forests from the Kawartha Lakes north to Laxton and Longford and far beyond." By the first decades of the 20th century, the magnificent forests were exhausted, their remains ravaged by forest fires and the country "left in its naked sterility of scarred rock."
 
