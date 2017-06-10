@@ -12,6 +12,8 @@ image-sm:
 ---
 A brief snippet from the incredible spot which is [Savage's Bicycle Centre](https://sbcoutlet.com/), they've got [a great instagram account](), [Facebook](https://www.facebook.com/SavagesBikeCentre), and [Twitter](https://twitter.com/SavagesBikeShop). 
 
+***
+
 A stitch in time saves nine, the old adage goes. After hearing from the cycle shop in Antigonish about the importance of retensioning our spokes more regularly with all the weight we're carrying, we're taking a more proactive approach to the entire situation. 
 
 When we rolled into town in Fredericton, our incredible host knew exactly which shop should be our spokes-person. Little did I know what I was walking into. The photos which follow aren't the greatest but in part because I have a strong sense that I will be back here not too far into the future. But I feel that a lot on this tour.
