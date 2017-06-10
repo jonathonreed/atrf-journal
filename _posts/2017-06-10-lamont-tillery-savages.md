@@ -10,6 +10,7 @@ description: Moments of grace at the oldest bicycle shop in Canada.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_9104-atrf-ac-2000-web.jpg
 image-sm:
 ---
+A brief snippet from the incredible spot which is [Savage's Bicycle Centre](https://sbcoutlet.com/), they've got [a great instagram account](), [Facebook](https://www.facebook.com/SavagesBikeCentre), and [Twitter](https://twitter.com/SavagesBikeShop). 
 
 A stitch in time saves nine, the old adage goes. After hearing from the cycle shop in Antigonish about the importance of retensioning our spokes more regularly with all the weight we're carrying, we're taking a more proactive approach to the entire situation. 
 
