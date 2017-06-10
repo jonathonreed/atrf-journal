@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Lamont Tillery, Head of Operations"
-author: chat
+author: ac
 date: 2017-06-10
 categories:
   - People
