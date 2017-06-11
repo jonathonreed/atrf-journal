@@ -56,7 +56,7 @@ Forced relocation isn't something I know a lot about. I know from the perspectiv
 
 When Black Point was relocated, all of that was erased. Even with the entry of the road and that kind of 'progress,' the families lost some of what they once had. When they moved to Bay of St. Lawrence, Sydney and Baddeck, they lost each other.
 
-"There are really many ways to cultivate the ground of community," concludes Cox. "But a community culture can never survive if the indivudals in it are exploited and compelled by the people outside of it."
+"There are really many ways to cultivate the ground of community," concludes Cox. "But a community culture can never survive if the individuals in it are exploited and compelled by the people outside of it."
 
 <blockquote>&ldquo;I do not think we should try to live in the past but I do not think that we can escape it or run from it. [&hellip;] We need to find our hearts again.&rdquo;</blockquote>
 
