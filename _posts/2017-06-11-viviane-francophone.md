@@ -5,7 +5,7 @@ author: jcr
 date: 2017-06-11
 categories:
   - People
-description: 
+description: Professor emeritus who was never admitted to the university.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_9129-atrf-ac-2000-web.jpg
 image-sm:
 ---
