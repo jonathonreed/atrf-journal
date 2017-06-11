@@ -5,7 +5,7 @@ author: jcr
 date: 2017-06-10
 categories:
   - History
-description: 
+description: A community culture can never survive if the indivudals in it are exploited and compelled by the people outside of it.
 image: http://astheravenfli.es/journal/img/2017/06/200801317.jpg
 image-sm:
 ---

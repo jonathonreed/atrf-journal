@@ -6,7 +6,7 @@ author: jcr
 date: 2017-06-10
 categories:
   - People
-description: 
+description: If you look at wind on a worldwide basis, there’s way more power in the wind than you could ever harness, or you would ever need.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_2716-atrf-jcr-2000-web.jpg
 image-sm:
 ---
