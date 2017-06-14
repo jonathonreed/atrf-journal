@@ -38,6 +38,8 @@ If you live in eastern Canada or are interested in Indigenous history and rights
 
 <img src="http://astheravenfli.es/journal/img/2017/06/IMG_3432-atrf-jcr-2000-web.jpg">
 
+<img src="http://astheravenfli.es/journal/img/2017/06/IMG_9343-atrf-ac-2000-2-web.jpg">
+
 It was in this book that I found an excerpt of a poem from Lindsay Marshall, former Chief of Potlotek First Nation. We didn't cycle through Potlotek First Nation, but did share its coastline on Bras d'Or Lake in Cape Breton. I found the poem online and wrote it down to share here.
 
 If you're interested in reading more of Marshall's poetry you can buy <i>Clay Pots and Bones</i> <a href="https://www.nimbus.ca/store/fiction-and-poetry/poetry/clay-pots-and-bones.html" target="blank">here</a>. I read more about the book and it seems like a powerful work: "The collection's evocation of the past is [&hellip;] consistently shot through with lamentation and accusation, highlighting the damage wrought by colonialism and its rapacious successor, contemporary capitalism." Another piece worth reading.
