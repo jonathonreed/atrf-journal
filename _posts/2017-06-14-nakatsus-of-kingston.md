@@ -14,7 +14,6 @@ We'd just turned the corner around Campbellton when I noticed two bicycles that 
 
 One of the best parts of cycle touring for me is talking to and meeting other people who are crazy enough to undertake such expeditions. Discovered quickly that they were from Kingston(!) and pedaling towards one of their kids and grandkids in Halifax. Kanji and Susie are their names.
 
-
 <img src="http://astheravenfli.es/journal/img/2017/06/IMG_9313-atrf-ac-2000-web.jpg">
 
 They've been blogging from the road and you can follow along at [Nakatsu's of Kingston](http://nakatsukingston.blogspot.ca/).
