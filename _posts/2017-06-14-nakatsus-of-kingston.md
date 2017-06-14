@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Kanji and Susie"
-author: jcr
+title: "Kanji and Susie, Cycle Tourists Extraordinaire"
+author: ac
 date: 2017-06-13
 categories:
   - People
