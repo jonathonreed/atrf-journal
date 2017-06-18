@@ -5,7 +5,7 @@ author: jcr
 date: 2017-06-18
 categories:
   - People
-description: 
+description: The feeling of coming back to a place that you loved and being greeted with a smile.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_3686-atrf-jcr-2000-web.jpg
 image-sm:
 ---
