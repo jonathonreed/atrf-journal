@@ -5,7 +5,7 @@ author: jcr
 date: 2017-06-18
 categories:
   - People
-description: 
+description: $10 and a harmonica.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_3597-atrf-jcr-2000-web.jpg
 image-sm:
 ---
