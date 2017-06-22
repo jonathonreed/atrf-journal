@@ -5,7 +5,7 @@ author: jcr
 date: 2017-06-21
 categories:
   - Culture
-description: 
+description: If I can imagine a town coming together to do something like that, I can imagine them coming together to do anything.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_3526-atrf-jcr-2000-web.jpg
 image-sm:
 ---
