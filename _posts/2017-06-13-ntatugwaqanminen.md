@@ -10,7 +10,7 @@ image: http://astheravenfli.es/journal/img/2017/06/IMG_9343-atrf-ac-2000-2-web.j
 image-sm:
 ---
 
-I stopped in an administrative building in Gegapegiag First Nation and unexpectedly found a book titled <i>Nta'tugwaqanminen (Our Story): Evolution of the Gespe’gewa’gi Mi’gmaq</i>.
+I stopped in an administrative building in Gesgapegiag First Nation and unexpectedly found a book titled <i>Nta'tugwaqanminen (Our Story): Evolution of the Gespe’gewa’gi Mi’gmaq</i>.
 
 It was published by Fernwood Press and written through an alliance between the Mi'kmaq of Northern Gespe'gewa'gi (Gaspé Peninsula), their Elders and a group of academic researchers. The book combines, for example, oral histories and traditional teachings with data analysis and archaeological research.
 

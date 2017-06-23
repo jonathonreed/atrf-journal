@@ -46,7 +46,7 @@ She talked about the impact of the fair on her own family and especially her kid
 
 The fair has become a highly anticipated event for young and old alike.
 
-<blockquote>&ldquo;It&rsquo;s very mixed, like age group-wise, you know, even at night. By 10-10:30 at night, you think, well all the kids should be home. Well maybe not because mom and dad are still having a few beers and they kids are out playing volleyball waiting for them.&ldquo;</blockquote>
+<blockquote>&ldquo;It&rsquo;s very mixed, like age group-wise, you know, even at night. By 10-10:30 at night, you think, well all the kids should be home. Well maybe not because mom and dad are still having a few beers and the kids are out playing volleyball waiting for them.&ldquo;</blockquote>
 
 "And the old people. My God, I was counting money until four in the morning one of the nights last year, and there's our old neighbour walking across the fairgrounds. 'Oh, dear,' he said, 'I've been listening to country music.'" 
 
