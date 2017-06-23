@@ -5,7 +5,7 @@ author: jcr
 date: 2017-06-21
 categories:
   - People
-description: 
+description: I felt that I was witnessing the life of a great man.
 image: http://astheravenfli.es/journal/img/2017/06/john-3.jpg
 image-sm:
 ---
