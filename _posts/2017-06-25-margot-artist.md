@@ -5,7 +5,7 @@ author: jcr
 date: 2017-06-25
 categories:
   - People
-description: 
+description: Wind and waves, colours and driftwood and in ideas yet to come.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_3668-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
