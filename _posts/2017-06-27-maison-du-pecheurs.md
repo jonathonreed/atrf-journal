@@ -70,7 +70,7 @@ The <a href="https://en.wikipedia.org/wiki/October_Crisis" target="blank">Octobe
 
 "There were a lot of arrests," explained Pascal. "It was rough. There were associated with men that were now considered terrorists. That was the worry after the October Crisis, so many of them were arrested."
 
-The <i>Gendarmerie royale du Canada</i> (also known as the Royal Canadian Mounted Police) rented a neighbouring house and monitored the <i>Maison du pêcheur</i>, keeping notes and conducting interviews. "There are many people who say it was the GRC who lit the <i>Maison</i> on fire as a way to evict the youth."
+The <i>Gendarmerie royale du Canada</i> (also known as the Royal Canadian Mounted Police) rented a neighbouring house and monitored the <i>Maison du pêcheur</i>, keeping notes and conducting interviews. "There are many people who say it was the GRC who lit the <i>Maison</i> on fire as a way to evict the youth." The GRC did burn down a farm associated with the FLQ near Montréal in 1972.
 
 "They were many young people who were questioned by the GRC, what they were doing, what was happening in the barn there, but it was more or less a 'chilling spot,' simply that, for dreamers and idealists."
 
