@@ -93,3 +93,5 @@ I expected him to say it was from a governmental archive or something like that.
 I knew the FLQ existed, to the extent that they had led militant action in Montréal that culminated in the death of a cabinet minister and Trudeau's back-against-the-wall military action against the separatists, but that was pretty much it. Researching and writing this story has made me reflect on where we get our history from. From an Ontario-based education system, I had a significantly limited understanding of the Québec sovereignty movement.
 
 On the west coast of the Gaspé Peninsula, I learned there are more layers to that story.
+
+<i>If you're interested in learning more about the Maison du pêcheur in Percé and the FLQ, there is a non-documentary film that follows the story of Paul and Jacques Rose and Francis Simard. You can watch the trailer <a href="https://www.youtube.com/watch?v=OIH5k9DGFdw" target="blank">here</a>.</i>
