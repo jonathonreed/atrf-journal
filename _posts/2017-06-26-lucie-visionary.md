@@ -5,7 +5,7 @@ author: jcr
 date: 2017-06-26
 categories:
   - People
-description: 
+description: Everyone in the world knows the problems. We need to start focusing on solutions.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_4061-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
