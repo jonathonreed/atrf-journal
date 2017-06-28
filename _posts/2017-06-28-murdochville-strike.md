@@ -10,7 +10,7 @@ image: http://astheravenfli.es/journal/img/2017/06/1978_-_mines_gaspe_-_greve_mu
 image-sm:
 --- 
 
-I researched and wrote <a href="http://astheravenfli.es/journal/2017/06/27/maison-du-pecheurs/" target="blank">a piece</a> about the Québec sovereignty movement after coming across a colourful mural along the highway southwest of Percé. But what about when there isn't a aesthetic catalyst to take out the camera and audio recorder? What about just an isolated town that's seen better days?
+I recently researched and wrote <a href="http://astheravenfli.es/journal/2017/06/27/maison-du-pecheurs/" target="blank">a piece</a> about the Québec sovereignty movement after coming across a colourful mural along the highway southwest of Percé. But what about when there isn't a aesthetic catalyst to take out the camera and audio recorder? What about just an isolated town that's seen better days?
 
 Such was my experience in Murdochville. The town seemed pretty deserted and a bit run-down, and apart from a <i>centre-ville</i> hotel with an unexpectedly large dining hall and a stillness that felt somehow nostalgic, there wasn't a lot to note. It wasn't until afterwards that I found out that Murdochville was the site of one of the most important strikes in Québec history.
 
