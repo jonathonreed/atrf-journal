@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Marc, Scuba Diver"
 author: jcr
 date: 2017-06-20

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Abundant Acres"
 author: jcr
 date: 2017-06-11

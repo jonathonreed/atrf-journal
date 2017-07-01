@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Nta’tugwaqanminen"
 author: jcr
 date: 2017-06-13

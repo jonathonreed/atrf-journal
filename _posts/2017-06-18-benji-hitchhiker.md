@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Benji, Hitchhiker"
 author: jcr
 date: 2017-06-18

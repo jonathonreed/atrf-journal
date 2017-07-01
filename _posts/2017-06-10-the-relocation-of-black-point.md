@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "The Relocation of Black Point"
 author: jcr
 date: 2017-06-10

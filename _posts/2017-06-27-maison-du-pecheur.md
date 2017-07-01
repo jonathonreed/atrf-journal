@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Maison du Pêcheur"
 author: jcr
 date: 2017-06-27

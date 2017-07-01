@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Murdochville Strike"
 author: jcr
 date: 2017-06-28

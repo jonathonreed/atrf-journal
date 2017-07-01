@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Kanji and Susie, Cycle Tourists Extraordinaire"
 author: ac
 date: 2017-06-13

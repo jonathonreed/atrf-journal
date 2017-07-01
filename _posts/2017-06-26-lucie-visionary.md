@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Lucie, Visionary"
 author: jcr
 date: 2017-06-26
