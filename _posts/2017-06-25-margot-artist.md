@@ -23,7 +23,7 @@ I turned on the audio recorder as I learned more about who she was and what she 
 
 "My name is Margot Merette," she said. "On vit juste en face de Rocher Percé."
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3628-atrf-jcr-2000-web.jpg">
+<img src="http://astheravenfli.es/journal/img/2017/06/IMG_9586-atrf-ac-2000-web.jpg">
 
 <img src="http://astheravenfli.es/journal/img/2017/06/IMG_3667-atrf-jcr-2000-web.jpg">
 
