@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Isabel, Blood Donor"
+title: "Isabelle, Blood Donor"
 author: jcr
 date: 2017-07-05
 categories:
