@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Shaylynn, Anishinaabekwe"
 author: jcr
-date: 2017-07-05
+date: 2017-07-10
 categories:
   - People
 description: I broke the cycle.
