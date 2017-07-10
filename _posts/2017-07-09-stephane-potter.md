@@ -6,7 +6,7 @@ author: jcr
 date: 2017-07-09
 categories:
   - People
-description: 
+description: And 10 tons of clay.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_4017-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
