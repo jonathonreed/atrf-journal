@@ -19,6 +19,8 @@ I interviewed her in between meetings with the Governor General and other dignit
 
 <b>"</b>ᓱᕙᒃᓯᐅᖅᒥᑦ ᐊᑎᖃᖅᑐᖓ ᐊᕐᕕᐊᑦ ᓄᓇᕗᑦᒥᒃ ᓄᓇᓕᖃᕐᑐᖓ<b>."</b>
 
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1S98hvyAXuFysYJZqeR-IA_L17S0" width="100%" height="480"></iframe>
+
 <img src="http://astheravenfli.es/journal/img/2017/07/IMG_4343-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332711987&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
