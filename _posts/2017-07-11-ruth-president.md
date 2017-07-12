@@ -6,7 +6,7 @@ author: jcr
 date: 2017-07-11
 categories:
   - People
-description:
+description: ᓱᕙᒃᓯᐅᖅᒥᑦ ᐊᑎᖃᖅᑐᖓ ᐊᕐᕕᐊᑦ ᓄᓇᕗᑦᒥᒃ ᓄᓇᓕᖃᕐᑐᖓ.
 image: http://astheravenfli.es/journal/img/2017/07/IMG_4337-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
