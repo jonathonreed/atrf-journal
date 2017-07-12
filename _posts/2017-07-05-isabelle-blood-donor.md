@@ -6,7 +6,7 @@ author: jcr
 date: 2017-07-05
 categories:
   - People
-description: I vote, I pay taxes, I donate blood.
+description: “I vote, I pay taxes, I donate blood.”
 image: http://astheravenfli.es/journal/img/2017/06/IMG_4131-atrf-jcr-2000-web.jpg
 image-sm:
 --- 

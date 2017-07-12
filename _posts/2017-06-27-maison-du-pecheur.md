@@ -6,7 +6,7 @@ author: jcr
 date: 2017-06-27
 categories:
   - History
-description: Il y a des trous dans notre histoire. There are gaps in our history.
+description: “Il y a des trous dans notre histoire. There are gaps in our history.”
 image: http://astheravenfli.es/journal/img/2017/06/IMG_3586-atrf-jcr-2000-web.jpg
 image-sm:
 --- 

@@ -6,7 +6,7 @@ author: jcr
 date: 2017-07-11
 categories:
   - People
-description: ᓱᕙᒃᓯᐅᖅᒥᑦ ᐊᑎᖃᖅᑐᖓ ᐊᕐᕕᐊᑦ ᓄᓇᕗᑦᒥᒃ ᓄᓇᓕᖃᕐᑐᖓ.
+description: “We should all have pride in our identity. Just the word Inuit gives me chills sometimes.”
 image: http://astheravenfli.es/journal/img/2017/07/IMG_4337-atrf-jcr-2000-web.jpg
 image-sm:
 --- 

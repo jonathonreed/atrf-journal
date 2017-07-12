@@ -6,7 +6,7 @@ author: jcr
 date: 2017-06-20
 categories:
   - People
-description: We need a younger generation to protect the ocean like never before.
+description: “We need a younger generation to protect the ocean like never before.”
 image: http://astheravenfli.es/journal/img/2017/06/IMG_3560-atrf-jcr-2000-web.jpg
 image-sm:
 ---
