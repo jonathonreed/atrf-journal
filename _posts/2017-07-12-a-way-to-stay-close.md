@@ -6,7 +6,7 @@ author: jcr
 date: 2017-07-12
 categories:
   - Masculinity
-description: “The bracelets are a way to stay close with my granddaughters, even when I'm far away.”
+description: “The bracelets are a way to stay close with my granddaughters, even when I’m far away.”
 image: http://astheravenfli.es/journal/img/2017/07/IMG_4532-atrf-jcr-2000-web.jpg
 image-sm:
 ---
