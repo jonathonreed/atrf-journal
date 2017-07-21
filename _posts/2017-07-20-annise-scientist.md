@@ -6,7 +6,7 @@ author: jcr
 date: 2017-07-20
 categories:
   - People
-description:
+description: Earthworms, forest ecology, and things I never knew.
 image: http://astheravenfli.es/journal/img/2017/07/IMG_0524-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
@@ -47,7 +47,7 @@ The audio got messy with other conversations in the background, but Annise was a
 
 This comparison came because I had asked why everyone thought earthworms were good.
 
-<blockquote>&ldquo;We've created this artificial habitat in a field where worms are really good. So that's not wrong. But forests just function really differently. That's where earthworms are changing the conditions.&rdquo;</blockquote>
+<blockquote>&ldquo;We&rsquo;ve created this artificial habitat in a field where worms are really good. So that&rsquo;s not wrong. But forests just function really differently. That&rsquo;s where earthworms are changing the conditions.&rdquo;</blockquote>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/334134271&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
