@@ -6,7 +6,7 @@ author: jcr
 date: 2017-07-28
 categories:
   - People
-description:
+description: A story of female leadership from decades ago.
 image: http://astheravenfli.es/journal/img/2017/07/IMG_5017-atrf-jcr-2000-web.jpg
 image-sm:
 --- 

@@ -5,8 +5,8 @@ title: "Lament for Confederation"
 author: jcr
 date: 2017-07-28
 categories:
-  - People
-description:
+  - Indigenous
+description: A poem from the centennial.
 image: http://astheravenfli.es/journal/img/2017/07/056-1984-Chief-Dan-George.jpg
 image-sm:
 ---
