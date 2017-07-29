@@ -45,7 +45,7 @@ It was in this book that I found an excerpt of a poem from Lindsay Marshall, for
 
 If you're interested in reading more of Marshall's poetry you can buy <i>Clay Pots and Bones</i> <a href="https://www.nimbus.ca/store/fiction-and-poetry/poetry/clay-pots-and-bones.html" target="blank">here</a>. I read more about the book and it seems like a powerful work: "The collection's evocation of the past is [&hellip;] consistently shot through with lamentation and accusation, highlighting the damage wrought by colonialism and its rapacious successor, contemporary capitalism." Another piece worth reading.
 
-<blockquote>Dear successive fathers:<br>
+<blockquote>&ldquo;Dear successive fathers:<br>
 Explain to me, please, when did the<br>
 change take place, from owners<br>
 to wards of the selfish state?<br>
@@ -74,7 +74,7 @@ reeking holds did English<br>
 ports comfort in early fog?<br>
 Have you much experience in<br>
 the destruction of people,<br>
-besides us?</i>
+besides us?"</i>
 
 — Chief Lindsay Marshall, <i>Pka'wo'qq aq Waqntal - Clay Pots and Bones</i>
 
