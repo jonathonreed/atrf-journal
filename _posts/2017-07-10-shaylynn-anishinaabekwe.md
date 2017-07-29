@@ -5,7 +5,7 @@ title: "Shaylynn, Anishinaabekwe"
 author: jcr
 date: 2017-07-10
 categories:
-  - People
+  - Indigenous
 description: “I broke the cycle.”
 image: http://astheravenfli.es/journal/img/2017/06/IMG_4143-atrf-jcr-2000-web.jpg
 image-sm:

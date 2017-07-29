@@ -5,7 +5,7 @@ title: "Lianna, Inuk"
 author: jcr
 date: 2017-07-12
 categories:
-  - People
+  - Indigenous
 description: “The trauma of the oppression and cultural genocide of hundreds of years, that’s what’s being celebrated today.”
 image: http://astheravenfli.es/journal/img/2017/07/IMG_4355-atrf-jcr-2000-web.jpg
 image-sm:

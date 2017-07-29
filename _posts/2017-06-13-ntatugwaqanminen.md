@@ -5,7 +5,7 @@ title: "Nta’tugwaqanminen"
 author: jcr
 date: 2017-06-13
 categories:
-  - History
+  - Indigenous
 description: Excerpts from a book in Gegapegiag.
 image: http://astheravenfli.es/journal/img/2017/06/IMG_9343-atrf-ac-2000-2-web.jpg
 image-sm:
