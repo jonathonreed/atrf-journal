@@ -6,7 +6,7 @@ author: jcr
 date: 2017-07-30
 categories:
   - People
-description: 
+description: My thoughts are with you, Tanner. Keep carrying hope.
 image: http://astheravenfli.es/journal/img/2017/05/IMG_2687-atrf-jcr-2000-web.jpg
 image-sm:
 ---
