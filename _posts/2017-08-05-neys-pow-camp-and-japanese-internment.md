@@ -58,6 +58,8 @@ At the outbreak of war in 1939, Nisei (Canadian-born citizens of Japanese ancest
 
 <blockquote>&ldquo;Major General Maurice Pope, vice-chief of the General Staff, was disgusted when a Pacific Coast politician told him privately that his constituents considered war with Japan a heaven-sent excuse to eliminate Japanese Canadian economic competition.&rdquo; <cite>Greg Robinson, <a href="http://www.thecanadianencyclopedia.ca/en/article/internment-of-japanese-canadians/" target="blank">Internment of Japanese Canadians</a></cite></blockquote>
 
+<iframe src="//www.cbc.ca/i/caffeine/syndicate/?mediaId=1787049960" width="100%" height="" frameborder="0" allowfullscreen></iframe>
+
 Political pressure from British Columbia ultimately led Prime Minister Mackenzie King to order the removal of all adult Japanese men from the west coast.
 
 This is what brings the history of Japanese internment to the shores of Lake Superior. The brutality of the mid-winter expulsion of 22,000 Japanese Canadians from their homes led a group of Nisei to form the Nisei Mass Evacuation Group, which risked arrest to get the government to allow families to be relocated together. The most militant of these Nisei were flagged as troublemakers and sent to POW camps in Ontario.
@@ -74,4 +76,4 @@ It's not just me. Individual Japanese Americans who were imprisoned in WWII have
 
 The history of Neys is partly forgotten beneath moss and lichen in the Lake Superior pine plantation, but it is also partly alive and fighting with every inch of its strength against today's Islamophobia that so closely mirrors the attacks on Japanese Canadians and Americans of the Second World War. We would do well to heed this call to action. The internment of Japanese Canadians is seen as a black mark on Canada's history. Let us not repeat it.
 
-<i>Photos from <a href="http://nipigonmuseumtheblog.blogspot.ca/2012/09/pow-camp-neys-ontario.html" target="blank">Nipigon Museum</a> and <a href="http://postalhistorycorner.blogspot.ca/2012/07/wwii-internment-camps-in-canada-post.html" target="blank">Postal History Corner</a>. For more information about German POWs in Canada you can watch the documentary <a href="https://www.nfb.ca/film/enemy_within/" target="blank">The Enemy Within</a> on the NFB.</i>
+<i>Photos from <a href="http://nipigonmuseumtheblog.blogspot.ca/2012/09/pow-camp-neys-ontario.html" target="blank">Nipigon Museum</a> and <a href="http://postalhistorycorner.blogspot.ca/2012/07/wwii-internment-camps-in-canada-post.html" target="blank">Postal History Corner</a>. For more information about German POWs in Canada you can watch the documentary <a href="https://www.nfb.ca/film/enemy_within/" target="blank">The Enemy Within</a> on the NFB. For an account of the Japanese relocation experience you can watch <a href="http://www.cbc.ca/archives/entry/japanese-canadians-the-relocation-experience" target="blank">Ayo Hagashi in the CBC Archives</a>.</i>
