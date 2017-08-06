@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Lori, Thunder Bay"
+title: "Lori, Entrepreneur"
 author: jcr
 date: 2017-08-05
 categories:
