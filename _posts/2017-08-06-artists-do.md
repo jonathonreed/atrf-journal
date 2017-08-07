@@ -6,7 +6,7 @@ author: jcr
 date: 2017-08-06
 categories:
   - Culture
-description:
+description: Artists are part of how we define our culture, and how we have defined our culture for millenia. 
 image: http://astheravenfli.es/journal/img/2017/07/IMG_5144-atrf-jcr-2000-web.jpg
 image-sm:
 --- 

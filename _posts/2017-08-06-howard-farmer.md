@@ -6,7 +6,7 @@ author: jcr
 date: 2017-08-06
 categories:
   - Culture
-description:
+description: Rural culture and the perspective of a Saskatchewan farmer.
 image: http://astheravenfli.es/journal/img/2017/08/IMG_5577-atrf-jcr-2000-web.jpg
 image-sm:
 --- 

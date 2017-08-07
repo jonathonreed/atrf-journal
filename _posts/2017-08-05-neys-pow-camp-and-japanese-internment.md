@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: true
-title: "Neys POW camp and Japanese internment"
+title: "Neys POW Camp and Japanese Internment"
 author: jcr
 date: 2017-08-05
 categories:
   - History
-description:
+description: The history of Neys is partly forgotten, but it is also partly alive and fighting.
 image: http://astheravenfli.es/journal/img/2017/07/IMG_4943-atrf-jcr-2000-web.jpg
 image-sm:
 --- 

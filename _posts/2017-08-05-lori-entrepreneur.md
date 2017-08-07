@@ -6,7 +6,7 @@ author: jcr
 date: 2017-08-05
 categories:
   - People
-description:
+description: “Together we’re so strong.”
 image: http://astheravenfli.es/journal/img/2017/07/IMG_5074-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
