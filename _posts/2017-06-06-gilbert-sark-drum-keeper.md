@@ -37,7 +37,7 @@ He's currently in the consultation stage of a community plan for the next 25 to 
 
 Our conversation shifted to climate change after Gilbert mentioned its influence in the community plan. He didn't tell us this particularly story but Jonathon found <a href="http://www.cbc.ca/news/canada/lennox-island-pei-water-ocean-sea-levels-1.3756916" target="_blank">an article about Lennox Island</a> in which he describes one little kid's answer to the question of what they see for their community in the next 25 to 50 years.
 
-<blockquote>Answer from one little kid was, &lsquo;A bridge going nowhere,&rsquo; meaning our Lennox bridge. And there&rsquo;s no Lennox Island.</blockquote>
+<blockquote>&ldquo;Answer from one little kid was, &lsquo;A bridge going nowhere,&rsquo; meaning our Lennox bridge. And there&rsquo;s no Lennox Island.&rdquo;</blockquote>
 
 According to climate scientists, Lennox Island has already lost one square kilometre of land to rising sea levels in a single generation—parts of the coast where community members would gather traditional materials for ceremonies, as well as long-held burial grounds. It's a loss that can't really be enumerated, and a loss that grows more serious every year.
 
@@ -51,7 +51,7 @@ Since we grew up in Ontario, we'd never heard of a storm surge. It came up in Jo
 
 When a storm hits Lennox Island, the community braces for the impact of the storm surge.
 
-<blockquote>When the storm comes in our fire department monitors the storm surge. You&rsquo;ll see the Chief down at the wharf, you&rsquo;ll see her down at the back of the island, you&rsquo;ll see her at the bridge. She&rsquo;ll just keep doing her rounds.</blockquote>
+<blockquote>&ldquo;When the storm comes in our fire department monitors the storm surge. You&rsquo;ll see the Chief down at the wharf, you&rsquo;ll see her down at the back of the island, you&rsquo;ll see her at the bridge. She&rsquo;ll just keep doing her rounds.&rdquo;</blockquote>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177646&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -61,7 +61,7 @@ The complexity and inevitability of the consequences of climate change makes it 
 
 So, dispiriting. And I tried to share that a bit, but mostly kept it to myself. It couldn't possibly be my place to kick the legs out from whatever tenuous hope and grim determination was keeping Gilbert's voice steady. But I wondered. If I've barely got enough strength in my shoulders for secondhand stories, where did this community find its strength to hold their own?
 
-<blockquote>You&rsquo;re not going to stop water, regardless. Erosion is going to happen. Water&rsquo;s going to flow, it&rsquo;s going to flow. So how much money do we keep throwing at it, in order to save our island?</blockquote>
+<blockquote>&ldquo;You&rsquo;re not going to stop water, regardless. Erosion is going to happen. Water&rsquo;s going to flow, it&rsquo;s going to flow. So how much money do we keep throwing at it, in order to save our island?&rdquo;</blockquote>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177662&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -71,13 +71,13 @@ He had no sense of bitterness or resentment, and spoke highly of the provincial 
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>Our Chief is very passionate about the erosion. She&rsquo;s had countless meetings with engineers, like she&rsquo;s probably on the phone talking to someone about it right now. She&rsquo;s very adamant about doing something to save Lennox.</blockquote>
+<blockquote>&ldquo;Our Chief is very passionate about the erosion. She&rsquo;s had countless meetings with engineers, like she&rsquo;s probably on the phone talking to someone about it right now. She&rsquo;s very adamant about doing something to save Lennox.&rdquo;</blockquote>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177674&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 "I also do a lot of cultural stuff in the community," said Gilbert, "doing prayers and openings, smudgings, stuff like that. I'm a drum maker. You could say I make all of our ceremonial items, our eagle fans, eagle staffs. Stuff like that." He said from a young age, he found that he preferred spending time with Elders to hanging out with his friends.
 
-<blockquote>Because it was&hellip;basically finding out who you were as a person, like your background and your history and everything. What basically made you, you.</blockquote>
+<blockquote>&ldquo;Because it was&hellip;basically finding out who you were as a person, like your background and your history and everything. What basically made you, you.&rdquo;</blockquote>
 
 Because he has spent so much time learning traditional teachings, many people in Lennox Island consider Gilbert an Elder. He doesn't always agree with that entirely, particularly because he is still learning and spending time with the Elder who gave him many of his teachings. "I still don't see myself as that," he explained. "I still see myself as a student until I reach a certain age. I still feel like I haven't climbed those ranks as fast as they think I did. If it was a school I'm probably still in grade nine. I haven't graduated yet."
 
@@ -89,7 +89,7 @@ Gilbert talked about taking the teachings his learned from his Elders and hostin
 
 The amount of things that Gilbert had knowledge in felt impressive, but in his explanation they were matter-of-fact. "It's just stuff that I've learned from other Elders, so I try to keep their teachings going." The passing-on of teachings was something that he thought a lot about—something that he explicitly explained to those he taught.
 
-<blockquote>&lsquo;Who&rsquo;s going to be making these drums after I&rsquo;m gone? Do you guys remember in 2010 when my heart stopped,&rsquo; I said, &lsquo;I died in my living room. If they didn&rsquo;t start my heart again, who&rsquo;s going to keep this drum group going? Who&rsquo;s going to teach people how to make drums, or make fans, or do this or that.&rsquo; I said, &lsquo;Would you guys?&rsquo; &lsquo;Well we don&rsquo;t fully know how to.&rsquo; I said, &lsquo;That&rsquo;s right, I&rsquo;m going to keep teaching you until it&rsquo;s in your head no problem, just like talking. You&rsquo;re going to learn how to do these things.&rsquo;</blockquote>
+<blockquote>&lsquo;Who&rsquo;s going to be making these drums after I&rsquo;m gone? Do you guys remember in 2010 when my heart stopped,&rsquo; I said, &lsquo;I died in my living room. If they didn&rsquo;t start my heart again, who&rsquo;s going to keep this drum group going? Who&rsquo;s going to teach people how to make drums, or make fans, or do this or that.&rsquo; I said, &lsquo;Would you guys?&rsquo; &lsquo;Well we don&rsquo;t fully know how to.&rsquo; I said, &lsquo;That&rsquo;s right, I&rsquo;m going to keep teaching you until it&rsquo;s in your head no problem, just like talking. You&rsquo;re going to learn how to do these things.&rsquo;&rdquo;</blockquote>
 
 When an Elder dies, Gilbert pointed out, you don't just lose them. You lose their teachings. Unless someone else has learned.
 
@@ -99,7 +99,7 @@ As a drum keeper, you take care of the drum, and the drum group. "And in caring 
 
 The drum that Gilbert takes care of belongs to Hey Cuzzins, the oldest drum group in PEI. The group began in 1991, after an Alcoholics Anonymous celebration. Gilbert was 13 years old. "A bunch of us got together and we said, we want our own drum group here. If we can learn how to do this and the teachings that go with it, we want this."
 
-<blockquote>The group acts like a support group for those who are struggling with drugs and alcohol and stuff like that. Even in school, they would come to drum practice and before we&rsquo;d even sit at the drum we&rsquo;d help each other with our homework. They were very firm on no drinking, no drugs to sit at the drum. Through that, they kept each other straight, and sober. And they actually helped almost every one of them through school.</blockquote>
+<blockquote>&ldquo;The group acts like a support group for those who are struggling with drugs and alcohol and stuff like that. Even in school, they would come to drum practice and before we&rsquo;d even sit at the drum we&rsquo;d help each other with our homework. They were very firm on no drinking, no drugs to sit at the drum. Through that, they kept each other straight, and sober. And they actually helped almost every one of them through school.&rdquo;</blockquote>
 
 Jonathon came across <a href="http://www.cbc.ca/news/canada/prince-edward-island/lennox-island-drum-cuzzins-1.3980001" target="blank">an article on CBC about the drum group</a>. "Before I joined," said one of the members, "I was in some dark times. I was going for depression. It pulled me out." Once in a while, the article added, a group member may get into trouble, and the drumming group has gone to court to speak on their behalf. "They actually get it written in their probation order that they must attend drum practice," said Gilbert, "and then we in turn make sure that they go."
 
@@ -107,7 +107,7 @@ Jonathon came across <a href="http://www.cbc.ca/news/canada/prince-edward-island
 
 We asked about Canada moving forward, and Gilbert's answer was simple: "Start listening to every background that's out there. Stop thinking about the almighty dollar. Killing what's left of our earth is not going to get us forward."
 
-<blockquote>It&rsquo;s time for Canada to wake up.</blockquote>
+<blockquote>&ldquo;It&rsquo;s time for Canada to wake up.&rdquo;</blockquote>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177729&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -115,12 +115,12 @@ We asked about Gilbert's fears and hopes for the future, and again he responded 
 
 His hopes balanced his fears. 
 
-<blockquote>I&rsquo;m hopeful that our youth are going to pick up the reins, you know I&rsquo;m hopeful that we&rsquo;re going to actually leave something behind for them. I&rsquo;m always hopeful for a better beginning than where we&rsquo;re at. Or a better ending.</blockquote>
+<blockquote>&ldquo;I&rsquo;m hopeful that our youth are going to pick up the reins, you know I&rsquo;m hopeful that we&rsquo;re going to actually leave something behind for them. I&rsquo;m always hopeful for a better beginning than where we&rsquo;re at. Or a better ending.&rdquo;</blockquote>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177732&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 As we wrapped up the conversation, Asad asked about his name, and we discovered that his spirit name was Raven. Asad asked about the story behind that and for the following ten minutes, we listened, spellbound, as he recounted how he learned of his name, his identity and his life's purpose. It was such a powerful story that we're not going to transcribe it or pull any quotes other than this piece from its beginning.
 
-<blockquote>My Elder and his wife called a medicine man, and in the phone call, Carol tells me, he goes, &lsquo;This young fella, is he drumming?&rsquo; &lsquo;Yeah.&rsquo; &lsquo;He travels around a lot?&rsquo; &lsquo;Yeah.&rsquo; &lsquo;Has long hair?&rsquo; &lsquo;Yeah he&rsquo;s got long hair.&rsquo; He goes, &lsquo;I&rsquo;ll be there in two days. It&rsquo;s about time I found this kid.&rsquo; And she goes, &lsquo;What do you mean?&rsquo; He goes, &lsquo;His spirit name is Raven. I gotta explain it when I get there.&rsquo;</blockquote>
+<blockquote>&ldquo;My Elder and his wife called a medicine man, and in the phone call, Carol tells me, he goes, &lsquo;This young fella, is he drumming?&rsquo; &lsquo;Yeah.&rsquo; &lsquo;He travels around a lot?&rsquo; &lsquo;Yeah.&rsquo; &lsquo;Has long hair?&rsquo; &lsquo;Yeah he&rsquo;s got long hair.&rsquo; He goes, &lsquo;I&rsquo;ll be there in two days. It&rsquo;s about time I found this kid.&rsquo; And she goes, &lsquo;What do you mean?&rsquo; He goes, &lsquo;His spirit name is Raven. I gotta explain it when I get there.&rsquo;&rdquo;</blockquote>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177739&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

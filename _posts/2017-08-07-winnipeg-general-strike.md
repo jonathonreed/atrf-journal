@@ -6,7 +6,7 @@ author: jcr
 date: 2017-08-07
 categories:
   - History
-description: 
+description: What struck me about the Winnipeg General Strike was the language used by the Citizens’ Committee against the strikers.
 image: http://astheravenfli.es/journal/img/2017/08/6881008-web.jpg
 image-sm:
 --- 
@@ -23,7 +23,7 @@ Winnipeg's elite, including manufacturers, bankers and politicians, formed the C
 
 <img src="http://astheravenfli.es/journal/img/2017/08/6134594-web.jpg">
 
-What struck me about the Winnipeg General Strike is the language used by the Citizens' Committee against the strikers. Having lost the majority of their workers, The Winnipeg Free Press and Winnipeg Tribune turned against the strike. The Citizens' Committee made use of the language of the First World War and Russian Revolution in the press, calling the strikers 'bohunks' and 'anarchists' and 'alien scum.' The New York Times printed the headline 'Bolshevism Invades Canada' on its front page. Solicitor General and future Prime Minister Arthur Meighen declared, "The leaders of the general strike are all revolutionists of varying degrees and types, from crazy idealists to ordinary thieves."
+What struck me about the Winnipeg General Strike was the language used by the Citizens' Committee against the strikers. Having lost the majority of their workers, The Winnipeg Free Press and Winnipeg Tribune turned against the strike. The Citizens' Committee made use of the language of the First World War and Russian Revolution in the press, calling the strikers 'bohunks' and 'anarchists' and 'alien scum.' The New York Times printed the headline 'Bolshevism Invades Canada' on its front page. Solicitor General and future Prime Minister Arthur Meighen declared, "The leaders of the general strike are all revolutionists of varying degrees and types, from crazy idealists to ordinary thieves."
 
 There's historically no truth to that. But at the time, widespread fears of revolutionary conspiracy meant that there were no efforts made towards conciliation or negotiation with the strikers. The strike became antagonistic. Black and white.
 

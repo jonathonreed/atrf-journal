@@ -23,7 +23,7 @@ We met Paul in the Paqtnkek Health Centre, where he had just finished a meeting.
 
 Paul introduced himself, and with that introduction came an acknowledgment of the history he carried with him. 
 
-<blockquote>We have a long history on this land, within this traditional territory known before concepts and terms like Canada and Nova Scotia. We refer to our traditional territory as Mi&rsquo;kma&rsquo;ki.</blockquote>
+<blockquote>&ldquo;We have a long history on this land, within this traditional territory known before concepts and terms like Canada and Nova Scotia. We refer to our traditional territory as Mi&rsquo;kma&rsquo;ki.&rdquo;</blockquote>
 
 As he started describing the demographics of Paqtnkek Mi'kmaw Nation, he described an important part of their culture as well. "Community is not a physical place," he said, "but a spirit that exists within the hearts of the people."
 
@@ -37,7 +37,7 @@ This was connected to his role as Chief, in which he saw himself holding that vi
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628862&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>I view myself as playing a role along that way of progression towards a vision of community and nationhood that reflects the fundamental values and principles of who we are as Mi&rsquo;kmaq people. I find my role as a Chief is to hold that space and to hold that vision.</blockquote>
+<blockquote>&ldquo;I view myself as playing a role along that way of progression towards a vision of community and nationhood that reflects the fundamental values and principles of who we are as Mi&rsquo;kmaq people. I find my role as a Chief is to hold that space and to hold that vision.&rdquo;</blockquote>
 
 "But leadership is beyond the position," he pointed out, "and there are many leaders in our community." We didn't talk in detail about who those leaders were, but I found myself thinking about the Katarokwi Grandmothers' Council in Kingston, Ontario, who were and are acting as powerful leaders, as sources of culture, wisdom and inspiration.
 
@@ -47,7 +47,7 @@ This kind of leadership becomes all the more striking when it's set in the conte
 
 Paul's description of various tools and consequences of colonization that his people had faced was a familiar story, but it's one that always bears repeating. Centralization. Resettlement. Enfranchisement. Assimilation. Residential schooling. "You get that approach with the government, that they have to 'deal with the Indian problem.'" 
 
-<blockquote>Those were rough times of non-recognition, of being deprived of our cultural rights, spiritual rights, our rights to lands and resources, being disposessed of our traditional lands and placed on these small reserves. Those are some of the things that we live with, but I say that not to draw, you know, to look at this. When I think about it, I think about the resilience of Aboriginal people and the pride that we exhibit on a day-to-day basis. With that pride and strength and self-knowledge and recognition, I see what I classify as a rebirth of Mi&rsquo;kmaq identity.</blockquote>
+<blockquote>&ldquo;Those were rough times of non-recognition, of being deprived of our cultural rights, spiritual rights, our rights to lands and resources, being disposessed of our traditional lands and placed on these small reserves. Those are some of the things that we live with, but I say that not to draw, you know, to look at this. When I think about it, I think about the resilience of Aboriginal people and the pride that we exhibit on a day-to-day basis. With that pride and strength and self-knowledge and recognition, I see what I classify as a rebirth of Mi&rsquo;kmaq identity.&rdquo;</blockquote>
 
 "Just look at what we did as a people, and how resilient we are, to still be here today despite the history that we went through."
 
@@ -57,7 +57,7 @@ The power of the past, of course, is that it shapes the present. One of the mome
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>I remember looking at myself for quite a while and thinking, you&rsquo;re nothing abut a dirty Indian.</blockquote>
+<blockquote>&ldquo;I remember looking at myself for quite a while and thinking, you&rsquo;re nothing abut a dirty Indian.&rdquo;</blockquote>
 
 It's hard to put into words the feeling of watching a grown man with kind eyes and greying hair, a professional lawyer and veteran Chief, a proud Mi'kmaw, get choked up talking about how much he once hated who he was. It was a weight like bricks.
 
@@ -65,7 +65,7 @@ A weight that was lifted by Paul's description of youth in his community and in 
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628908&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>There&rsquo;s no doubt in terms of the role of youth and the strength and power of youth, in terms of them seizing their identity and basically acknowledging and embracing their spirit. Their spirit individually, but also the spirit of a people, of a nation.</blockquote>
+<blockquote>&ldquo;There&rsquo;s no doubt in terms of the role of youth and the strength and power of youth, in terms of them seizing their identity and basically acknowledging and embracing their spirit. Their spirit individually, but also the spirit of a people, of a nation.&rdquo;</blockquote>
 
 When he spoke of youth he referred to a momentum of change, the idea that change was inevitable and that it was to be embraced and acknowledged. "Within the community, there's a generation that is rising up from the youth, [&hellip;] bringing new visions and approaches and ideas." He said his role as Chief and as an adult mentor is to create a path where they can grow and prosper, and get into the things that reflect their true purpose and identity.
 
@@ -87,7 +87,7 @@ The last portion of our discussion with Paul included two explicit lessons that 
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628937&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<blockquote>I guess if there&rsquo;s one thing that I&rsquo;d like people to think about is the power in who they are. We are all powerful creators. The more people that people come to realize that and strive for that, the better off we will all be, not just as Mi&rsquo;kmaq but as Canada, 150 years from now.</blockquote>
+<blockquote>&ldquo;I guess if there&rsquo;s one thing that I&rsquo;d like people to think about is the power in who they are. We are all powerful creators. The more people that people come to realize that and strive for that, the better off we will all be, not just as Mi&rsquo;kmaq but as Canada, 150 years from now.&rdquo;</blockquote>
 
 I asked what lesson or teaching he would share if other Aboriginal or non-Aboriginal people were listening, and his answer, after a moment of thought, was just two words: Honour thyself.
 
@@ -95,7 +95,7 @@ I asked what lesson or teaching he would share if other Aboriginal or non-Aborig
 
 "Honour who you are, where you come from. Honour your relationship to this beautiful earth, and your role within it. Honour the authority and sovereignty you have as an individual; through the power of your creations, through what you say, what you hear, what you feel."
 
-<blockquote>If there's one thing this community has ever taught me, it's about honour.</blockquote>
+<blockquote>&ldquo;If there's one thing this community has ever taught me, it's about honour.&rdquo;</blockquote>
 
 <img src="http://astheravenfli.es/journal/img/2017/05/IMG_2344-atrf-jcr-2000-web.jpg">
 
