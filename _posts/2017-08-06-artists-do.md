@@ -21,9 +21,9 @@ I talked about this with another host and they said to look up JFK, whom they th
 
 <blockquote>&ldquo;Aeschylus and Plato are remembered today long after the triumphs of imperial Athens are gone. Dante outlived the ambitions of thirteenth-century Florence. Goethe stands serenely above the politics of Germany, and I am certain that after the dust of centuries has passed over cities, we too will be remembered not for victories or defeats in battle or in politics, but for our contribution to the human spirit.&rdquo; <cite>John F. Kennedy</cite></blockquote>
 
-What I remember about Matt is the way he looked at me while he was painting. It was like he wasn't seeing me as much as he was seeing the individual parts of my face. He looked at my hair. He looked at my cheeks. He looked at my neck. So I can tell you that Matt, as an artist, looks at things differently. I know because I saw it firsthand.
+What I remember about Matt is the way he looked at me while he was painting. It was like he wasn't seeing me as much as he was seeing the individual parts of my face. I can tell you that Matt, as an artist, looks at things differently, because I saw it firsthand.
 
-I think it's important that we support people who look at the world differently. When I think of my experiences in activism, in travelling or municipal politics, what stands out is always art. Sculptures, musicians, murals. Katie O'Connor. Barbara Kruger. Adbusters. Artists are part of how we define our culture, and how we have defined our culture for millenia. 
+I think it's important that we support people who look at the world differently. Neil Young. Banksy. Barbara Kruger. Adbusters. Even mainstream art like the work of the Group of Seven or Emily Carr has had an immeasurable impact on Canada. Filmmakers like Alanis Obomsawin and Jeff Skoll. Writers like Lawrence Hill and Joy Kogawa. Artists are part of how we define our culture, and how we have defined our culture for millenia. 
 
 I'm not trying to say that Matt is a cultural icon. I'm just trying to say perhaps there's more to a portrait than self-indulgence, and perhaps the artists in our communities matter more than we give them credit for.
 
