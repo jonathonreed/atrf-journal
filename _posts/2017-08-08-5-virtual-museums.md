@@ -6,7 +6,7 @@ author: jcr
 date: 2017-08-08
 categories:
   - History
-description: 
+description: Explore some virtual exhibits and learn something you didn't know about Canadian history.
 image: http://astheravenfli.es/journal/img/2017/08/Unknown-5.jpeg
 image-sm:
 --- 
