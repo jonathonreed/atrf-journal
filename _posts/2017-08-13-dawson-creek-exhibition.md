@@ -6,7 +6,7 @@ author: jcr
 date: 2017-08-17
 categories:
   - Culture
-description: 
+description: Stories and photos of western Canadian culture.
 image: http://astheravenfli.es/journal/img/2017/08/IMG_6457-JCR-2000-72-web.jpg
 image-sm:
 ---
