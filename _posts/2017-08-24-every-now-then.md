@@ -6,7 +6,7 @@ author: ac
 date: 2017-08-24
 categories:
   - Culture
-description: Stories and photos of western Canadian culture.
+description: A current exhibit at the AGO examining this moment in time.
 image: http://astheravenfli.es/journal/img/2017/08/IMG_6290-atrf-ac-2000-web.jpg
 image-sm:
 ---
@@ -15,13 +15,15 @@ Please [go see this exhibit at the Art Gallery of Ontario](http://www.ago.net/ev
 
 For reasons that I will eventually have time, energy, and the patience to write about, there have been several glitches in the timeline of this project between Jonathon's account and mine. I'm calling these multiple narratives #AGlitchInTheTimeline. 
 
-I flew out from Edmonton to Toronto for a few days on August 04 for a wedding but one of the things I was looking forward to the most was this incredible exhibit, Every. Now. Then., co-curated by my dear friend Anique Jordan. It fit with the ethos and ideals that the original vision of what As The Raven Flies sought to uncover, listen, and showcase. Our project is far from over but will, regardless of all of our efforts, only scrape the surface.
+I flew out from Edmonton to Toronto for a few days on August 4th for a wedding and one of the things I was looking forward to aside to [an exquisite celebration](https://www.instagram.com/p/BXwLqwRlpXB/) the most was this incredible exhibit, Every. Now. Then., co-curated by my dear friend Anique Jordan. 
+
+It fit and exceeded the ethos and ideals that the original vision of what As The Raven Flies sought to uncover, listen, and showcase. Our project is far from over but will, regardless of all of our efforts, only scrape the surface.
 
 As someone who during his time in Toronto used to be a member of the AGO, I felt incredibly proud that such a privileged space and place would host such sincere and no-bullshit work. It is and will remain as one of the most powerful exhibits I have ever been to and one that, if I could give out Michellin stars equivalents for exhibits, would receive three. (What this means, at least to my limited knowledge, is that it is worth your time to fly/drive/sail to Toronto solely to see this exhibit and turn right around.) 
 
-Let me try and get into why. Well, the images + statements are mostly from the exhibit. I might elaborate later.
+Let me try and get into why. Well, the images + statements are mostly from the exhibit and speak for themselves. 
 
-First, an aside. Two of my favourite leading artists and creators in the 'Canadian' landscape are Christi Belcourt and Kent Monkman. I must have seen this piece before but somehow, it felt more relevant. It wasn't part of 'Every. Now. Then.' but encountered on the way to it. The piece is called [The Wisdom of the Universe](http://artmatters.ca/wp/2014/08/artists-statement-christi-belcourt-on-the-wisdom-of-the-universe/).
+First, an aside. Two of my favourite leading artists and creators in the 'Canadian' landscape are Christi Belcourt and Kent Monkman. I must have seen this piece before but somehow, it felt more relevant again now. It wasn't part of 'Every. Now. Then.' but encountered on the way to it. The piece is called [The Wisdom of the Universe](http://artmatters.ca/wp/2014/08/artists-statement-christi-belcourt-on-the-wisdom-of-the-universe/).
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6227-atrf-ac-2000-web.jpg">
 
 Indians and Cowboys (attribution: unrecorded)
@@ -31,7 +33,7 @@ Esmaa Mohamoud
 
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6232-atrf-ac-2000-web.jpg">
 
-"I think this 150 moment is really important for us to begin a discussion about difference, identity, and acceptance."
+<blockquote>I think this 150 moment is really important for us to begin a discussion about difference, identity, and acceptance.</blockquote>
 
 Multi-National Conglomerates Hostile Take Over of the New World Order by Lawrence Paul Yuxweluptun
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6234-atrf-ac-2000-web.jpg">
