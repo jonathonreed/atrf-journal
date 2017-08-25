@@ -38,19 +38,19 @@ Esmaa Mohamoud
 Multi-National Conglomerates Hostile Take Over of the New World Order by Lawrence Paul Yuxweluptun
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6234-atrf-ac-2000-web.jpg">
 
-"I am a survivor, and I will freely emancipate myself as a thinking person, and I will walk in my traditional territory, and I will talk to this world; and some time, at some point, things will change."
+<blockquote>I am a survivor, and I will freely emancipate myself as a thinking person, and I will walk in my traditional territory, and I will talk to this world; and some time, at some point, things will change.</blockquote>
 
 Paris/Ojibwe by Robert Houle
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6236-atrf-ac-2000-web.jpg">
 
-This installation recreated an encounter between Mississauga leader Maungwuduas + his dance troupe and the French royal court. Below each portrait is a painting of the smallpox virus, which killed several members of the dance troupe. Of the eleven original members, only five returned.
+<blockquote>This installation recreated an encounter between Mississauga leader Maungwuduas + his dance troupe and the French royal court. Below each portrait is a painting of the smallpox virus, which killed several members of the dance troupe. Of the eleven original members, only five returned.</blockquote>
 
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6237-atrf-ac-2000-web.jpg">
 
 
 From an Early Age by Rosalie Favell
 
-"I am trying to illustrate what we looked like as a Métis family in the 1960s ... My sister and I used to wear our watches really tight so that we could pull it back and say, 'See? We're not that dark, it's a tan.' Culturally ingrained racism affected my upbringing."
+<blockquote>I am trying to illustrate what we looked like as a Métis family in the 1960s ... My sister and I used to wear our watches really tight so that we could pull it back and say, 'See? We're not that dark, it's a tan.' Culturally ingrained racism affected my upbringing.</blockquote>
 
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6240-atrf-ac-2000-web.jpg">
 
@@ -61,36 +61,36 @@ From an Early Age by Rosalie Favell
 Crossing by Laura Millard
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6244-atrf-ac-2000-web.jpg">
 
-"These impermanent images inscribed on a place that's not mine felt like a metaphor - for land use, ownership, and the problems of Canada 150 in relation to treaty rights. This metaphor of going in circles and the absurdity of going nowhere fast was suddenly stilled by a quiet crossing."
+<blockquote>These impermanent images inscribed on a place that's not mine felt like a metaphor - for land use, ownership, and the problems of Canada 150 in relation to treaty rights. This metaphor of going in circles and the absurdity of going nowhere fast was suddenly stilled by a quiet crossing.</blockquote>
 
 Edge of a Moment by Meryl McMaster
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6251-atrf-ac-2000-web.jpg">
 
-"I stand with some uncertainty atop the buffalo jump at Head-Smashed-In. I stand where many have stood and many more will stand after. I stand with a longing to call my ancestors to travel with me into the future."
+<blockquote>I stand with some uncertainty atop the buffalo jump at Head-Smashed-In. I stand where many have stood and many more will stand after. I stand with a longing to call my ancestors to travel with me into the future.</blockquote>
 
 Man Has Reached Out and Touched the Tranquil Moon by Humboldt Magnussen
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6280-atrf-ac-2000-web.jpg">
 
-"The moon's history is very similar to Canada's history - settlers really wanted to own it. I think this longing for alternate spaces to own and colonize is like the hope for a 'new world'. That's what brought people over to Canada. Settlers who came to Canada romanticized the land, and we still do that today - but we forget who was here first. It is misguided to see Canada as 150 years old. As land and as people's home, it is much older. This is why I chose to depict the moon; it's part of everyone's landscape but impossible to own."
+<blockquote>The moon's history is very similar to Canada's history - settlers really wanted to own it. I think this longing for alternate spaces to own and colonize is like the hope for a 'new world'. That's what brought people over to Canada. Settlers who came to Canada romanticized the land, and we still do that today - but we forget who was here first. It is misguided to see Canada as 150 years old. As land and as people's home, it is much older. This is why I chose to depict the moon; it's part of everyone's landscape but impossible to own.</blockquote>
 
 Laura, Maanii and Annie by Sofia Mesa
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6287-atrf-ac-2000-web.jpg">
 
-"I think of Canada's relations with Indigenous peoples, with refugees and with non-status people as the moment before an arrow releases - the tension, the stretch... In the context of this 150 moment, my work is an exposure of those relations, literally and figuratively."
+<blockquote>I think of Canada's relations with Indigenous peoples, with refugees and with non-status people as the moment before an arrow releases - the tension, the stretch... In the context of this 150 moment, my work is an exposure of those relations, literally and figuratively.</blockquote>
 
 Interior Migrations by Yu GU
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6294-atrf-ac-2000-web.jpg">
 
-"These videos are about Niagara's migrant workers who spend 8 to 10 months of the year in Ontario, and send their wages to their families back in Jamaica or Mexico. It explores the tensions between their memories of home and their present reality."
+<blockquote>These videos are about Niagara's migrant workers who spend 8 to 10 months of the year in Ontario, and send their wages to their families back in Jamaica or Mexico. It explores the tensions between their memories of home and their present reality.</blockquote>
 
 Baby, Don't Worry, You Know That We Got You by Syrus Marcus Ware
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6298-atrf-ac-2000-web.jpg">
 
 left to right: Yusra Khogali, Rodney Diverlus, Melisse Watson, Queentite Opaleke
 
-"These are portraits of local activists in the movement for Black lives. One of the images is of acivist Yusra Khogali, who's a Black Muslim organizer with Black Lives Matter - Toronto. Yusra's been unfairly criticized for her valid comments about white supremacy in Canada.
+<blockquote>These are portraits of local activists in the movement for Black lives. One of the images is of acivist Yusra Khogali, who's a Black Muslim organizer with Black Lives Matter - Toronto. Yusra's been unfairly criticized for her valid comments about white supremacy in Canada.
 
-I want to celebrate Yusra's bravery and energy because it's easy to attack someone who seems like a representative of something, and forget they're an actual human being with feelings, families and communities. To me, people like Yusra - and activists Melisse Watson, Queentite Opaleke and Rodney Diverlus - are essential, because we need them in the fight. They're my people and I need them to survive. That's why I'm drawing them."
+I want to celebrate Yusra's bravery and energy because it's easy to attack someone who seems like a representative of something, and forget they're an actual human being with feelings, families and communities. To me, people like Yusra - and activists Melisse Watson, Queentite Opaleke and Rodney Diverlus - are essential, because we need them in the fight. They're my people and I need them to survive. That's why I'm drawing them.</blockquote>
 
 I literally have no words for this piece by Gu Xiong and still feel that Anique [captured it much better](https://www.instagram.com/p/BVxdN_zBQLD/).
 <img src="http://astheravenfli.es/journal/img/2017/08/IMG_6303-atrf-ac-2000-web.jpg">
