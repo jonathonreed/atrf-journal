@@ -13,9 +13,11 @@ image-sm:
 
 Mile 392. The turquoise paint of the Summit Café Motel stood out among the weeds and gravel south of the highway. In the tinted yellow of my sunglasses lenses it was blue like the sky. I pulled off the road and walked towards the motel. The wall advertised Archie's Towing available 24 hours daily. The windows that weren't broken reflected the trees behind me.
 
+<img src="http://astheravenfli.es/journal/img/2017/08/IMG_7352-JCR-2000-72-web.jpg">
+
 <img src="http://astheravenfli.es/journal/img/2017/08/9461182276_8c91fe16ee_o-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/08/IMG_7352-JCR-2000-72-web.jpg">
+<i><a href="https://www.flickr.com/photos/45379817@N08/9461182276/in/photostream/" target="blank">Postcard: The Summit Motel and Cafe, c. 1963</a></i>
 
 The building was clearly abandoned, but it wasn't derelict like other run-down gas stations and motels that I'd seen along the highway. I wondered how long it had really been since the owner had locked its doors for the last time, since the windows had been shattered instead. A season? Three?
 
