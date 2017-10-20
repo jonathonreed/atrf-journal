@@ -6,7 +6,7 @@ date: 2017-04-14
 categories:
   - History
 description: Knowing what I know now, I treasure the land-based stories of my youthful adventures and imagination, and I also carry the painful, defining history that precedes them.
-image: http://astheravenfli.es/journal/img/2017/04/04141701-2000-web.jpg
+image: http://jonathonreed.com/adventure/atrf/journal/img/2017/04/04141701-2000-web.jpg
 image-sm:
 ---
 
@@ -47,9 +47,9 @@ I don't know the details of the saga of the Longford Lumber Company, but I know 
 
 That is the legacy of my ancestors in this place: industry and fire and a capitalist venture that never once looked back.
 
-<img src="http://astheravenfli.es/journal/img/2017/04/victoriacountynorth-1500.jpg">
+<img src="http://jonathonreed.com/adventure/atrf/journal/img/2017/04/victoriacountynorth-1500.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/04/mcr13art03_fig3-web.jpg">
+<img src="http://jonathonreed.com/adventure/atrf/journal/img/2017/04/mcr13art03_fig3-web.jpg">
 
 Knowing what I know now, I treasure the land-based stories of my youthful adventures and imagination, and I also carry the painful, defining history that precedes them. I am not here by happenstance. I am intrinsically part of a long history on this land that has witnessed both hope and heartbreak. This doesn't mean that I feel guilty for my lineage, but it does mean I have a responsibility to know my past and to decide what kind of future I believe in.
 

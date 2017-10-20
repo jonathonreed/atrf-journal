@@ -6,7 +6,7 @@ date: 2017-04-22
 categories:
   - Partners
 description: Our mentors and guides in allyship with Indigenous peoples across Turtle Island.
-image: http://astheravenfli.es/journal/img/2017/04/IMG_8997-JCR-2000-web.jpg
+image: http://jonathonreed.com/adventure/atrf/journal/img/2017/04/IMG_8997-JCR-2000-web.jpg
 image-sm:
 ---
 
@@ -26,9 +26,9 @@ That was the first teaching I remember learning from Pytor, but it was the first
 
 I'm proud to call him a friend and I'm privileged to have him as a mentor.
 
-<img src="http://astheravenfli.es/journal/img/2017/04/IMG_8987-JCR-2000-web.jpg">
+<img src="http://jonathonreed.com/adventure/atrf/journal/img/2017/04/IMG_8987-JCR-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/04/IMG_8997-JCR-2000-web.jpg">
+<img src="http://jonathonreed.com/adventure/atrf/journal/img/2017/04/IMG_8997-JCR-2000-web.jpg">
 
 Pytor's company <a href="https://3things.ca" target="blank">3 Things Consulting</a> works with Indigenous communities across Canada to build capacities for resilience, healing and youth leadership. Asad and I share their commitment to reconciliation, and one of the ways we will be doing that is by amplifying Indigenous voices and histories  throughout this project. We intend to be allies to the Indigenous communities whose traditional lands we will be travelling on.
 
