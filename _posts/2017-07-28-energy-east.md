@@ -7,7 +7,7 @@ date: 2017-07-28
 categories:
   - Climate
 description: “I would be fighting this as a matter of spiritual integrity, even if I didn’t have grandchildren.”
-image: http://astheravenfli.es/journal/img/2017/07/IMG_0669-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/07/IMG_0669-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -15,11 +15,11 @@ I first heard the phrase 'coule pas chez nous' at a climate-related civil disobe
 
 <a href="https://www.coulepascheznous.com" target="blank">Coule pas chez nous</a>, which translates inelegantly to 'don't flow in our home,' is a Québécois collective organizing against oil pipeline expansion projects like TransCanada's Energy East pipeline and Enbridge's Line 9 reversal. The St. Lawrence River valley contained numerous signs demonstrating opposition to pipelines through Québec and advocating for the protection of water systems.
 
-<img src="http://astheravenfli.es/journal/img/2017/07/IMG_4042-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4042-atrf-jcr-2000-web.jpg">
 
 I tried to interview someone in Québec but wasn't able to. When I told this to our host in North Bay, however, I found out that North Bay is also a centre of pipeline resistance and got connected to two local organizers, Jim and Donna Sinclair. If Coule pas chez nous leads the regional resistance to Energy East in Québec, <a href="http://www.stopenergyeastpipeline.ca" target="blank">Stop Energy East</a> does the same for North Bay and the surrounding region. Jim and Donna are part of that.
 
-<img src="http://astheravenfli.es/journal/img/2017/07/IMG_0671-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_0671-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335261467&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -101,7 +101,7 @@ A stole is a part of the traditional clothing of some ministers.
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335261518&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<img src="http://astheravenfli.es/journal/img/2017/07/IMG_0675-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_0675-atrf-jcr-2000-web.jpg">
 
 That sort of relates to what I find to be one of the most interesting parts of this conversation. I guess it's one thing to hear about climate change and fossil fuel resistance from punk university kids, or to hear about water protection from Indigenous activists. It's another to hear about it from the perspective of Jim and Donna. There's a lot behind their commitment to opposing Energy East. There's local solidarity, for example, there's scientific evidence, spiritual integrity and a determination to witness injustice. 
 

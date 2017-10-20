@@ -7,7 +7,7 @@ date: 2017-06-21
 categories:
   - Culture
 description: If I can imagine a town coming together to do something like that, I can imagine them coming together to do anything.
-image: http://astheravenfli.es/journal/img/2017/06/IMG_3526-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/IMG_3526-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -15,9 +15,9 @@ image-sm:
 
 The <a href="http://shigawakefair.ca/" target="blank">Shigawake Agricultural Fair and Music Festival</a> (which I'll just call 'the fair') came up in conversation multiple times and it was clearly something that formed a large part of the local culture, and Nikki's connection to her community. We ended up talking about the fair for more than an hour, and at some point I pulled out an audio recorder to catch some of the conversation.
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3524-HDR-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3524-HDR-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/poster-fair.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/poster-fair.jpg">
 
 The fair is almost as old as Canada itself and is one of the longest running in Québec, with its roots going back more than 100 years on the south coast of the Gaspé Peninsula.
 
@@ -25,9 +25,9 @@ Nikki's laughter intertwined with her stories in a way that I can't fully expres
 
 "They seem to have their own way of growing potatoes." 
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3548-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3548-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3547-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3547-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329436445&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -71,4 +71,4 @@ I haven't been able to watch it because we've been on cell data almost the entir
 
 I also found a quote from one of the event partners, CEDEC, and that's what I'll conclude with because it's a large part of my desire to share this story. "Perhaps Shigawake will give you the information and inspiration to take a closer look at your local fair in a new way." Fairs positively impact their communities and I think it's worth reflecting on what can be learned from Shigawake as we strive to maintain agricultural traditions and values, and above all community, in the years to come.
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3557-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3557-atrf-jcr-2000-web.jpg">

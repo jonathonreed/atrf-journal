@@ -7,7 +7,7 @@ date: 2017-05-15
 categories:
   - People
 description: Visit outport Newfoundland, see it firsthand before it disappears.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_1297-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_1297-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -21,11 +21,11 @@ When I first met him he had struck up a conversation with Ray, an old fisherman 
 
 I wasn't surprised because I'd witnessed parts of similar conversations, but it was beautiful nonetheless. Terry's belonging was connected his family, and his family belonged to the land. To the ocean.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_1290-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1290-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_1291-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1291-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_1283-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1283-atrf-jcr-2000-web.jpg">
 
 Terry knew intimately that the coast of Newfoundland is changing. When he was born there wasn't yet a causeway to Twillingate Island; when he grew up the weather was different, the headlines were different.
 

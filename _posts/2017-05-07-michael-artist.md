@@ -6,7 +6,7 @@ date: 2017-05-07
 categories:
   - People
 description: Printmaking on the harbour.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_0324-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_0324-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -16,7 +16,7 @@ Spent some time with an artist, Michael Ciesielski, who is currently operating o
 
 He's doing a year-long residency at St. Michael's, an artist-run print studio that provides a high-quality printmaking space for established and emerging artists. The studio is on Water Street, overlooking the harbour where cargo ships and cruise liners alike dock to do business in the small city. Across the bay the rocky hill of Shea Heights closes off the view of the ocean.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0349-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0349-atrf-jcr-2000-web.jpg">
 
 I never saw the studio in use, but I could imagine the large machine at work with creative handworkers guiding the pages and cuts into the right position. It almost felt like a timber mill with the stillness of its large machines, but it was thrumming with a soft energy that has always been missing for me in the dusty woodwork of shut-down mills. There were punk flyers on the corkboards and handwritten messages on the walls. 
 
@@ -32,16 +32,16 @@ He's currently waiting on an order of expensive paper to keep printing. He likes
 
 "I'm the saint."
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0328-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0328-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0324-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0324-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0321-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0321-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0339-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0339-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0342-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0342-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0343-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0343-atrf-jcr-2000-web.jpg">
 
 You can find Michael on <a href="http://instagram.com/michaelciesielski" target="blank">Instagram</a>.

@@ -7,7 +7,7 @@ date: 2017-07-10
 categories:
   - Indigenous
 description: “I broke the cycle.”
-image: http://astheravenfli.es/journal/img/2017/06/IMG_4143-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/IMG_4143-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -21,7 +21,7 @@ I had several impactful conversations with Shaylynn; this is part of just one. T
 
 "So I feel very honoured," she continued, "not only as an Anishinaabekwe Indigenous woman but also as an Indigenous youth to be here right now. I'm glad that I'm here right now in this moment, supporting my people. I feel very strong and empowered and just at home here, even though my home is eight hours away from here, I feel really connected with everyone that's here. We're all here for the same reasons, we're taking a stand for our people."
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_4142-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4142-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332534327&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -55,9 +55,9 @@ She didn't have that sense of power and identity when she was younger, a result 
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332534338&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_4148-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4148-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_4266-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4266-atrf-jcr-2000-web.jpg">
 
 When the recording was done, there was so much water on my screen that I couldn't stop the recording, so I asked Shaylynn if there was any message she would share if she could. Without hesitating, she said yes.
 

@@ -7,11 +7,11 @@ date: 2017-07-30
 categories:
   - People
 description: My thoughts are with you, Tanner. Keep carrying hope.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_2687-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_2687-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
-I first met Tanner in Lennox Island First Nation on Prince Edward Island. He joined a few other members of Hey Cuzzins drum group to record part of an Indigenous-mixed-punk-rock track with <a href="http://astheravenfli.es/journal/2017/06/06/gilbert-sark-drum-keeper/" target="blank">Gilbert Sark</a> and Logen Lewis, as well as a couple other young men.
+I first met Tanner in Lennox Island First Nation on Prince Edward Island. He joined a few other members of Hey Cuzzins drum group to record part of an Indigenous-mixed-punk-rock track with <a href="http://jonathonreed.com/atrf/2017/06/06/gilbert-sark-drum-keeper/" target="blank">Gilbert Sark</a> and Logen Lewis, as well as a couple other young men.
 
 He was friendly but softspoken. He teased the boy whose bike I was trying to fix. He carried a book of handwritten rap lyrics and had a skull tattooed on his right hand.
 
@@ -33,13 +33,13 @@ Another part of what has brought him to where he is is the adults and mentors wa
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335387490&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2682-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2682-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2676-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2676-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2678-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2678-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2679-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2679-atrf-jcr-2000-web.jpg">
 
 Tanner's story isn't over. Far from it. But it has transformed from what it was into a story of strength and healing. I can still see him, one hand holding his drum stick the other pressing his medicine bag against his lips, clear eyes and a song in his heart.
 

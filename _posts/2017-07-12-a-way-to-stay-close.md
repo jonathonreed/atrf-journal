@@ -7,7 +7,7 @@ date: 2017-07-12
 categories:
   - Masculinity
 description: “The bracelets are a way to stay close with my granddaughters, even when I’m far away.”
-image: http://astheravenfli.es/journal/img/2017/07/IMG_4532-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/07/IMG_4532-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -17,6 +17,6 @@ I met him on his way from New Brunswick to Alberta to visit his son. We talked a
 
 Homophobia all too often destabilizes men's ability to be nurturing and loving, so it's important to acknowledge and support those qualities where we see them. Even in something as small and as simple as two handmade bracelets.
 
-<img src="http://astheravenfli.es/journal/img/2017/07/IMG_4533-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4533-atrf-jcr-2000-web.jpg">
 
 In collaboration with <a href="http://nextgenmen.ca" target="blank">Next Gen Men</a>. On Facebook <a href="https://www.facebook.com/chairsandtablesorg/posts/978477548961661" target="blank">here</a>.

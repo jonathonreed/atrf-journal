@@ -7,7 +7,7 @@ date: 2017-05-09
 categories:
   - People
 description: I’m a gender transformer.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_0558-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_0558-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -17,9 +17,9 @@ Jason had a personality that even as I write this I know is going to be difficul
 
 It was performance, and it was intentional as much as it was fun. His drag persona lifted the conversation and spun it around with laughter and attitude. Irma's presence was like mascara, unpredictable and uncompromising and an outline of clarity. Beautiful as hell.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0394-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0394-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0399-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0399-atrf-jcr-2000-web.jpg">
 
 Jason walked in out of the cold St. John's evening with headphones around his neck and his hands in his pockets. He took off his jacket and I took a couple of photos of him as 'before' shots, then he started setting up his mirror and unpacking his makeup kit.
 
@@ -29,9 +29,9 @@ The first thing he did was glue his eyebrows back in order to repaint them highe
 
 As he started applying foundation he started talking about his roots in drag, from dressing up as a kid to a feminine costume in high school to his introduction to night clubs in Toronto as a young adult.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0405-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0405-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0410-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0410-atrf-jcr-2000-web.jpg">
 
 "I started working at a night club in Toronto where I met a lot of interesting people, one of which was somebody who I perceived as a boy but everybody called Judy, and I was confused about it but didn't question it. Then a few weeks later at a party I spent time with a girl that looked really cool and it wasn't until the photos came out that I realized, like, oh that's Judy and Judy does drag and oh I understand. It took me way too long to get it though. Judy has since transitioned so she's a woman now, and she's fabulous. She's my drag mother."
 
@@ -41,11 +41,11 @@ A drag mother is an older, more experienced queen who acts as a mentor for someo
 
 You could hear the pride and enjoyment in Irma's voice as she reminisced about her first time leading her performance, and without a beat Jason's self-deprecating humour added with a laugh: "It was only downhill from there."
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0411-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0411-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0416-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0416-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0418-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0418-atrf-jcr-2000-web.jpg">
 
 Watching Irma do her makeup was transfixing, and I kept forgetting to ask questions and just watched her instead. It was meticulous and careful, and at the same time bold and full of risks—dark eye shadow doesn't allow for a lot of mistakes. I realized afterwards that I never looked at the mirror from her side, which seems like both a shame and a wonderful mystery. Her reflection was her own, and she made it perfect.
 
@@ -61,9 +61,9 @@ The combination of the two kinds of stories drove home the point that for her, d
 
 It felt like the makeup took a long time, then all of a sudden it was done. She fixed her wig, threw on a jacket and a couple accessories and suddenly all remnants of the careful, laid-back makeup artist were gone, and in his place was a queen.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0434-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0434-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0450-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0450-atrf-jcr-2000-web.jpg">
 
 I took a break to talk on the phone with a transgender teenager, and came back with the question why Irma was a drag queen and not 'just trans.'
 
@@ -81,9 +81,9 @@ The conversation shifted to the origins of her weekly RuPaul screenings and drag
 
 "They have RuPaul's Drag Race Convention now, which is in Los Angeles, and apparently it's a lot of thirteen year olds. RuPaul's Drag Race has really normalized drag, which is interesting because it's this punk, underground queer thing that has been brought into the mainstream. It's bittersweet."
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0473-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0473-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0474-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0474-atrf-jcr-2000-web.jpg">
 
 "What would you tell a kid who's never heard of drag before?"
 
@@ -97,9 +97,9 @@ I asked about the history of drag and she told me about drag performances in Wor
 
 There was a moment of silence, then she gasped. "Drag name. Donna Time." 
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0509-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0509-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_0558-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0558-atrf-jcr-2000-web.jpg">
 
 Photographing Irma was one of my most memorable shoots in all of my experience as a photographer. She was like a professional model, and her transformation from the young man that walked in off the street made it all the more impactful. I loved her makeup. I loved David Bowie emblazoned on her t-shirt. I loved her lack of hesitation and her playfulness and the fact that she could make joke poses that still looked stunning.
 

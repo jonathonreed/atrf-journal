@@ -7,7 +7,7 @@ date: 2017-05-24
 categories:
   - Climate
 description: Learning about the consequences of climate change in a small coastal community.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_2011-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_2011-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -15,17 +15,17 @@ In Chéticamp our host, photographer and guide to cracking lobsters was <a href=
 
 The conversation I'm going to be referencing about climate change actually happened the following morning while Michel and I were driving back into Chéticamp from Cape Breton Highlands National Park, but my most evocative photographs are from that sunset at the harbour. I'm using them in an effort to juxtapose beauty and reality.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2140-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2140-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2143-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2143-atrf-jcr-2000-web.jpg">
 
 The coastline was windy, and as we drove the main street through Chéticamp the ocean waves pressed against the rocky shoreline and the colourful fishing boats in the harbour. The sky was overcast. Not a lot of people were out. Throughout the morning, our conversation had traced a lot of subjects, from moose hunting to the 2015 flash flood of Chéticamp Campground to the effects of <a href="https://en.wikipedia.org/wiki/Suetes" target="blank">Les Suêtes</a> winds on the west coast of Cape Breton. On that street in town, however, Michel grew uncharacteristically quiet.
 
 "It won't be long, you know," he said. "This will be under water."
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2065-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2065-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2069-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2069-atrf-jcr-2000-web.jpg">
 
 That hit me. I looked out the window and saw people whose homes had a few decades left before rising sea levels would sweep the foundation out from under them. The houses were right there, some decades or hundreds of years old. The ocean was there too, like a ticking time bomb.
 
@@ -37,7 +37,7 @@ The coastal communities of Nova Scotia have been the focus of regional, provinci
 
 Scientists used 3D mapping data of the current coastline to predict sea level rise of <a href="http://www.capebretonpost.com/news/local/2013/1/9/cheticamps-climate-change-challenges-3153623.html" target="blank">1.1 metres by the year 2100</a> and possible storm surges of 3.78 metres for the area. As I read the data I stare at the wall across the table from me and imagine the harbour front of Chéticamp, trying to visualize what that meant. I can't.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/cheticamp-2100-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/cheticamp-2100-web.jpg">
 
 I come across <a href="http://www.cbc.ca/news/canada/nova-scotia/climate-change-sea-level-rise-environment-government-report-1.3961217" target="blank">an interview with Dalhousie marine biologist Boris Worm</a> explaining the significance of the 2016 report from United States National Oceanic and Atmospheric Administration. "Nova Scotia is at the losing end of this game," he said. "Even a single foot of sea level rise would increase the likelihood of these floods 25-fold, meaning it doesn't happen every five years it happens five times a year. Think about that. That means all the time. And that's just a foot—we're talking about eight feet."
 
@@ -55,8 +55,8 @@ The questions quickly scale out of reach, and I decide to leave it at that. I re
 
 I laughed. To be hopeful with the ocean rising beside you seems as foolhardy as you can get, but as we turned back to his house with the wind pushing against us, it seemed like as good a foundation as any.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2098-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2098-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2107-pano-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2107-pano-atrf-jcr-2000-web.jpg">
 
 <i>Thanks to Michel Soucy for sending a copy of the forecasted storm surge map for Chéticamp, providing feedback and corrections to the article, and for taking us to shoot photographs of the area. And for the lobster.</i>

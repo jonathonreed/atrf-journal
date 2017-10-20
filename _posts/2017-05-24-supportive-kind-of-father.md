@@ -7,7 +7,7 @@ date: 2017-05-24
 categories:
   - Masculinity
 description: Amidst rum and fire.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_2309-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_2309-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -17,6 +17,6 @@ At one point he was talking about his kids and he mentioned going to his daughte
 
 "I'm not a ballet kind of father." He paused. "But I am a supportive kind of father."
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2301-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2301-atrf-jcr-2000-web.jpg">
 
 In collaboration with <a href="http://nextgenmen.ca" target="blank">Next Gen Men</a>. On Facebook <a href="https://www.facebook.com/chairsandtablesorg/photos/a.440181209457967.1073741828.258601667615923/947511095391640/?type=3&theater" target="blank">here</a>.

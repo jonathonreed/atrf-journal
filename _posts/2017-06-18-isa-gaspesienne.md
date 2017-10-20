@@ -7,7 +7,7 @@ date: 2017-06-18
 categories:
   - People
 description: The feeling of coming back to a place that you loved and being greeted with a smile.
-image: http://astheravenfli.es/journal/img/2017/06/IMG_3686-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/IMG_3686-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -27,4 +27,4 @@ She was born and raised in Gaspé and started working at the café about the sam
 
 "Once you've lived here, really lived, the Gaspésie stays with you. It's the air, the sea, the people." She looked at the photo of her posing goofily. "Use that one," she added, "it's more me."
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3685-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3685-atrf-jcr-2000-web.jpg">

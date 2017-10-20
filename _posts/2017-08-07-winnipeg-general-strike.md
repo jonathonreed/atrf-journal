@@ -7,7 +7,7 @@ date: 2017-08-07
 categories:
   - History
 description: What struck me about the Winnipeg General Strike was the language used by the Citizens’ Committee against the strikers.
-image: http://astheravenfli.es/journal/img/2017/08/6881008-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/08/6881008-web.jpg
 image-sm:
 --- 
 
@@ -21,7 +21,7 @@ The general strike in Winnipeg was set to start at 11 AM on May 15. By noon, the
 
 Winnipeg's elite, including manufacturers, bankers and politicians, formed the Citizens' Committee of One Thousand, whose purpose was to break the strike. Ultimately, the connections of the Citizens' Committee to the halls of power in Ottawa led to the dismissal of federal workers in Winnipeg, the amendment of the Immigration Act and Criminal Code, arrest of leaders of the Central Strike Committee, and a violent reprisal from the Royal North-West Mounted Police that left 30 casualties. Facing the combined forces of the government and the Citizens' Committee, the strike was defeated on June 25.
 
-<img src="http://astheravenfli.es/journal/img/2017/08/6134594-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/08/6134594-web.jpg">
 
 What struck me about the Winnipeg General Strike was the language used by the Citizens' Committee against the strikers. Having lost the majority of their workers, The Winnipeg Free Press and Winnipeg Tribune turned against the strike. The Citizens' Committee made use of the language of the First World War and Russian Revolution in the press, calling the strikers 'bohunks' and 'anarchists' and 'alien scum.' The New York Times printed the headline 'Bolshevism Invades Canada' on its front page. Solicitor General and future Prime Minister Arthur Meighen declared, "The leaders of the general strike are all revolutionists of varying degrees and types, from crazy idealists to ordinary thieves."
 
@@ -29,7 +29,7 @@ There's historically no truth to that. But at the time, widespread fears of revo
 
 "This is not a strike at all," declared The Winnipeg Citizen on May 19. "It is Revolution. It is a serious attempt to overturn British institutions in this Western country and to supplant them with the Russian Bolshevik system of Soviet rule."
 
-<img src="http://astheravenfli.es/journal/img/2017/08/Pg001-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/08/Pg001-web.jpg">
 
 There are a lot of ways that the history of the Winnipeg General Strike continued after 1919, for example with the defeat of the federal Conservative government in 1921 or the establishment of the Co-operative Commonwealth Federation in 1932 that became the New Democratic Party in 1961. A wave of increased unionism and militancy swept across Canada in the wake of the Winnipeg strike, yet almost three decades passed before Canadian workers secured union recognition and collective bargaining rights.
 

@@ -7,7 +7,7 @@ date: 2017-07-28
 categories:
   - People
 description: A story of female leadership from decades ago.
-image: http://astheravenfli.es/journal/img/2017/07/IMG_5017-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/07/IMG_5017-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -37,4 +37,4 @@ Listening to her describe these experiences, I was doing my best to remind mysel
 
 <blockquote>&ldquo;There&rsquo;s a lot of young women in engineering and forestry now that have no idea that it was such a struggle before. We had to get over these issues, and we worked through them. Together.&rdquo;</blockquote>
 
-<img src="http://astheravenfli.es/journal/img/2017/07/IMG_5023-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_5023-atrf-jcr-2000-web.jpg">

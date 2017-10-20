@@ -6,7 +6,7 @@ date: 2017-05-06
 categories:
   - Personal
 description: We are privileged to be loved.
-image: http://astheravenfli.es/journal/img/2017/04/IMG_8732-JCR-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/04/IMG_8732-JCR-2000-web.jpg
 image-sm:
 ---
 
@@ -22,6 +22,6 @@ Even when we're on the road our families will be holding this trip up. Jonathon'
 
 Maybe it's that we're willing to ask our families for help more shamelessly than we would anyone else. More likely, though, they are more willing to show up and uplift both our work and ourselves, because we are privileged to be loved.
 
-<img src="http://astheravenfli.es/journal/img/2017/04/IMG_0034-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_0034-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/04/IMG_0016-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_0016-atrf-jcr-2000-web.jpg">

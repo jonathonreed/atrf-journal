@@ -6,7 +6,7 @@ date: 2017-04-19
 categories:
   - Personal
 description: Still hovering around freezing on the east coast.
-image: http://jonathonreed.com/adventure/atrf/journal/img/2017/04/IMG_8642-JCR-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/04/IMG_8642-JCR-2000-web.jpg
 image-sm:
 ---
 

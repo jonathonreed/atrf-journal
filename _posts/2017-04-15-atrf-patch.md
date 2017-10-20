@@ -6,7 +6,7 @@ date: 2017-04-15
 categories:
   - Product
 description: Limited edition patch.
-image: http://jonathonreed.com/adventure/atrf/journal/img/2017/04/IMG_8639-AC-2000-WEB.jpg
+image: http://jonathonreed.com/atrf/img/2017/04/IMG_8639-AC-2000-WEB.jpg
 image-sm:
 ---
 
@@ -18,7 +18,7 @@ The naming of As the Raven Flies was in and of itself its own feat. The idea beg
 
 We hope that ATRF has a sense of exploration and wildness, as well as an acknowledgement of Indigenous cultures that will be an integral part of our documentation.
 
-<img src="http://jonathonreed.com/adventure/atrf/journal/img/2017/04/IMG_8639-AC-2000-WEB.jpg">
-<img src="http://jonathonreed.com/adventure/atrf/journal/img/2017/04/IMG_8637-AC-2000-WEB.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_8639-AC-2000-WEB.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_8637-AC-2000-WEB.jpg">
 
 We aren't going to be printing anymore of these, so if you missed out on supporting the campaign or just want this beautiful hand-designed patch, <a href="https://gum.co/LOsKN">order one</a>! 

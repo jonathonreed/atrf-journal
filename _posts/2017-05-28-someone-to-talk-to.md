@@ -7,7 +7,7 @@ date: 2017-05-28
 categories:
   - Masculinity
 description: We sat on the balcony in the cold night air. He smoked and I listened.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_2423-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_2423-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 

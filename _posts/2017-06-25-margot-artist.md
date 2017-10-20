@@ -7,7 +7,7 @@ date: 2017-06-25
 categories:
   - People
 description: Wind and waves, colours and driftwood and in ideas yet to come.
-image: http://astheravenfli.es/journal/img/2017/06/IMG_3668-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/IMG_3668-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -23,9 +23,9 @@ I turned on the audio recorder as I learned more about who she was and what she 
 
 "My name is Margot Merette," she said. "On vit juste en face de Rocher Percé."
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_9586-atrf-ac-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_9586-atrf-ac-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3667-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3667-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329969179&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -37,11 +37,11 @@ Throughout her childhood and her career as an artist, she always loved trying ne
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329969182&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3618-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3618-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3619-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3619-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3621-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3621-atrf-jcr-2000-web.jpg">
 
 What made her <i>atelier</i> so visually stunning for me was its wide variety of media. There were paintings on canvas, paintings on mushrooms, paintings on rocks. There were portraits, landscapes, colours, textures. There were rough sculptures made of driftwood and vanished sculptures made with sanded hardwood. There were bones, tiles, starfish, shells, beads and stones. She called herself, among it all, a multidisciplinary artist.
 
@@ -81,7 +81,7 @@ After talking to Gerard I told her that I understood what she meant. He had so m
 
 She raised her eyebrows. "Des fous."
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3638-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3638-atrf-jcr-2000-web.jpg">
 
 I know that it would be impossible to encapsulate Margot's decades of experience and creation into a single photo essay, so I'm going to stop there. It was visually stunning, a small paradise on the coast north of Percé. I often think of art as a city-based culture. For Margot, however, it exists in wind and waves, colours and driftwood and in ideas yet to come.
 
@@ -89,4 +89,4 @@ I know that it would be impossible to encapsulate Margot's decades of experience
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZOHmI4vPCYo" frameborder="0" allowfullscreen></iframe>
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3651-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3651-atrf-jcr-2000-web.jpg">

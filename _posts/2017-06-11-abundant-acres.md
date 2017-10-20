@@ -7,7 +7,7 @@ date: 2017-06-11
 categories:
   - Places
 description: Practice drone footage. Sleepy David.
-image: http://astheravenfli.es/journal/img/2017/06/IMG_8296-atrf-ac-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/IMG_8296-atrf-ac-2000-web.jpg
 image-sm:
 ---
 

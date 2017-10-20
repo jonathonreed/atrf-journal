@@ -7,7 +7,7 @@ date: 2017-05-31
 categories:
   - Climate
 description: A brief reflection on climate-related news reports, from Lennox Island.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_8579-atrf-ac-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_8579-atrf-ac-2000-web.jpg
 image-sm:
 ---
 
@@ -27,6 +27,6 @@ I say we can't because I've marched with an artisan from Vanuatu, I've listened 
 
 "We can't give up."
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_8588-atrf-ac-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_8588-atrf-ac-2000-web.jpg">
 
 On Facebook <a href="https://www.facebook.com/JonathonReed/posts/10155398991864706" target="blank">here</a>.

@@ -7,7 +7,7 @@ date: 2017-06-21
 categories:
   - Masculinity
 description: I felt that I was witnessing the life of a great man.
-image: http://astheravenfli.es/journal/img/2017/06/john-3.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/john-3.jpg
 image-sm:
 ---
 
@@ -17,9 +17,9 @@ He was born in Jamaica and immigrated to Canada in 1960 with enough money to pay
 
 When I saw these photos, I knew I was looking at a special relationship. In both photos, decades apart, John is smiling with a quiet mixture of pride and enjoyment, his arm around his son like he knows exactly where he wants to be and it's right where he is. In both photos, John has taken a moment to be really there, really with his son. To have that kind of closeness, and to have it span a child's entire life, is special.
 
-<img src="http://astheravenfli.es/journal/img/2017/06/john-2.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/john-2.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/john-3.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/john-3.jpg">
 
 I read some of the text accompanying these photos, and that's when I read about John's relationship with his grandson.
 

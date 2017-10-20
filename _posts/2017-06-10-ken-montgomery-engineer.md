@@ -7,19 +7,19 @@ date: 2017-06-10
 categories:
   - People
 description: If you look at wind on a worldwide basis, there’s way more power in the wind than you could ever harness, or you would ever need.
-image: http://astheravenfli.es/journal/img/2017/06/IMG_2716-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/IMG_2716-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
 As we bicycled to North Cape, the wind picked up behind us. What had previously been a relatively calm day on the inland highways of northwestern Prince Edward Island became a windy stretch of coastline. Not a strong wind by the standards of the Wind Energy Institute. But as the low clouds lifted and blew north, the wind turbines began to turn.
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_2700-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_2700-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_2707-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_2707-atrf-jcr-2000-web.jpg">
 
 Ken is a retired engineer who spent the final years of his career at the Wind Energy Institute. He still works occasionally on various projects and met with us beside a large glass window behind which dozens of white wind turbines were slowly rotating.
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_2715-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_2715-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327423679&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -67,4 +67,4 @@ Of course it's in the future, but so was a lot of what Ken talked about—and so
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327423696&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_8643-atrf-ac-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_8643-atrf-ac-2000-web.jpg">

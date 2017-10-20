@@ -7,7 +7,7 @@ date: 2017-08-05
 categories:
   - History
 description: The history of Neys is partly forgotten, but it is also partly alive and fighting.
-image: http://astheravenfli.es/journal/img/2017/07/IMG_4943-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/07/IMG_4943-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -15,9 +15,9 @@ Neys Provincial Park is a park on the north shore of Lake Superior, known for it
 
 I had a pamphlet from the park about Neys' history during World War II but I lost it somewhere, so bear in mind my research is missing the easiest and perhaps most comprehensive source.
 
-<img src="http://astheravenfli.es/journal/img/2017/07/hannover-neys-1-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/hannover-neys-1-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/07/nmp3934-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/nmp3934-web.jpg">
 
 <h2>German imprisonment</h2>
 
@@ -30,23 +30,23 @@ German prisoners at Neys were put to work logging in the Pic and Little Pic Rive
 I don't remember the exact timing of Neys' reorganization, but if I remember correctly it followed a large escape at Angler POW camp east of Neys in April 1941. At some point in researching this I read something that compared Angler to the <a href="https://en.wikipedia.org/wiki/Stalag_Luft_III#The_.22Great_Escape.22" target="blank">Great Escape</a> from German-held Stalag Luft III—the same kind of large-scale escape operation, but instead of Allied airmen in Germany, it was German soldiers in Canada. So after the large and well-publicised the escape attempt in Angler (in which all the prisoners were eventually killed or recaptured) there was a reorganization of the POW camps on Lake Superior. They implemented a classification system of the German prisoners: 'Whites' were soldiers who had never supported or who had become disenchanted with Nazism, 'Greys' were neutral and 'Blacks' were political and ideological Nazis. Neys became a prison primarily 
 containing Black-designated soldiers.
 
-<img src="http://astheravenfli.es/journal/img/2017/07/IMG_4959-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4959-atrf-jcr-2000-web.jpg">
 
 If you walk through any of Neys' forests, you will find remnants of imprisonment nestled among the quiet pines. Pieces of concrete jut out from the ground, half-hidden below soft moss. Scraps of metal collect pine needles, creating small beds of soil where flowers grow.
 
 Maybe it was the sunset, or the lack of wind. Maybe it was the feeling of cold wire-wrapped nails between my fingers with the smell of pine around me. Whatever it was, the ruins of Neys had a stillness to them. They lingered as a witness to the past, but felt almost forgotten as they gradually vanished beneath the slow growth of the forest.
 
-<img src="http://astheravenfli.es/journal/img/2017/07/IMG_4944-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4944-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/07/IMG_4951-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4951-atrf-jcr-2000-web.jpg">
 
 That is the risk of history, I suppose. Our world changes and like trees we inexorably look forward, forgetting where our roots are planted in order to reach for the sky. Sometimes, however, we need to look at where we started in order to look ahead with more clarity.
 
 Neys wasn't just a POW camp. I read some sources that called it a Japanese internment and/or work camp, but as best as I can tell it was used in 1946-1947 as a relocation camp for Japanese Canadians who had been displaced and held in internment camps during the war. Angler, however, was a site of Japanese internment.
 
-<img src="http://astheravenfli.es/journal/img/2017/07/Neyes-W-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/Neyes-W-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/07/Neyes-100-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/07/Neyes-100-web.jpg">
 
 <h2>Japanese internment</h2>
 

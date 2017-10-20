@@ -7,7 +7,7 @@ date: 2017-06-06
 categories:
   - Indigenous
 description: The first Raven we have spoken to.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_2612-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_2612-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -23,9 +23,9 @@ We laughed and shook hands with Gilbert, who had indeed walked up beside the cou
 
 He waved his hand. "Of course. I'll see you downstairs."
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2617-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2617-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_8562-atrf-ac-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_8562-atrf-ac-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177601&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -47,7 +47,7 @@ Gilbert talked about meeting with an Elder whose backyard was steadily washing a
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177633&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-Since we grew up in Ontario, we'd never heard of a storm surge. It came up in Jonathon's research about <a href="http://astheravenfli.es/journal/2017/05/24/this-will-be-under-water/">how climate change is affecting Chéticamp, Nova Scotia</a>, which is when we first understood its seriousness. A storm surge, put simply, is when the sea level swells due to low atmospheric pressure and high winds. A diagram we found from the National Oceanic and Atmospheric Administration put a storm surge <a href="http://www.nws.noaa.gov/om/hurricane/resources/surge_intro.pdf" target="blank">8.5 times higher than normal high tide</a>. They're a major focus of storm readiness on the Gulf of Mexico and Eastern Seaboard, and highly relevant to emergency response plans on Canada's east coast. 
+Since we grew up in Ontario, we'd never heard of a storm surge. It came up in Jonathon's research about <a href="http://jonathonreed.com/atrf/2017/05/24/this-will-be-under-water/">how climate change is affecting Chéticamp, Nova Scotia</a>, which is when we first understood its seriousness. A storm surge, put simply, is when the sea level swells due to low atmospheric pressure and high winds. A diagram we found from the National Oceanic and Atmospheric Administration put a storm surge <a href="http://www.nws.noaa.gov/om/hurricane/resources/surge_intro.pdf" target="blank">8.5 times higher than normal high tide</a>. They're a major focus of storm readiness on the Gulf of Mexico and Eastern Seaboard, and highly relevant to emergency response plans on Canada's east coast. 
 
 When a storm hits Lennox Island, the community braces for the impact of the storm surge.
 

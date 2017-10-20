@@ -7,7 +7,7 @@ date: 2017-05-26
 categories:
   - Indigenous
 description: Honour who you are, where you come from.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_2347-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_2347-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -17,7 +17,7 @@ When we reached the exit off the Trans-Canada Highway, the rain had been falling
 
 We met Paul in the Paqtnkek Health Centre, where he had just finished a meeting. He shook our hands, offered us a hot drink and then continued working away on paperwork while we took off our wet gear. "We're honoured that you're in our community," he said as we started recording, "and that you've sought out Indigenous people to have a discussion."
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2345-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2345-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628848&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -97,8 +97,8 @@ I asked what lesson or teaching he would share if other Aboriginal or non-Aborig
 
 <blockquote>&ldquo;If there's one thing this community has ever taught me, it's about honour.&rdquo;</blockquote>
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2344-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2344-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_2363-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2363-atrf-jcr-2000-web.jpg">
 
 <i>Thanks to Asad for asking many of the questions and recording the audio.</i>

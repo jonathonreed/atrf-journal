@@ -7,7 +7,7 @@ date: 2017-05-11
 categories:
   - Places
 description: Even if I have never walked through this church’s doors, I have that sense of belonging.
-image: http://astheravenfli.es/journal/img/2017/05/IMG_1002-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/05/IMG_1002-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -17,9 +17,9 @@ My dad is a United Church minister, which means I grew up deeply involved in the
 
 My sense of belonging in the United Church came through the existence of community. At first it was my local congregation, then the regional youth forum. Then it expanded across borders. In 2014, I travelled to Rome with a Catholic family from central France. Later that year I organized a group to sleep at a church during the People's Climate March in New York City. The following year I shared a meal with faith-based activists at COP 21 in Paris.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_1002-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1002-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_1004-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1004-atrf-jcr-2000-web.jpg">
 
 I have more stories like that, but the point is, here we are thousands of kilometres from home in a small village on the North Atlantic; I have no real reason to feel at home, and yet I do.
 
@@ -31,6 +31,6 @@ I know it comes from my own particular childhood, from the right kinds of adult 
 
 Home away from home.
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_1017-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1017-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/05/IMG_1040-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1040-atrf-jcr-2000-web.jpg">

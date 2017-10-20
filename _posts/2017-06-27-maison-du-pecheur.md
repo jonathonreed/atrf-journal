@@ -7,7 +7,7 @@ date: 2017-06-27
 categories:
   - History
 description: “Il y a des trous dans notre histoire. There are gaps in our history.”
-image: http://astheravenfli.es/journal/img/2017/06/IMG_3586-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/IMG_3586-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -29,9 +29,9 @@ I knocked on the door and met Pascal, a local artisan who works out of the build
 
 That poem, these photos, his French accent, this story—they're all completely beautiful and utterly challenging. I feel way over my head in terms of my ability to understand what exactly this history holds, but I'm going to do my best. 
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3588-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3588-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3589-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3589-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330419281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -81,9 +81,9 @@ The <i>Gendarmerie royale du Canada</i> (also known as the Royal Canadian Mounte
 
 Pascal showed me a photo of the <i>Maison du pêcheur</i> from the early 1970s. He pointed out the painting on the same door that he had painted last year and the name emblazoned on the roof: <i>La Maison du pêcheur libre</i>.
 
-<img src="http://astheravenfli.es/journal/img/2017/06/15419806_10154279217455292_6318526151392441618_o.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/15419806_10154279217455292_6318526151392441618_o.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3590-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3590-atrf-jcr-2000-web.jpg">
 
 I asked him where he got it. "It was a customer who came here," he said, "a 'trippeur' from the 1960s who stopped and said, 'I remember this place.' He worked cleaning dishes in the café."
 

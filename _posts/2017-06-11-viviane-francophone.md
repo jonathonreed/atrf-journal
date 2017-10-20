@@ -7,7 +7,7 @@ date: 2017-06-11
 categories:
   - People
 description: Professor emeritus who was never admitted to the university.
-image: http://astheravenfli.es/journal/img/2017/06/IMG_9129-atrf-ac-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/06/IMG_9129-atrf-ac-2000-web.jpg
 image-sm:
 ---
 
@@ -35,9 +35,9 @@ That was the bombshell of the story. For the next three-and-a-half years, Vivian
 
 After a successful career as a teacher and later as a consultant with the New Brunswick Department of Education, she eventually moved on to the university as a professor and in 1987 founded what has become the Second Language Research Institute of Canada, an internationally recognized centre that is still based at the University of New Brunswick. She was named professor emeritus upon her retirement.
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3277-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3277-atrf-jcr-2000-web.jpg">
 
-<img src="http://astheravenfli.es/journal/img/2017/06/IMG_3295-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3295-atrf-jcr-2000-web.jpg">
 
 Before I conclude, it's worth saying that this story isn't black and white. This was a story of discrimination, but also a story full of laughter. Viviane has since come to believe that it was a mistake, a misunderstanding by the registrar and not a rejection of her registration because she was French. Much has happened since then, besides. New Brunswick elected its first Acadien premier the following year in 1960 and is still the only officially bilingual province in Canada. The Université de Moncton was opened in 1963 and is now one of the leading French universities in eastern Canada.
 
