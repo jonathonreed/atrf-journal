@@ -1,6 +1,6 @@
 # Site settings
 email: jonathonreed@xplornet.com
-baseurl: "/atrf-journal"
+baseurl: "/adventure/atrf/journal"
 paginate: 5
 paginate_path: "/blog/page/:num"
 google_analytics: UA-97711783-2
