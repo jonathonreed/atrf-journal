@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Viviane, Francophone"
 author: jcr
 date: 2017-06-11

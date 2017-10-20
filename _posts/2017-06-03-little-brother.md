@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Little Brother"
 author: jcr
 date: 2017-06-03

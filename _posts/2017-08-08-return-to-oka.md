@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Return to Oka"
 author: jcr
 date: 2017-08-08

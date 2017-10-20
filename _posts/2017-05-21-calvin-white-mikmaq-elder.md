@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Calvin White, Mi’kmaq Elder"
 author: chat
 date: 2017-05-21

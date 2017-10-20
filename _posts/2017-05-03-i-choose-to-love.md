@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "I Choose to Love"
 author: jcr
 date: 2017-05-03

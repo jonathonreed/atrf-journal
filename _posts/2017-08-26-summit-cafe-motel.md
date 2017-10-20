@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Summit Café Motel"
 author: jcr
 date: 2017-08-26

@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Dawson Creek Exhibition & Stampede"
 author: jcr
 date: 2017-08-17

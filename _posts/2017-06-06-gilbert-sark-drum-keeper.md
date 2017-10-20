@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Gilbert Sark, Drum Keeper"
 author: chat
 date: 2017-06-06

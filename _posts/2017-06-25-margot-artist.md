@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Margot, Artist"
 author: jcr
 date: 2017-06-25

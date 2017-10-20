@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Stéphane, Potter"
 author: jcr
 date: 2017-07-09

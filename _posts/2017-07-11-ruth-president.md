@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Ruth, President"
 author: jcr
 date: 2017-07-11

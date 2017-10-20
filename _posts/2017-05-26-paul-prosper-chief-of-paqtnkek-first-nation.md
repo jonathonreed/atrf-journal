@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Paul Prosper, Chief of Paqtnkek First Nation"
 author: jcr
 date: 2017-05-26

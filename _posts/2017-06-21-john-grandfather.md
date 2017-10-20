@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "John, Grandfather"
 author: jcr
 date: 2017-06-21

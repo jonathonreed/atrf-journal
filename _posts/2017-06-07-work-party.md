@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Work Party"
 author: jcr
 date: 2017-06-07

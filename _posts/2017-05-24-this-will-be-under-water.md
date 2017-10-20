@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "This Will Be Under Water"
 author: jcr
 date: 2017-05-24

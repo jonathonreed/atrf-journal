@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Supportive Kind of Father"
 author: jcr
 date: 2017-05-24

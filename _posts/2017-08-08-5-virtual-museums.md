@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "5 Virtual Museums of Canadian History"
 author: jcr
 date: 2017-08-08

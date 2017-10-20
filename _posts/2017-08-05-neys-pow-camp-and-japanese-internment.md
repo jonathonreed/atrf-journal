@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Neys POW Camp and Japanese Internment"
 author: jcr
 date: 2017-08-05

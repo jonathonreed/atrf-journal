@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "A Way to Stay Close"
 author: jcr
 date: 2017-07-12

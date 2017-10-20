@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Winnipeg General Strike"
 author: jcr
 date: 2017-08-07

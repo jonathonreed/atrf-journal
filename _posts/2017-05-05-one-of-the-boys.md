@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "One of the Boys"
 author: jcr
 date: 2017-05-05

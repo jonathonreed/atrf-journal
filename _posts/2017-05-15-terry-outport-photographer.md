@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Terry, Outport Photographer"
 author: jcr
 date: 2017-05-15

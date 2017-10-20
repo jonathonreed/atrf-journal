@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Jason, Drag Queen"
 author: jcr
 date: 2017-05-09

@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Stag Harbour"
 author: jcr
 date: 2017-05-15

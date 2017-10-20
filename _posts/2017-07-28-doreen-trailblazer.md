@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Doreen, Trailblazer"
 author: jcr
 date: 2017-07-28

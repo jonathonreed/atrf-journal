@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Offline to the Arctic"
 author: jcr
 date: 2017-08-26

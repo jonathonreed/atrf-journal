@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Annise, Scientist"
 author: jcr
 date: 2017-07-20

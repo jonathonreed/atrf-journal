@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Howard, Farmer"
 author: jcr
 date: 2017-08-06

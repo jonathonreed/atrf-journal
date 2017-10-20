@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Ken Montgomery, Wind Energy Engineer"
 author: jcr
 date: 2017-06-10

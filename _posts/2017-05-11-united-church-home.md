@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "United Church Home"
 author: jcr
 date: 2017-05-11

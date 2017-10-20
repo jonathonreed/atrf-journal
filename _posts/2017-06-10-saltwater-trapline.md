@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Saltwater Trapline"
 author: jcr
 date: 2017-06-10

@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Isa, Gaspésienne"
 author: jcr
 date: 2017-06-18

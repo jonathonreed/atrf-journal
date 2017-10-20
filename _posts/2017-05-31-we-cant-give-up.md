@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "We Can’t Give Up"
 author: jcr
 date: 2017-05-31

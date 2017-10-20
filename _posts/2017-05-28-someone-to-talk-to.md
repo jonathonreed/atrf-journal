@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: "Someone to Talk To"
 author: jcr
 date: 2017-05-28
