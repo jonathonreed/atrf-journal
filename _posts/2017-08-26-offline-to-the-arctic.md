@@ -6,7 +6,7 @@ author: jcr
 date: 2017-08-26
 categories:
   - Product
-description: Heading out into the Arctic Circle
+description: Heading out into the Arctic Circle.
 image: http://jonathonreed.com/atrf/img/2017/08/5283dac334a4c675894826cd8576a72f.jpg
 image-sm:
 ---
