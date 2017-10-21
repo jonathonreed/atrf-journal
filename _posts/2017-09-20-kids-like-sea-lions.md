@@ -1,0 +1,25 @@
+---
+layout: post
+comments: false
+title: "Day 143: Kids Like Sea Lions"
+author: jcr
+date: 2017-09-20
+categories:
+  - Log
+description: I called them sea lions and they told me the island in the distance was called Skaayas.
+beginning: Skidegate
+end: Skidegate, BC
+territory: Traditional territory of the Haida
+distance: 
+weather: Great sunshine and a brilliant sunrise
+image: http://jonathonreed.com/atrf/img/2017/09/IMG_9837-JCR-2000-72-web.jpg
+image-sm:
+---
+
+I put off going to the north shore in order to stay in cell reception in case any of the people whom I’d tried to get in contact with got back to me. Spent some time working on some research related to Haida Gwaii and some previous places on the journey. There’s a lot of history to contend with and trying to catch it all is sometimes like holding sand in between your fingers.
+
+Mid-afternoon I headed down to the youth centre, which is the main reason there’s not many photos from today. It was bright and chaotic and there was basketball and catapults and it wasn’t long before an eleven-year-old girl was braiding my hair and then dragging me down to the beach to go swimming in the ocean. We stopped and picked up a wetsuit that would fit me (“Isn’t it cold?” I asked. “No,” she said, “it’s sunny today.” I looked at her doubtfully. “We have wetsuits,” she added.)
+
+My feet got cold, that was it. Carried kids on my shoulders and paddled them on a paddle board and played rock-paper-scissors-jump in the ocean. While we were swimming I couldn’t figure out why the raft kept feeling like it was in shallower and shallower water, until I walked up to the beach and realized the tide had gone out. I called them sea lions and they told me the island in the distance was called Skaayas. In the end I came out of the water before they did, shivering despite myself in the evening sun, and headed back up to the youth centre. No photos, just memories of the taste of salt and the shouts of kids.
+
+<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9831-JCR-2000-72-web.jpg">
