@@ -13,9 +13,9 @@ image-sm:
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/FishingIndustry2.jpg">
 
-The commercial fishing industry in Tignish in northwestern Prince Edward Island began in 1845 Frank Arsenault and Thomas J. Caie set up multiple stores in the Tignish district and began to trade with locals. Within a decade, Tignish was exporting more fish products than any other port on the whole island.
+The commercial fishing industry in Tignish in northwestern Prince Edward Island began in 1845 when Frank Arsenault and Thomas J. Caie set up multiple stores in the Tignish district and began to trade with locals. Within a decade, Tignish was exporting more fish products than any other port on the whole island.
 
-In a system not unusual to resource-based economic settlements, Tignish fishermen in the early 20th century were significantly exploited. Most of them didn't own their own boats or gears and were forced to half-line to cover equipment rentals, giving half of their catch to the company. The company also owned the local store, which strung the fishermen along company-controlled credit. The result, after years of hard work and organizing, was the first fishermen's union in Canada.
+In a system not unusual to resource-based economic settlements, Tignish fishermen in the early 20th century were significantly exploited. Most of them didn't own their own boats or gears and were forced to half-line to cover equipment rentals, giving half of their catch to the company. The company also owned the local store, which strung the fishermen along on company-controlled credit. The result, after years of hard work and organizing, was the first fishermen's union in Canada.
 
 In 1925 some of the members of the Tignish Fishermen’s Union bought a small lobster factory and six boats to form a joint-stock company, which was incorporated as the Tignish Fisheries Ltd. This put the control of purchasing equipment, processing and marketing their catch in the hands of the fishermen themselves.
 

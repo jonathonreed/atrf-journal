@@ -11,7 +11,7 @@ image: http://jonathonreed.com/atrf/img/2017/05/IMG_2612-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
-We reached the band office in Lennox Island, a small building overlooking the waters of Malpeque Bay. The north coast of Prince Edward Island had dipped been covered by low-hanging clouds all morning as we cycled to our meeting with Gilbert Sark, an Elder in Lennox Island First Nation. After chatting with the receptionist, Carol Anne, Jonathon asked for some scissors in order to make a tobaccoo offering for Gilbert. 
+We reached the band office in Lennox Island, a small building overlooking the waters of Malpeque Bay. The north coast of Prince Edward Island had been covered by low-hanging clouds all morning as we cycled to our meeting with Gilbert Sark, an Elder in Lennox Island First Nation. After chatting with the receptionist at the Band Council, Carol Anne, Jonathon asked for some scissors in order to make a tobaccoo offering for Gilbert. 
 
 "Who's that for?" asked Carole Anne.
 
@@ -89,7 +89,7 @@ Gilbert talked about taking the teachings his learned from his Elders and hostin
 
 The amount of things that Gilbert had knowledge in felt impressive, but in his explanation they were matter-of-fact. "It's just stuff that I've learned from other Elders, so I try to keep their teachings going." The passing-on of teachings was something that he thought a lot about—something that he explicitly explained to those he taught.
 
-<blockquote>&lsquo;Who&rsquo;s going to be making these drums after I&rsquo;m gone? Do you guys remember in 2010 when my heart stopped,&rsquo; I said, &lsquo;I died in my living room. If they didn&rsquo;t start my heart again, who&rsquo;s going to keep this drum group going? Who&rsquo;s going to teach people how to make drums, or make fans, or do this or that.&rsquo; I said, &lsquo;Would you guys?&rsquo; &lsquo;Well we don&rsquo;t fully know how to.&rsquo; I said, &lsquo;That&rsquo;s right, I&rsquo;m going to keep teaching you until it&rsquo;s in your head no problem, just like talking. You&rsquo;re going to learn how to do these things.&rsquo;&rdquo;</blockquote>
+<blockquote>&ldquo;&lsquo;Who&rsquo;s going to be making these drums after I&rsquo;m gone? Do you guys remember in 2010 when my heart stopped,&rsquo; I said, &lsquo;I died in my living room. If they didn&rsquo;t start my heart again, who&rsquo;s going to keep this drum group going? Who&rsquo;s going to teach people how to make drums, or make fans, or do this or that.&rsquo; I said, &lsquo;Would you guys?&rsquo; &lsquo;Well we don&rsquo;t fully know how to.&rsquo; I said, &lsquo;That&rsquo;s right, I&rsquo;m going to keep teaching you until it&rsquo;s in your head no problem, just like talking. You&rsquo;re going to learn how to do these things.&rsquo;&rdquo;</blockquote>
 
 When an Elder dies, Gilbert pointed out, you don't just lose them. You lose their teachings. Unless someone else has learned.
 

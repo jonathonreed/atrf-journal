@@ -69,7 +69,7 @@ Francis Simard, one of the Chénier members, described their growing determinati
 
 The <a href="https://en.wikipedia.org/wiki/October_Crisis" target="blank">October Crisis</a>, which saw the kidnapping of British diplomat James Cross and murder of provincial cabinet minister Pierre Laporte, resulted in the invocation of the War Measures Act and the deployment of Canadian Forces throughout Québec, and led to a significant loss of support for the violent wing of the Québec sovereignty movement. It also led to consequences for the young people still in Percé.
 
-"There were a lot of arrests," explained Pascal. "It was rough. There were associated with men that were now considered terrorists. That was the worry after the October Crisis, so many of them were arrested."
+"There were a lot of arrests," explained Pascal. "It was rough. They were associated with men that were now considered terrorists. That was the worry after the October Crisis, so many of them were arrested."
 
 The <i>Gendarmerie royale du Canada</i> (also known as the Royal Canadian Mounted Police) rented a neighbouring house and monitored the <i>Maison du pêcheur</i>, keeping notes and conducting interviews. "There are many people who say it was the GRC who lit the <i>Maison</i> on fire as a way to evict the youth." The GRC did burn down a farm associated with the FLQ near Montréal in 1972.
 
