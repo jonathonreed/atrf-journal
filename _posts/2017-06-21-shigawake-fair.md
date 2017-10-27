@@ -29,13 +29,13 @@ Nikki's laughter intertwined with her stories in a way that I can't fully expres
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3547-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329436445&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348783474&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I've participated in a few agricultural fairs in Ontario and based on those experiences I asked Nikki whether or not the traditional culture of the fair was declining. "It's faded a lot," she said. "It used to be that everybody was a farmer. Everybody had a barn. Everybody had some chickens, or a cow, or a few pigs."
 
 <blockquote>&ldquo;They used to be super proud to, every year I get first prize in my bread, you know, that kind of thing. Not as much anymore.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329436448&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348783466&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 This is perhaps the future of the tradition of the fall fair, lingering at the periphery of declining rural culture in the face of urbanization and commercialization. Where do subsistence livestock find their place in urban sprawl? How do family farms withstand the economic demands of rapidly mechanizing industries? 
 
@@ -53,7 +53,7 @@ The fair has become a highly anticipated event for young and old alike.
 
 She laughed some more.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329436454&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348783455&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Nikki's volunteered for the fair in way more capacities than I can remember, and my favourite part of the conversation was when I asked her why she put so much work into the fair, year after year. She did her best to paint the picture of an event that for a century has stood at the centre of the community, and the impactful emotions that come from helping bring it to life.
 
@@ -65,7 +65,7 @@ I know that seems like the most redundant quote ever, but with her intonation, '
 
 And if I can imagine a town coming together to do something like that, I can imagine them coming together to do anything.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329436457&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348783445&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I haven't been able to watch it because we've been on cell data almost the entire time since our stay in Shigawake, but I found a 45-min CBC documentary about the Shigawake fair, called <a href="http://watch.cbc.ca/absolutely-canadian/season-2016/the-shigawake-movie/38e815a-00a8632909e">Shigawake, The Movie</a>. Take a look if you have the time (or head to the east coast on the third weekend of August).
 

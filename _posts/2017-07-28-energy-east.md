@@ -21,7 +21,7 @@ I tried to interview someone in Québec but wasn't able to. When I told this to 
 
 <img src="http://jonathonreed.com/atrf/img/2017/07/IMG_0671-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335261467&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348750240&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Energy East is a proposal to convert and construct a 4,500-km pipeline from the Athabaska region of western Canada to the Atlantic region of eastern Canada. The pipeline would transport over a million barrels per day of a mix of crude oils, included diluted bitumen. The Energy East project is the largest tar sands pipeline ever proposed and would be larger than any existing pipeline in Canada.
 
@@ -45,7 +45,7 @@ Responsibility, for Jim and Donna, means standing tirelessly against the pipelin
 
 The North Bay City Council has set aside $250,000 for the city to do its research into the presentation that it will make to the National Energy Board. Opposition to Energy East is not unanimous in North Bay, but it certainly is powerful.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335261473&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348750181&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 That opposition spans the route of the pipeline, from Faraday Trout Lake Cottagers and Landowners Association to the Quebec Federation of Municipalities to the Treaty Alliance Against Tar Sands Expansion, and so on. 
 
@@ -63,7 +63,7 @@ Local water isn't the only risk posed by Energy East. Jim and Donna also talked 
 
 <blockquote>&ldquo;We don&rsquo;t have to sit back and watch our country become a petrostate.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335261491&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348750137&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I asked about where their steadfast opposition came from. "I've thought about this question a lot," began Donna, "because the ready answer is, well of course I'm doing it for my grandchildren, and that's certainly true."
 
@@ -71,7 +71,7 @@ I asked about where their steadfast opposition came from. "I've thought about th
 
 "Extractive industry has not been a good citizen," said Jim. He described the relationships he was part of through the United Church of Canada to international mining watch organizations and similar groups. "This is our version, one aspect of what's happening in Canada that is an echo of where we have been, for years and decades now, been partnering with overseas Indigenous groups, NGOs, to make a healthier life and community."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335261498&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348750074&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "Okay," I said, "but do you really think that you guys, who are just everyday citizens, can stand up against a giant corporation?"
 
@@ -89,7 +89,7 @@ They talked about the inspiration they got from an elderly woman who was arreste
 
 "That was imprinted upon us, twenty five years ago. That was imprinted upon us."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335261515&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348749946&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <blockquote>&ldquo;We can&rsquo;t not be involved in this. There&rsquo;s no way.&rdquo;</blockquote>
 
@@ -99,7 +99,7 @@ A stole is a part of the traditional clothing of some ministers.
 
 <blockquote>&ldquo;Her statement was: you ruin our water, you ruin our city. And that hit people. What it reminded me of was, innately, whether you were active in the church or not, there was a silence because there was an expectation here that something important was going to happen.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335261518&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348749897&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/07/IMG_0675-atrf-jcr-2000-web.jpg">
 

@@ -31,7 +31,7 @@ Brett was 13 and had won Reserve Grand Champion for his yearling steer. His hair
 
 <blockquote>&ldquo;I&rsquo;m a pure-bred cattle owner. I&rsquo;ve ultimately just gotten into this business because this is what I love.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338384759&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744229&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 He didn't record a very long audio clip, and he was really more comfortable talking without the audio recording; but I think there's still something really powerful about a young teenager saying the words 'this is what I love.' There was pride in his body language and certainty in his voice.
 
@@ -53,7 +53,7 @@ I didn't record any audio from the rodeo queens, but I did hang out for a bit wi
 
 <img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6266-JCR-2000-72-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338384754&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744206&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "Queen moms really are the backstage that makes everything run," said Sarah, one of the moms. She described providing transportation, taking care of the horses, ensuring that their daughters eat enough. "We make it run at the events."
 
@@ -67,7 +67,7 @@ I gestured to myself. "Yeah, like you," she said. "Look how much you learned tod
 
 <img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6279-JCR-2000-72-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338384749&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744183&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 On my way to the rodeo, I stopped in and met two women quilting in the handicraft exhibition. In the same way that the rodeo queens were there to promote and introduce people to the rodeo, Ruth and her quilting partner were volunteering their time to introduce people, particularly kids, to handiwork.
 
@@ -111,7 +111,7 @@ Scott was a bullfighter—in fact he's the one in the black, white and yellow CE
 
 I asked if there were bullfighter competitions. "There's freestyle bullfights you can go and enter," he said, "and it's just you against a fighting bull. They mark you on the aggressiveness of the bull and how well you can stay with it. But that's kind of a younger guy's scoop. I'm mostly just cowboy protection." He talked about watching the bull's body language, being able to tell when a cowboy was going to get bucked off, and keeping the bull's attention while the cowboy moved to safety.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338384729&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744169&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Then I asked about the culture of rodeo and if it was going to continue.
 
@@ -123,7 +123,7 @@ Cowgirls, too.
 
 <img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6753-JCR-2000-72-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338384722&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744149&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I met Shaylayne on the raised platform above the chutes. She asked if I'd taken photos of the barrel racers and it took me a moment to realize she'd just been riding.
 
@@ -157,7 +157,7 @@ If you look closely at the photo, you can see him in the back of the white carri
 
 <img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6920-JCR-2000-72-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338384712&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744133&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The crowd applauded Kelly Sutherland and the other winners of the rodeo. The kids gathered along the fence to chase a calf (catch his ribbon and win a bike) for the final event of the entire exhibition.
 

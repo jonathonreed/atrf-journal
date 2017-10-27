@@ -15,13 +15,13 @@ This was one of those encounters you can't anticipate or predict. Asad and I mak
 
 "I'm Doreen. We are on the north shore of Lake Superior, and we're at a rest stop. I'm not sure, we're between Marathon and Terrace Bay."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335266099&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348753695&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "I studied forestry in '85, I graduated from Sir Sandford Fleming College in Lindsay. From there I got hired on by Hydro One as the first female forester at that time."
 
 <blockquote>&ldquo;Day one, they had my name written up on the board, and I worked with I think twenty foresters and twenty linemen, the first time they had ever worked with a female before.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335266103&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348753676&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Doreen had more experiences with sexism than she could describe in the short time that we talked; they rolled off her as a matter of fact. It was clear it was just a small glimpse of a trend that had pervaded her entire career.
 
@@ -31,7 +31,7 @@ Doreen had more experiences with sexism than she could describe in the short tim
 
 <blockquote>&ldquo;I was a trailblazer, I guess, and they did their best to accommodate it. And now there are a lot more women in those non-traditional roles. I&rsquo;ve been at construction sites where normally you meet a lot of males that are representing all the construction crews from the utilities. I&rsquo;ve been there when it&rsquo;s all women. So they&rsquo;ve made a lot of progress.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335266107&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348753657&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Listening to her describe these experiences, I was doing my best to remind myself that the 1990s were only a couple of decades ago, and that the kinds of things she talked about still happen today. Things change. They always do. But it's thanks to leaders like Doreen who put themselves on the line and stand up for the world that they want. In that respect, our determination and perserverance today should have a recognition of the leaders yesterday.
 

@@ -29,7 +29,7 @@ Of course I've heard of things like barn raisings and the 1790 Fête de la Féd�
 
 I got out the audio recorder to ask more about their feelings towards the work party, which I thought was going to be extremely interesting until they all said the same thing. They liked helping their friends, they benefited from the reciprocity of work-party culture, and they placed a high amount of value on the shared meal afterwards.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327064580&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348767787&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3194-atrf-jcr-2000-web.jpg">
 
