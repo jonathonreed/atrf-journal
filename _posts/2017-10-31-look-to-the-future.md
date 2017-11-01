@@ -67,7 +67,7 @@ I asked why he thought those things were important to a nine year old.
 
 <blockquote>&ldquo;Because it will make their future better, because it&rsquo;ll be more eco-ly, and it will just be better.&rdquo;</blockquote>
 
-I don't put that much stock in generations theories, but it's clear to me that this is the voice of something new. From the Boomers, unaware of climate change, to the Millenials, numb with apprehension, to today: a generation that is aware and unafraid, taking action in their neighbourhoods and cities and countries. A generation with the solutions in their hands and a vision for their future.
+I don't put that much stock in generations theories, but it's clear to me that this is the voice of something new. From the Boomers, unaware of climate change, to the Millennials, numb with apprehension, to today: a generation that is aware and unafraid, taking action in their neighbourhoods and cities and countries. A generation with the solutions in their hands and a vision for their future.
 
 It will be more eco-ly.
 
