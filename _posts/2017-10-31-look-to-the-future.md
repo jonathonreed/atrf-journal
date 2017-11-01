@@ -6,12 +6,12 @@ author: jcr
 date: 2017-10-31
 categories:
   - Climate
-description: 
+description: I shared three days with them on the coast of the Salish Sea and I know with them, tomorrow is bright.
 image: http://jonathonreed.com/atrf/img/2017/10/IMG_0681-JCR-2000-72-web.jpg
 image-sm:
 ---
 
-I've been friends with Xiuhtezcatl Martinez and <a href="https://www.earthguardians.org">Earth Guardians</a> for years, and it was through them that I connected with Jan Mangan in British Columbia. Her home on Salt Spring Island became my last stopping point in the entire cycle tour. While I was there, I interviewed her grandkids, Róisín and Galveston, about the future. After a journey that had traversed coastlines threatened by rising sea levels, farm fields in drought, forests on fire and permafrost in upheaval, it seemed appropriate to document on more perspective on climate change—the perspective of the young generation.
+I've been friends with Xiuhtezcatl Martinez and <a href="https://www.earthguardians.org">Earth Guardians</a> for years, and it was through them that I connected with Jan Mangan in British Columbia. Her home on Salt Spring Island became my last stopping point in the entire cycle tour. While I was there, I interviewed her grandkids, Róisín and Galveston, about the future. After a journey that had traversed coastlines threatened by rising sea levels, farm fields in drought, forests on fire and permafrost in upheaval, it seemed appropriate to document one more perspective on climate change—the perspective of the young generation.
 
 <img src="http://jonathonreed.com/atrf/img/2017/10/IMG_0679-JCR-2000-72-web.jpg">
 
