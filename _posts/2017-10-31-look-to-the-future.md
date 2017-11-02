@@ -61,7 +61,7 @@ Galveston was a bit shyer, so we started out by talking about pro sports and whi
 
 "Choose me for the Oakland Warriors," I joked.
 
-"I don't think so," he said, smiling because he knew I was joking but not laughing because he was thinking. After a whle, he added. "I'd say to not allow any pipelines, first of all. And then put more solar panel yard thingies in, and make mills that put carbon in the air shut down and have less of them." 
+"I don't think so," he said, smiling because he knew I was joking but not laughing because he was thinking. After a while, he added. "I'd say to not allow any pipelines, first of all. And then put more solar panel yard thingies in, and make mills that put carbon in the air shut down and have less of them." 
 
 I asked why he thought those things were important to a nine year old.
 
