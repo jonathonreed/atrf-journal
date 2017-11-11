@@ -33,7 +33,7 @@ That poem, these photos, his French accent, this story—they're all completely 
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3589-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330419281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354109919&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "This is Pascal Riopel of Percé," he said, "in the second <i>Maison du pêcheur</i>."
 
@@ -57,7 +57,7 @@ The concept of the <i>Maison du pêcheur</i> was to create a place for meetings 
 
 It led, however, to confrontations between some of the Percé villagers and the newly arrived youth, because the <i>Maison de pêcheur</i> was underselling other tourist destinations. "The youth of the FLQ were chased out of the village," explained Pascal, "so [the following summer] they re-established a place outside of Percé, the second <i>Maison du pêcheur</i>. It was like a youth hostel, really, with Paul Rose and his friends discussing their ideas, dreaming of making Québec a free nation."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330419293&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354109910&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "They spoke a lot about unemployment," Pascal added. "This was always the capital of unemployment, because the fishermen would work for the factories three months a year and the rest of the time there was nothing. There was nothing they could do. It was the factories who decided."
 
@@ -65,7 +65,7 @@ There were networks of <i>felquistes</i> throughout Québec, but from around 196
 
 Francis Simard, one of the Chénier members, described their growing determination. "In Percé and in Gaspé, we talked with hundreds of people. What came back, each time, was the absence of means, the isolation. People wanted to fight for a better life."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330419299&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354109895&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The <a href="https://en.wikipedia.org/wiki/October_Crisis" target="blank">October Crisis</a>, which saw the kidnapping of British diplomat James Cross and murder of provincial cabinet minister Pierre Laporte, resulted in the invocation of the War Measures Act and the deployment of Canadian Forces throughout Québec, and led to a significant loss of support for the violent wing of the Québec sovereignty movement. It also led to consequences for the young people still in Percé.
 
@@ -77,7 +77,7 @@ The <i>Gendarmerie royale du Canada</i> (also known as the Royal Canadian Mounte
 
 <blockquote>&ldquo;On continue de faire vivre la Maison du pêcheur.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330419311&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354109886&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Pascal showed me a photo of the <i>Maison du pêcheur</i> from the early 1970s. He pointed out the painting on the same door that he had painted last year and the name emblazoned on the roof: <i>La Maison du pêcheur libre</i>.
 
@@ -89,7 +89,7 @@ I asked him where he got it. "It was a customer who came here," he said, "a 'tri
 
 I expected him to say it was from a governmental archive or something like that. He said it wasn't. "I wonder if this history isn't a bit hidden. I don't know. Today, a group like that would be considered terrorism, so there's not a lot of documentation." Apart from the leftist pamphlets, the FLQ manifesto and the military-based governmental response, there's really not a lot of easily accessible history on the early Québec separatists. It's a history that, as far as I can tell, lives almost solely in the memories of the locals, those who were alive in the 1960s and those who were told about the early Québécois dreamers and idealists in the years following.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330419321&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354109880&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I knew the FLQ existed, to the extent that they had led militant action in Montréal that culminated in the death of a cabinet minister and Trudeau's back-against-the-wall military action against the separatists, but that was pretty much it. Researching and writing this story has made me reflect on where we get our history from. From an Ontario-based education system, I had a significantly limited understanding of the Québec sovereignty movement.
 

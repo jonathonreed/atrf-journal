@@ -31,7 +31,7 @@ They leave tomorrow. Tanner takes another step in his journey.
 
 Another part of what has brought him to where he is is the adults and mentors walking alongside him. "They've done a lot," he said to me. "They never gave up on me. Brent never gave up on me. I missed forty days of school and he kept on coming to pick me up. He just thinks I'm an incredible person."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335387490&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354089828&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2682-atrf-jcr-2000-web.jpg">
 
@@ -47,7 +47,7 @@ I asked him at the end of our conversation what advice he would give to other yo
 
 <blockquote>&ldquo;Just one step at a time, one day at a time. If you&rsquo;re going through struggles then face them, because it&rsquo;s reality. You know, unfortunately it&rsquo;s not good what people go through but it makes them a better person at the end of the day.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335387499&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354089822&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 In that, I hear hope. Because I hear Tanner calling himself a better person, which perhaps began when he realized that Brent thought he was an incredible person. The day I met him, I wrote: "I'm proud to have crossed paths with this strong, proud young man who is in the midst of transforming his life." I feel that now more than ever.
 

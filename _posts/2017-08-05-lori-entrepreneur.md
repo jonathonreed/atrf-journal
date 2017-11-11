@@ -23,7 +23,7 @@ Lori challenged the perceptions of Fort William that are held throughout Thunder
 
 <blockquote>&ldquo;Poor does not equal bad, you know, unmonied does not make you a bad person. Addiction does not make you a bad person, it makes you a person who makes bad choices.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336643167&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354101228&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "Things are starting to happen in downtown Fort William. It started four years ago. We can't forget to give a big thank you to the people who've been down here twenty, twenty five, thirty years who've kind of held down the fort, until these younger entrepreneurs decided to go down there and give it a shot."
 
@@ -33,7 +33,7 @@ She talked about the changes that Thunder Bay has endured in the last several de
 
 <blockquote>&ldquo;That&rsquo;s really admirable about this town. Will there be prosperity in the future? Absolutely. It&rsquo;s just going to be a little while. But they don&rsquo;t give up. This town does not give up and that&rsquo;s what&rsquo;s amazing about it.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336643170&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354101225&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 In the 2012 census, Thunder Bay became the homicide capital of Canada. In the last several years, there have been a number of unsolved deaths of Indigenous youth in Thunder Bay—either unrelated tragic accidents or the manifestation of racist violence and hate crime, depending on which side of the city you belong to. At the start of July, Macleans published a <a href="http://www.macleans.ca/river-of-tears/" target="blank">high-quality article about the River of Tears and the racial divide of Thunder Bay</a>. The whole article is powerful to read, but of it all I wanted to share the ending of a poem written by a member of the Fort William First Nation in response to the death of 14-year-old Josiah Begg.
 
@@ -52,7 +52,7 @@ As Lori said, Fort William has a significant Indigenous population. The entire c
 
 <blockquote>&ldquo;At some point I think what we have to do, what has to be done is really basic stuff. We need to really get to know each other.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336643174&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354101210&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The last thing we talked about was Lori's collaboration with a younger generation of entrepreneurs. The young men of Community Spokes asked her to come out of semi-retirement in order to provide leadership and guidance to The Hub's role in the revitalization of Fort William's downtown. "None of this would be happening if there wasn't a reaching out to me," she said simply, "and I reached out to them."
 
@@ -60,7 +60,7 @@ The last thing we talked about was Lori's collaboration with a younger generatio
 
 As I young person myself, I see something immeasurable in that recognition of intergenerational strength. We all have so much to learn from each other. I can vouch for that based on this single conversation. "That's what I say to this municipal council," said Lori. "There needs to be some young thinking, because a lot of their thoughts are amazing, if it's intertwined with that wise stability. These young people have figured a lot of things out that we just never did."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336643176&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354101195&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/07/IMG_5077-atrf-jcr-2000-web.jpg">
 

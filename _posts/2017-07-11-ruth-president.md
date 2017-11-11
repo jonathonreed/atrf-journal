@@ -19,11 +19,11 @@ I interviewed her in between meetings with the Governor General and other dignit
 
 <b>"</b>ᓱᕙᒃᓯᐅᖅᒥᑦ ᐊᑎᖃᖅᑐᖓ ᐊᕐᕕᐊᑦ ᓄᓇᕗᑦᒥᒃ ᓄᓇᓕᖃᕐᑐᖓ<b>."</b>
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1S98hvyAXuFysYJZqeR-IA_L17S0" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1taSka8MxzbYdSrfkGsDs-T9sVdeIkhBT" width="100%" height="480"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4343-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332711987&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085247&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I started out by asking her about her role with the National Inuit Youth Council but quickly realized I didn't know much of anything about the territorial government or the history of Nunavut. I knew it had come into existence when I was young because I remembered maps changing in elementary school, but I had never learned why. Or perhaps more significantly, I had never been taught.
 
@@ -43,7 +43,7 @@ For Ruth, the land was as much a part of her culture as language or hunting trad
 
 "The seal can be used for the traditional kamiks, for mitts, for jewellery, all kinds of things. Especially for food."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332711996&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085241&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The land was not, however, an objective space. It had seen centuries of hardship through colonization. "We both know that we went through a lot, my ancestors and I. We went through a lot and somehow we still managed to keep our feet on the ground and still feel hopeful and everything. Now look where we are."
 
@@ -51,7 +51,7 @@ The land was not, however, an objective space. It had seen centuries of hardship
 
 Ruth talked about a sense of duty to her ancestors, to continue advocating for the rights of Inuit people in recognition for how tireless and determined her ancestors had been. "I wouldn't just let my ancestors that fought for us and kept us alive," she paused. "Somehow I need to pay them back. By doing good."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332712001&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085217&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I asked if she had seen impacts of climate change in her lifetime. "Big time," she said. "Every year there's all these polar bears coming into town eating our country food because they have no seal because the seal aren't there because the ice melted faster than it used to."
 
@@ -59,7 +59,7 @@ There was these kinds of cause and effects, but Ruth also talked about the impac
 
 <blockquote>&ldquo;The land is one of our main symbols for our culture. The land. If that messes up, parts of our culture died. And it's because of the government, with all these pipelines, Meadowbanks, everything. They just need to respect our culture. I wish they could respect us and let us be and not do all these to affect us.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332712009&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085187&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Ruth is President of the National Inuit Youth Council (NIYC), which means she's a leader for Inuit youth across Inuit Nunangat, the Arctic region including the northern Northwest Territories, Nunavut, northern Québec and northern Labrador.
 
@@ -69,7 +69,7 @@ I asked if she ever thought about her young siblings when she was working with I
 
 "Every day," she said. "I want their food to be nothing but amazing. I want the best for them, and that's why I'm working so hard for them. I know my parents won't be there for ever; it's up to us older siblings to teach them, raise them, keep their identity alive."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332712015&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085166&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4349-atrf-jcr-2000-web.jpg">
 
@@ -79,7 +79,7 @@ Ruth's 19 now, and like her father and ancestors before her she is providing lea
 
 <blockquote>&ldquo;It&rsquo;s so cool how parents can motivate us so much that we become all these great people. Inspired people. I&rsquo;m so thankful that my parents are like that. I wouldn&rsquo;t be able to be who I am today if it wasn&rsquo;t for them.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332712024&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085142&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4351-atrf-jcr-2000-web.jpg">
 

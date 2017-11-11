@@ -15,9 +15,9 @@ I want to start by sharing this image of Lianna. It was rushed and not the easie
 
 <img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4356-atrf-jcr-2000-web.jpg">
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1jLpPpDH2P5RCTaQfS16c1K6Sr50" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Nr2hyH9e2vtZm1zX7UtX-GNMj6alQBDu" width="100%" height="480"></iframe>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332925332&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354080921&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "My name is Lianna Rice," she said. "I'm an Inuk from Nunatsiavut, Labrador."
 
@@ -37,7 +37,7 @@ Lianna described the spread-out community of Goose Bay, their schools, the hospi
 
 <blockquote>&ldquo;I can't think of similarities between Goose Bay and a city.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332925333&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354080909&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The last time Lianna had come to Ottawa it had been for <a href="http://www.daughtersofthevote.ca" target="blank">Daughters of the Vote</a> gathering marking a century of women's suffrage. "Three hundred and thirty eight girls were chosen to come to Ottawa for this week-long conference about encouraging more young women into politics and advocacy. I represented the Labrador riding and I had the opportunity to speak in the House of Commons about the importance of including Inuit voices while addressing the issue of Inuit suicide."
 
@@ -45,13 +45,13 @@ In a post on Facebook about meeting with the Duchess of Cambridge, Lianna wrote 
 
 <blockquote>&ldquo;I imagine a Canada where Inuit won&rsquo;t choose to attempt suicide like I did. A Canada where Inuit like my brother are still alive. Where my parents still have their son. Where my niece still has her dad.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332925340&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354080885&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Lianna is engaged with Daughters of the Vote and her local MP Yvonne Jones, as well as a campaign to bring <a href="https://thefriendshipbench.org" target="blank">The Friendship Bench</a> to her community to encourage conversations around mental health. But it wasn't always that way. "With all of the social issues that my community is experiencing, a lot of youth, including myself up until this point, weren't interested and motivated to get involved." Now she's working to change that. "I'm working for my MP and I'm going to start a Labrador Youth Council, for youth from all of the 31 communities in Labrador. Hopefully we'll have a lot of interest."
 
 <blockquote>&ldquo;Since there is only 30,000 people across 31 communities in a really large area, the youth don&rsquo;t really get to connect with each other. Give youth the opportunity to actually talk together and talk about what they&rsquo;re passionate about and what they want to see for the future of Labrador. Then they&rsquo;ll actually be able to advise my MP on different things when they come together as a collective.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332925347&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354080864&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 During our interview, the streets outside were filled with people who had come to Ottawa to celebrate Canada 150. Lianna wasn't celebrating. She described conflicting feelings, knowing both that many Indigenous peoples in Canada live in Third World conditions, and that Canada overall was a good place to live in comparison to other parts of the world.
 
@@ -65,7 +65,7 @@ I asked her then, "If you're not celebrating, what are you doing?"
 
 "Today is a day for reflection for me," she responded, "and a day to honour my ancestors, to be thankful that through all of this trauma, my people are resilient enough that I'm existing right now."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332925352&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354080843&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The last thing we talked about was Muskrat Falls. I had heard about the hydroelectric damn being built last fall when protestors occupied the construction site as part of the <a href="http://makemuskratright.com" target="blank">Make Muskrat Right</a> campaign. The fight in the fall and over the last several years was over the potential for methylmercury contamination of the Lake Melville ecosystem—and, through bioaccumulation, its inhabitants—since Nalcor wasn't willing to fully clear the reservoir before flooding it. In late October, Newfoundland and Labrador Premier Dwight Ball and Indigenous leaders reached an agreement that established an independent expert advisory committee for the Muskrat Falls project.
 
@@ -79,7 +79,7 @@ I looked it up and <a href="http://www.cbc.ca/news/canada/newfoundland-labrador/
 
 <blockquote>&ldquo;Around the world development often takes place without the consent of Indigenous peoples.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332925354&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354080822&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4359-atrf-jcr-2000-web.jpg">
 

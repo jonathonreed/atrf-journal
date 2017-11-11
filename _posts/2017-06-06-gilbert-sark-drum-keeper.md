@@ -27,13 +27,13 @@ He waved his hand. "Of course. I'll see you downstairs."
 
 <img src="http://jonathonreed.com/atrf/img/2017/05/IMG_8562-atrf-ac-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177601&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104615&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The first thing we talked about was Gilbert's current formal position in the Lennox Island Band Staff as the Comprehensive Community Planner. He showed us his past plan, which was completed in 2005 for the following decade. It was, in a word, comprehensive. A large binder covering subjects such as infrastructure, education, employment, tourism, health services, and so on, were documented as they were, along with their strengths and weaknesses. Ideas were laid out for the future, with detailed steps on how they would be achieved.
 
 He's currently in the consultation stage of a community plan for the next 25 to 50 years, and expects the preparation of the plan to take five years. "They just let their ideas flow, and every bit of information I get from them is put into a community plan." 
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177607&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104603&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Our conversation shifted to climate change after Gilbert mentioned its influence in the community plan. He didn't tell us this particularly story but Jonathon found <a href="http://www.cbc.ca/news/canada/lennox-island-pei-water-ocean-sea-levels-1.3756916" target="_blank">an article about Lennox Island</a> in which he describes one little kid's answer to the question of what they see for their community in the next 25 to 50 years.
 
@@ -41,11 +41,11 @@ Our conversation shifted to climate change after Gilbert mentioned its influence
 
 According to climate scientists, Lennox Island has already lost one square kilometre of land to rising sea levels in a single generation—parts of the coast where community members would gather traditional materials for ceremonies, as well as long-held burial grounds. It's a loss that can't really be enumerated, and a loss that grows more serious every year.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177614&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104594&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Gilbert talked about meeting with an Elder whose backyard was steadily washing away. "He's been losing about two feet per year due to the erosion. On a storm surge he could lose two feet to four feet, depending on how rough the water is." 
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177633&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104567&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Since we grew up in Ontario, we'd never heard of a storm surge. It came up in Jonathon's research about <a href="http://jonathonreed.com/atrf/2017/05/24/this-will-be-under-water/">how climate change is affecting Chéticamp, Nova Scotia</a>, which is when we first understood its seriousness. A storm surge, put simply, is when the sea level swells due to low atmospheric pressure and high winds. A diagram we found from the National Oceanic and Atmospheric Administration put a storm surge <a href="http://www.nws.noaa.gov/om/hurricane/resources/surge_intro.pdf" target="blank">8.5 times higher than normal high tide</a>. They're a major focus of storm readiness on the Gulf of Mexico and Eastern Seaboard, and highly relevant to emergency response plans on Canada's east coast. 
 
@@ -53,7 +53,7 @@ When a storm hits Lennox Island, the community braces for the impact of the stor
 
 <blockquote>&ldquo;When the storm comes in our fire department monitors the storm surge. You&rsquo;ll see the Chief down at the wharf, you&rsquo;ll see her down at the back of the island, you&rsquo;ll see her at the bridge. She&rsquo;ll just keep doing her rounds.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177646&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104549&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The following is an excerpt from Jonathon's journal following our meeting with Gilbert.
 
@@ -63,17 +63,17 @@ So, dispiriting. And I tried to share that a bit, but mostly kept it to myself. 
 
 <blockquote>&ldquo;You&rsquo;re not going to stop water, regardless. Erosion is going to happen. Water&rsquo;s going to flow, it&rsquo;s going to flow. So how much money do we keep throwing at it, in order to save our island?&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177662&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104537&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Gilbert spoke about possibilities of expansion to reserve land off Lennox, and we didn't talk about it in detail but the First Nation has some land elsewhere on PEI. It felt inadequate, considering the fact that Indian reserves make up 0.2% of Canada's land mass, as well as the fact that all of PEI is under threat from climate change.
 
 He had no sense of bitterness or resentment, and spoke highly of the provincial government. "It's not like the province backed us into a corner or anything like that. They have good relations with our governance here."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177665&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104522&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <blockquote>&ldquo;Our Chief is very passionate about the erosion. She&rsquo;s had countless meetings with engineers, like she&rsquo;s probably on the phone talking to someone about it right now. She&rsquo;s very adamant about doing something to save Lennox.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177674&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104504&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "I also do a lot of cultural stuff in the community," said Gilbert, "doing prayers and openings, smudgings, stuff like that. I'm a drum maker. You could say I make all of our ceremonial items, our eagle fans, eagle staffs. Stuff like that." He said from a young age, he found that he preferred spending time with Elders to hanging out with his friends.
 
@@ -81,11 +81,11 @@ He had no sense of bitterness or resentment, and spoke highly of the provincial 
 
 Because he has spent so much time learning traditional teachings, many people in Lennox Island consider Gilbert an Elder. He doesn't always agree with that entirely, particularly because he is still learning and spending time with the Elder who gave him many of his teachings. "I still don't see myself as that," he explained. "I still see myself as a student until I reach a certain age. I still feel like I haven't climbed those ranks as fast as they think I did. If it was a school I'm probably still in grade nine. I haven't graduated yet."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177695&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104489&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Gilbert talked about taking the teachings his learned from his Elders and hosting workshops in which other community members—whoever wanted to learn—would be taught the knowledge and skills as well. 
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177702&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104471&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The amount of things that Gilbert had knowledge in felt impressive, but in his explanation they were matter-of-fact. "It's just stuff that I've learned from other Elders, so I try to keep their teachings going." The passing-on of teachings was something that he thought a lot about—something that he explicitly explained to those he taught.
 
@@ -93,7 +93,7 @@ The amount of things that Gilbert had knowledge in felt impressive, but in his e
 
 When an Elder dies, Gilbert pointed out, you don't just lose them. You lose their teachings. Unless someone else has learned.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177714&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104465&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 As a drum keeper, you take care of the drum, and the drum group. "And in caring for the drum, you have to live a certain lifestyle. No drinking, no drugs. You have to try to live a positive lifestyle as much as possible. Help if you see that someone needs help. It's a lifestyle not about self, it's a lifestyle about everyone else."
 
@@ -103,7 +103,7 @@ The drum that Gilbert takes care of belongs to Hey Cuzzins, the oldest drum grou
 
 Jonathon came across <a href="http://www.cbc.ca/news/canada/prince-edward-island/lennox-island-drum-cuzzins-1.3980001" target="blank">an article on CBC about the drum group</a>. "Before I joined," said one of the members, "I was in some dark times. I was going for depression. It pulled me out." Once in a while, the article added, a group member may get into trouble, and the drumming group has gone to court to speak on their behalf. "They actually get it written in their probation order that they must attend drum practice," said Gilbert, "and then we in turn make sure that they go."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177720&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104438&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 We asked about Canada moving forward, and Gilbert's answer was simple: "Start listening to every background that's out there. Stop thinking about the almighty dollar. Killing what's left of our earth is not going to get us forward."
 
@@ -117,10 +117,10 @@ His hopes balanced his fears.
 
 <blockquote>&ldquo;I&rsquo;m hopeful that our youth are going to pick up the reins, you know I&rsquo;m hopeful that we&rsquo;re going to actually leave something behind for them. I&rsquo;m always hopeful for a better beginning than where we&rsquo;re at. Or a better ending.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177732&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104399&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 As we wrapped up the conversation, Asad asked about his name, and we discovered that his spirit name was Raven. Asad asked about the story behind that and for the following ten minutes, we listened, spellbound, as he recounted how he learned of his name, his identity and his life's purpose. It was such a powerful story that we're not going to transcribe it or pull any quotes other than this piece from its beginning.
 
 <blockquote>&ldquo;My Elder and his wife called a medicine man, and in the phone call, Carol tells me, he goes, &lsquo;This young fella, is he drumming?&rsquo; &lsquo;Yeah.&rsquo; &lsquo;He travels around a lot?&rsquo; &lsquo;Yeah.&rsquo; &lsquo;Has long hair?&rsquo; &lsquo;Yeah he&rsquo;s got long hair.&rsquo; He goes, &lsquo;I&rsquo;ll be there in two days. It&rsquo;s about time I found this kid.&rsquo; And she goes, &lsquo;What do you mean?&rsquo; He goes, &lsquo;His spirit name is Raven. I gotta explain it when I get there.&rsquo;&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326177739&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354104372&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>

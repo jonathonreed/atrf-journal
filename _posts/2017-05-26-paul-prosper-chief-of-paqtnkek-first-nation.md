@@ -19,7 +19,7 @@ We met Paul in the Paqtnkek Health Centre, where he had just finished a meeting.
 
 <img src="http://jonathonreed.com/atrf/img/2017/05/IMG_2345-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628848&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093740&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Paul introduced himself, and with that introduction came an acknowledgment of the history he carried with him. 
 
@@ -27,7 +27,7 @@ Paul introduced himself, and with that introduction came an acknowledgment of th
 
 As he started describing the demographics of Paqtnkek Mi'kmaw Nation, he described an important part of their culture as well. "Community is not a physical place," he said, "but a spirit that exists within the hearts of the people."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628856&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093719&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 That community spirit wasn't just something he mentioned casually, but something that he carefully supported. He talked about collectively building a community with everyone around him, and the importance of a sense of spirit within Aboriginal communities. "What it suggests to me," he said, "is this knowingness that we are together for a specific reason. There's a reason why we come together as community, there's a reason why we are here as Mi'kmaq people." 
 
@@ -35,7 +35,7 @@ Later on, he described marriages and death ceremonies and <i>mawio'mi</i>, pow w
 
 This was connected to his role as Chief, in which he saw himself holding that vision, building resilience in his community and progressing forward so that the youth of the future could take it even further. 
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628862&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093683&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <blockquote>&ldquo;I view myself as playing a role along that way of progression towards a vision of community and nationhood that reflects the fundamental values and principles of who we are as Mi&rsquo;kmaq people. I find my role as a Chief is to hold that space and to hold that vision.&rdquo;</blockquote>
 
@@ -43,7 +43,7 @@ This was connected to his role as Chief, in which he saw himself holding that vi
 
 This kind of leadership becomes all the more striking when it's set in the context of colonization. 
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628894&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093674&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Paul's description of various tools and consequences of colonization that his people had faced was a familiar story, but it's one that always bears repeating. Centralization. Resettlement. Enfranchisement. Assimilation. Residential schooling. "You get that approach with the government, that they have to 'deal with the Indian problem.'" 
 
@@ -55,7 +55,7 @@ Paul acknowledged that challenges between Aboriginal and non-Aboriginal communit
 
 The power of the past, of course, is that it shapes the present. One of the moments in which this was most powerfully clear was Paul describing, with tears in his eyes, an experience of looking at himself in the mirror as a young man.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093662&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <blockquote>&ldquo;I remember looking at myself for quite a while and thinking, you&rsquo;re nothing abut a dirty Indian.&rdquo;</blockquote>
 
@@ -63,7 +63,7 @@ It's hard to put into words the feeling of watching a grown man with kind eyes a
 
 A weight that was lifted by Paul's description of youth in his community and in other Indigenous cultures.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628908&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093650&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <blockquote>&ldquo;There&rsquo;s no doubt in terms of the role of youth and the strength and power of youth, in terms of them seizing their identity and basically acknowledging and embracing their spirit. Their spirit individually, but also the spirit of a people, of a nation.&rdquo;</blockquote>
 
@@ -75,23 +75,23 @@ Paul explained that he often tries to think of opportunities for youth to grow a
 
 I'm not quoting that to connect the youth in Paqtnkek Mi'kmaw Nation to drug usage. As an educator, nearly every adult I know who works with young people is aware of and concerned about drugs like fentanyl, so it was impactful to hear a Chief speak clearly and authentically about it and the ways he tries to watch out for the youth in his community.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628930&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093638&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Paul also described the importance of tradition in Paqtnkek Mi'kmaw Nation, both the revival of old traditions and the creation of new ones. "New ceremony will get us where we need to go. [&hellip;] There's often a balance to respect and honour tradition, to value it for what it means to us as a community and as a nation. But on the other side of the balance is the need to create new tradition."
 
 An example of an old tradition being revitalized was the concept of <i>netukulink</i>, which doesn't really have a good translation into English. It's a concept that emerged from the coexistence between the Mi'kmaq and <i>sitkamu</i>, their earth mother; a way of not only looking at their right to the land but also their responsibility to care for it. "It is like a sacred trust. That translates into the manner by which you function within nature, within the environment, within this wonderful place."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324629762&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093626&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The last portion of our discussion with Paul included two explicit lessons that I want to conclude by sharing. In the context of Canada 150, he spoke of Indigenous youth taking on the power within themselves.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324628937&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093587&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <blockquote>&ldquo;I guess if there&rsquo;s one thing that I&rsquo;d like people to think about is the power in who they are. We are all powerful creators. The more people that people come to realize that and strive for that, the better off we will all be, not just as Mi&rsquo;kmaq but as Canada, 150 years from now.&rdquo;</blockquote>
 
 I asked what lesson or teaching he would share if other Aboriginal or non-Aboriginal people were listening, and his answer, after a moment of thought, was just two words: Honour thyself.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324630228&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354093557&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 "Honour who you are, where you come from. Honour your relationship to this beautiful earth, and your role within it. Honour the authority and sovereignty you have as an individual; through the power of your creations, through what you say, what you hear, what you feel."
 

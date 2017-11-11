@@ -15,7 +15,7 @@ I don't remember how we started talking about earthworms. I guess it wasn't unli
 
 In any case, I only pulled out the audio recorder after I decided it was too fascinating a perspective to not share, so what I have left from the conversation jumps right into the interplay between earthworm and salamander populations.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/334134262&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354087605&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 She explained that salamanders live in the duff layer of the forest soil, a layer of decomposed organic material in between the forest litter and mineral soil. "Earthworms start decomposing all of the duff and changing the habitat, so you kind of just have this bare minimum soil, instead of this duff. It's like instead of the mattress up there, you've got your freshman-year dorm single mattress," she laughed, "like really homogenous, not like those layers of pillow top and memory foam." 
 
@@ -27,7 +27,7 @@ Earthworms' activity in the soil <a href="http://www.magma.ca/~bambie/mfc/msa/wo
 
 Annise told me that the salamanders have the biggest biomass in the mixed hardwood forest, which means that the combined mass of all the salamanders in the forest is greater than that of any other animal or insect. "They're important trophic connectors," she added. "Lots of things eat them and they eat lots of things." The invasion of earthworms into forest ecosystems is a change that is happening before our eyes, so the consequences aren't fully known yet. That there will be consequences, however, is a given. Earthworms are destabilizing the population of the biggest biomass in the forest.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/334134266&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354087581&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I guess I should mention that earthworms are <a href="https://ecosystemsontheedge.org/earthworm-invaders/" target="blank">not native to North America</a>. They arrived with European migration in the 1600s. They're different from other invasive species, however, because their invasion is a slow burn.
 
@@ -49,7 +49,7 @@ This comparison came because I had asked why everyone thought earthworms were go
 
 <blockquote>&ldquo;We&rsquo;ve created this artificial habitat in a field where worms are really good. So that&rsquo;s not wrong. But forests just function really differently. That&rsquo;s where earthworms are changing the conditions.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/334134271&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354087521&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The perception of earthworms as wholly good began when Darwin wrote about them in 1881. "All of a sudden they were these like, angels of the soil that could do no wrong." Annise paused. "I think there's a message there, that you can't think of an ecological player as just good or just bad. It's going to be good for some things and bad for some things."
 
