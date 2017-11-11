@@ -19,13 +19,13 @@ I met with Isabelle Robillard, Director of Communications at Canadian Blood Serv
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4128-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331875137&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354054416&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Canadian Blood Services was created in 1998, following the recommendations of the <a href="http://www.thecanadianencyclopedia.ca/en/article/krever-inquiry/" target="blank">Krever Inquiry</a>. In the 1980s, thousands of Canadians were infected with the AIDS virus and hepatitus C because of tainted blood provided through the previous Canadian blood system. The Krever Inquiry investigated the reasons for the tragedy and provided recommendations to prevent it from happening again.
 
 "Basically one of the recommendations was to create an organization like ours that was funded publicly but arms-length from the government. And there's a whole bunch of governance layers to that."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331875266&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354054395&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I asked Isabelle what the most effective call for donations was. "Personal stories," she said, "stories of patients whose lives have been saved or transformed because of the generosity of another Canadian. That's pretty compelling."
 
@@ -33,7 +33,7 @@ She told me about Michael, a 5-year-old boy who received a blood transfusion whe
 
 I hadn't thought of it explicitly before but I was struck by that level of impact. Your blood essentially goes from your arm into the arm of someone who needs it. It's not for no reason that the Canadian Blood Services' call to action is 'give life.'
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331875269&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354054368&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 In the past I've thought of donating blood as an act of generosity, of kindness or charity. Maybe courage as well. After talking to Isabelle, however, I also see it as an act of civic duty.
 
@@ -41,7 +41,7 @@ In the past I've thought of donating blood as an act of generosity, of kindness 
 
 "Half of Canadians are eligible to donate," she added. "We were talking earlier about eligibility criteria, so if you've travelled, or you've had an illness, or your iron or you're pregnant or you're breastfeeding; you know, there's all kinds of reasons why someone may not be able to donate at any given time in their life, but any given time, half of us can donate. So explore if that's something that you can participate in."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331875274&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354054353&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The people in our lives who had received blood donations were there on the periphery of our conversation and lingered in my mind afterward. Isabelle's friend. Isabelle's mother. My cousin. My grandmother. My friend. Another friend. I've donated blood but never thought about them as part of that. Now I do.
 

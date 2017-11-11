@@ -27,7 +27,7 @@ I turned on the audio recorder as I learned more about who she was and what she 
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3667-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329969179&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354045893&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <blockquote>&ldquo;I fell into art when I was little. I was born with a paintbrush in my hand, I think. I drew a lot when I was young.&rdquo;</blockquote>
 
@@ -35,7 +35,7 @@ Throughout her childhood and her career as an artist, she always loved trying ne
 
 "I'm not stable," she joked, and her laughter alluded to years of unrestrained creativity and wry self-deprecation.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329969182&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354045848&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3618-atrf-jcr-2000-web.jpg">
 
@@ -55,13 +55,13 @@ It seemed to me that the themes Margot chose weren't as whimsical as much as the
 
 She said that creating art related to childhood had a good deal of fun with it. "Each theme has had its difficulties," she said, "mais c'est joie."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329969185&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354045812&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 She compared her art to <i>le gang</i> of modern artists and said she didn't identify with that. "Au lieu que l'art contemporain je dirais l'art qu'on comprend rien. Art that we don't understand." Modern art has taken up the market, she explained, "but I don't make art to sell. I'm in between. I'm not part of the system."
 
 <blockquote>&ldquo;I think it&rsquo;s necessary to create from your heart, first of all. Not to try to necessarily please an audience. Make what you love, and it will spread. People will like it because it&rsquo;s sincere. [&hellip;] If you make it just to sell it, just to be known, you won&rsquo;t really be known because it&rsquo;s not really you.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329969186&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354045782&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I explained the cross-Canada project to her, and she responded that she wasn't Canadian.
 
@@ -69,7 +69,7 @@ I explained the cross-Canada project to her, and she responded that she wasn't C
 
 "We're much diminished since René Lévesque. It's changed. It's not at all the same as it once was. Independence, I don't believe in it as much anymore, even if I'd like to. It's become more of a dream than a reality."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329969187&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354045767&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Another huge part of my visit at Margot's studio gallery was her jovial and industrious husband, Gerard. I hesitated a long time before deciding to write about him, because Margot's skills and stories are amazing enough to stand on their own, but she and Gerard had such a strong interdependence I felt that he was worth describing.
 

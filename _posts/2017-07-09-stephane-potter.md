@@ -19,7 +19,7 @@ There's a place on the north coast of the St. Lawrence in Québec where a barn i
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3988-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332192770&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354051281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 If you have a sharp eye, you probably were thinking he doesn't look like he's old enough to have been a professional potter for three decades. I told him so and he laughed.
 
@@ -31,7 +31,7 @@ I didn't get this in the recording but at one point I interrupted him and asked,
 
 <blockquote>&ldquo;But Madame Dublois was stern, she said, &lsquo;It takes six or seven years to really learn this trade, that&rsquo;s a long time.&rsquo; I replied, &lsquo;Let&rsquo;s go.&rsquo;&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332192772&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354051269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3999-atrf-jcr-2000-web.jpg">
 
@@ -43,13 +43,13 @@ I asked him what it was like being a potter. "It's very special. We're talking a
 
 "<i>C'est un défi d'une certain façon</i>. It's a challenge to some extent. I have about 125 different items, for different types of cooking. I force myself, I try to create at least two new items every year for my loyal customers. [&hellip;] I always try to have something new for my supporters."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332192778&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354051245&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I also asked him what brought him back to Saint Irénée. He gestured outside.
 
 <blockquote>&ldquo;You've seen it. We have a beautiful view, beautiful people. My children&rsquo;s well-being. Charlevoix is where I was born. It speaks to my heart. It&rsquo;s a beautiful region.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332192779&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354051233&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4019-atrf-jcr-2000-web.jpg">
 

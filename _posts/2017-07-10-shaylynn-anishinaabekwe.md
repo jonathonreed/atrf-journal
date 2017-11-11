@@ -23,7 +23,7 @@ I had several impactful conversations with Shaylynn; this is part of just one. T
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4142-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332534327&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354056474&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Parliament Hill was, as Shaylynn said, a moment. Her dedication to supporting her people, however, has grown for years and has spanned generations. She has been or is involved in treaty research, land claims, child welfare, criminal justice and youth rehabilitation. I felt like at the core of her young spirit was resistance, and I heard stories of how that resistance took the shape of healing.
 
@@ -39,7 +39,7 @@ She's withstood those pieces herself. "I'm a suicide survivor. I was sexually ab
 
 <blockquote>&ldquo;No one was there for me when I needed it, so I want to be there for others so that they know that they can make it.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332534331&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354056465&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The day before I recorded this conversation, Shaylynn was describing the pain her family  and her community had endured, and how that trauma had reached her childhood and still affected her today. I had tears blurring my vision, but her eyes were clear and her voice was steady. "It ends with me," she said.
 
@@ -53,7 +53,7 @@ She didn't have that sense of power and identity when she was younger, a result 
 
 <blockquote>&ldquo;Just remembering who I am as a person and using my culture and spirituality to help myself heal. Because I was lost. I was actually ashamed to be First Nations, but that&rsquo;s basically what saved me, smudging and praying and going to ceremonies, and just being around my people, listening to stories from the Elders. Without that I probably wouldn&rsquo;t be here today. That&rsquo;s what brought me back to life.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332534338&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354056444&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4148-atrf-jcr-2000-web.jpg">
 
@@ -65,7 +65,7 @@ When the recording was done, there was so much water on my screen that I couldn'
 
 <blockquote>&ldquo;Just know that you&rsquo;re not alone and there&rsquo;s people that are willing to help you. I think that it&rsquo;s important that we all support one another and encourage one another because we&rsquo;re all in it together.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332534340&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354056429&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 It was like she was speaking to her younger self, and to some extent, she was. It made me think of the <a href="https://wemattercampaign.org/" target="blank">We Matter Campaign</a>, a national campaign to bring messages of hope and resilience to Indigenous youth struggling with suicidal thoughts and other hardships. I visited their website again in the writing of this article and found a <a href="https://www.youtube.com/watch?v=R7NeaMadw0w" target="blank">spoken word poem by Helen Knott</a> that echoed what Shaylynn said.
 
