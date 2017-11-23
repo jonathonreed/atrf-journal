@@ -7,7 +7,7 @@ date: 2017-08-06
 categories:
   - Culture
 description: Rural culture and the perspective of a Saskatchewan farmer.
-image: http://jonathonreed.com/atrf/img/2017/08/IMG_5577-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/11/IMG_5577-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -19,9 +19,9 @@ He wore a hat with the name of a big agronomy company on it, soil-covered jeans 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1r4VcOpmFWcchtHVDv-mvY9NsOyw" width="100%" height="480"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_5579-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5579-atrf-jcr-2000-web.jpg">
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336763693&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359733611&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 In urban culture, the weather is sort of seen as the thing you talk about when you're not sure what else to say. Among the farmers of Saskatchewan, however, weather is at the forefront of their minds and therefore their conversations. Weather can mean a failed crop. Weather can mean bankruptcy. So that's where our conversation began.
 
@@ -39,7 +39,7 @@ A quarter section is 160 acres, for the record, so that's barely any harvest. An
 
 So simplifying Howard's words to the denial of climate change isn't really accurate. He was acknowledging the uncertain weather patterns that the farmers of the Prairies have dealt with for generations, and the devastating losses they have already endured. "We could end up there again," he said. "But our varieties are better, we're making better use of our moisture with zero till and direct seedings. Those kinds of things we never had before. I think that's made a huge difference in these drier years and will in the future going forward."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336763701&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359733599&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 One of the most powerful things I'll remember from this entire conversation was Howard waving. We had pulled off the highway onto the gravel turnoff for the small town of Jansen, and he waved at each of the half-dozen-or-so vehicles that drove in or out. And it wasn't a cursory gesture. He looked at each one of them, recognized each driver, and waved to them.
 
@@ -47,7 +47,7 @@ He started farming in the area in 1969, basically out of high school. "I started
 
 <blockquote>&ldquo;I wouldn&rsquo;t trade it for anything else. A good place to raise a family.&rdquo;</blockquote>
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336763711&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359733590&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 I asked about the demographic change of rural Saskatchewan, thinking that fewer and fewer people were choosing to become farmers.
 
@@ -59,7 +59,7 @@ Howard's children grew up with him in Jansen, Saskatchewan, and all four of them
 
 "I just think being exposed to the rural, and then spending time in the city and seeing the stuff that goes on there," he said. "I mean, the crap that kids get exposed to in the city, it's not healthy. Girls at ten, eleven years of age, they're part of gangs already and they've got to go out and steal, or beat somebody up, or whatever. I mean, not a good environment to raise a family."
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_5587-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5587-atrf-jcr-2000-web.jpg">
 
 I spent a while trying to figure out what to say to follow this, because I didn't want to criticize Howard for speaking his truth. I ended up finding <a href="http://policyoptions.irpp.org/magazines/june-2017/the-urbanrural-divide-and-a-more-inclusive-canada/" target="blank">an article in Policy Options</a> that spoke to what I was feeling. "Capital vs. countryside," Sean Speer wrote, "that’s the new political divide. [&hellip;] Many of the people in [political] professions live and work in our major cities and socialize with those who have the same lived experience. It is not that they are necessarily dismissive or disdainful about how the rest of the country lives. It is that they do not even know that others live and see the world differently and prioritize different things. It is mostly a case of unthinking neglect rather than outright condescension. But the consequences are often the same."
 
@@ -69,7 +69,7 @@ Speer goes on to say that another step towards bridging this divide would be to 
 
 I suppose I've digressed from Howard's point about rural and urban cultures. The point is, these cultures can be vastly different—even within Canada. The way we treat those cultural  differences affects our families, our politics and the way we treat our fellow citizens.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336763716&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359733584&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <img src="http://jonathonreed.com/atrf/img/2017/08/bf0ff346-6154-488a-85b0-dd37cabb5d2c.jpg">
 
@@ -81,7 +81,7 @@ In the late 2000s, amidst politically charged criticism and support for the CWB,
 
 Howard, perhaps characteristically of farming culture, was focused on the future. "It had its place," he said of the CWB. "There are still those that would prefer to operate under that system, but I don't see it ever coming back. It's made us become a lot smarter operators, because we've had to pay attention to all our costs and know what pencils out and what doesn't. Keep our eyes open going forward."
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336763727&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359733578&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 The last thing I asked Howard was if there was anything he wished other Canadians knew about rural Saskatchewan farming, and his answer yet again opened my eyes.
 
@@ -95,11 +95,11 @@ He also spoke about genetically modified crops (GMOs), and his point was simple.
 
 In many urban cultures, organic and non-GMO are catchwords for healthy eating. Opening my eyes to the reality of large-scale agriculture—the kind of agriculture that is necessary to feed the world—means looking at those words differently. Organic food has a price that had never occurred to me.
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336763720&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359733563&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_5601-HDR-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5601-HDR-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_5590-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5590-atrf-jcr-2000-web.jpg">
 
 Throughout this journey I've been exposed to pieces of Canadian culture that I could not really have imagined, from a <a href="http://jonathonreed.com/atrf/2017/06/10/saltwater-trapline/" target="blank">lobster fisherman's boat</a> to an <a href="http://jonathonreed.com/atrf/2017/06/27/maison-du-pecheur/" target="blank">almost-forgotten Québécois barn</a> and elsewhere. My conversation with Howard is just the latest reminder that Canada is diverse, and complicated, and it takes real work and authentic conversations to begin to bridge the gaps between these different pieces. I can't begin to list the things I didn't know about farming in western Canada before talking to Howard. So I challenge you to look around at the ignorance or the stereotypes that you—just like me—might be taking for granted. And I challenge you to ask.
 
