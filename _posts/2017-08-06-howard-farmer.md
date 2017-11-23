@@ -7,7 +7,7 @@ date: 2017-08-06
 categories:
   - Culture
 description: Rural culture and the perspective of a Saskatchewan farmer.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_5577-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.com/atrf/img/2017/11/IMG_5577-JCR-2000-72-web.jpg
 image-sm:
 --- 
 
@@ -19,7 +19,7 @@ He wore a hat with the name of a big agronomy company on it, soil-covered jeans 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1r4VcOpmFWcchtHVDv-mvY9NsOyw" width="100%" height="480"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5579-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5579-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359733611&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -59,7 +59,7 @@ Howard's children grew up with him in Jansen, Saskatchewan, and all four of them
 
 "I just think being exposed to the rural, and then spending time in the city and seeing the stuff that goes on there," he said. "I mean, the crap that kids get exposed to in the city, it's not healthy. Girls at ten, eleven years of age, they're part of gangs already and they've got to go out and steal, or beat somebody up, or whatever. I mean, not a good environment to raise a family."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5587-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5587-JCR-2000-72-web.jpg">
 
 I spent a while trying to figure out what to say to follow this, because I didn't want to criticize Howard for speaking his truth. I ended up finding <a href="http://policyoptions.irpp.org/magazines/june-2017/the-urbanrural-divide-and-a-more-inclusive-canada/" target="blank">an article in Policy Options</a> that spoke to what I was feeling. "Capital vs. countryside," Sean Speer wrote, "that’s the new political divide. [&hellip;] Many of the people in [political] professions live and work in our major cities and socialize with those who have the same lived experience. It is not that they are necessarily dismissive or disdainful about how the rest of the country lives. It is that they do not even know that others live and see the world differently and prioritize different things. It is mostly a case of unthinking neglect rather than outright condescension. But the consequences are often the same."
 
@@ -97,9 +97,9 @@ In many urban cultures, organic and non-GMO are catchwords for healthy eating. O
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359733563&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5601-HDR-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5601-HDR-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5590-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5590-JCR-2000-72-web.jpg">
 
 Throughout this journey I've been exposed to pieces of Canadian culture that I could not really have imagined, from a <a href="http://jonathonreed.com/atrf/2017/06/10/saltwater-trapline/" target="blank">lobster fisherman's boat</a> to an <a href="http://jonathonreed.com/atrf/2017/06/27/maison-du-pecheur/" target="blank">almost-forgotten Québécois barn</a> and elsewhere. My conversation with Howard is just the latest reminder that Canada is diverse, and complicated, and it takes real work and authentic conversations to begin to bridge the gaps between these different pieces. I can't begin to list the things I didn't know about farming in western Canada before talking to Howard. So I challenge you to look around at the ignorance or the stereotypes that you—just like me—might be taking for granted. And I challenge you to ask.
 
