@@ -72,7 +72,7 @@ Cory's on the other side<br>
 Métis riders on our tail, it's soon they rode us down<br>
 Cory's on the other side"
 
-Thomas Scott was a surveyor employed by the Canadian government who opposed the Red River Rebellion in 1869. In 1870, Scott and several volunteers tried to make it to Portage, but they passed too close to Fort Garry and Scott was captured and imprisoned by Louis Riel's garrison. While in jail, he was brought in front of a military tribunal and was ultimately executed by firing squad. Scott's execution made him a martyr in English-speaking Canada, and gave Prime Minister John A. MacDonald a way to villify Riel and justify the marginalization of Métis peoples. It was following the execution of Scott that MacDonald sent the Wolseley expedition to put an end to the Red River Rebellion.
+Thomas Scott was a surveyor employed by the Canadian government who opposed the Red River Rebellion in 1869. In 1870, Scott and several volunteers tried to make it to Portage, but they passed too close to Fort Garry and Scott was captured and imprisoned by Louis Riel's garrison. While in jail, he was brought in front of a military tribunal and was ultimately executed by firing squad. Scott's execution made him a martyr in English-speaking Canada, and gave them a way to villify Riel and justify the marginalization of Métis peoples. It was following the execution of Scott that John A. MacDonald sent the Wolseley Expedition to put an end to the Red River Rebellion.
 
 <h2>Wheat Kings - The Tragically Hip (1992)</h2>
 

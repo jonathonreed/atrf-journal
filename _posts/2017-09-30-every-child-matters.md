@@ -27,7 +27,7 @@ After a few days, rain set in and they reached a large creek that they couldn’
 
 In the end, one 11 year old had to leave the other. Bernard walked another two weeks by himself, following power lines and crossing waist-deep lakes and rivers, and hallucinating from exhaustion. When he reached Tuktoyaktuk, he was flown to the hospital in Inuvik, where he received the news that Jack’s body had been discovered by a search and rescue team.
 
-“I went crazy, I couldn’t sleep, and I felt really bad. I was too young to know about death and stuff like that.”
+<blockquote>&ldquo;I went crazy, I couldn’t sleep, and I felt really bad. I was too young to know about death and stuff like that.&rdquo;</blockquote>
 
 Jack’s sister called the story that the boys had run away for fear of the consequences of the stolen cigarettes a cover-up from the abuse, and Joe Nasagaluak, the local behind the name ‘Freedom Road,’ echoed her sentiment. “They weren’t running away for stealing a pack of cigarettes,” he said. “There was something more. They were fighting for their lives, to reach home, for freedom.”
 
@@ -65,6 +65,8 @@ The point of this is that children matter. They mattered 45 years ago when Berna
 
 I found out that this fire pit in Chief Kim Joe Park was built for the second national Truth and Reconciliation Commission hearing in 2011, which saw over 1,000 residential school Survivors convene in Inuvik to tell their stories and to begin or continue the process of healing. When I was there a month ago, the fire pit was being used to offer free hot tea to community members, Indigenous and non-Indigenous alike.
 
-“Yeah, I think it matters that the fire pit was built as part of the TRC,” the woman serving tea said to me, “but this fire isn’t reconciliation. I think what matters is the coming together of people. The whole community is out here, and that’s where you begin to have conversations and relationships. That’s where reconciliation begins.”
+“Yeah, I think it matters that the fire pit was built as part of the TRC,” the woman serving tea said to me, “but this fire isn’t reconciliation."
+
+<blockquote>&ldquo;I think what matters is the coming together of people. The whole community is out here, and that&rsquo;s where you begin to have conversations and relationships. That&rsquo;s where reconciliation begins.&rdquo;</blockquote>
 
 So today is Orange Shirt Day, a day to have conversations about residential schooling and to keep the reconciliation process alive. I encourage you to read resources like Legacy of Hope, We Were So Far Away or We Matter. But more than that, I encourage you to take the time, in person, to join a community event or have an eye-opening conversation. We are all part of the process of healing from residential schooling.
