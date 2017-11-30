@@ -17,7 +17,7 @@ image-sm:
 
 With that in mind, I wrote up a small collection of stories on <a href="https://jonathonreed.exposure.co/" target="blank">Exposure</a>, to keep with me as I head farther west and onwards into the wild. Stories are special things, and telling them helps keep them close at hand and close to your heart.
 
-<iframe src="https://jonathonreed.exposure.co/ocean-wind/embed/cover?embed=true" style="width:100%;min-height:601px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe>
+<iframe src="https://jonathonreed.exposure.co/ocean-wind/embed/cover?embed=true" style="width:100%;min-height:602px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe>
 
 <blockquote>The one thing that every single sunrise and sunset has in common is that they don’t stay for long. It felt like just minutes before I could tell that the colours were fading into blue. For every panorama I shot, for every wave that rolled onto shore, it was like I could feel the earth spinning away from the sun and towards the night. The day of grey sky had concluded in a breathtaking whirlwind of orange and pink and purple, but it had concluded nonetheless. Night was on its way.</blockquote>
 
