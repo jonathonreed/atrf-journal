@@ -43,4 +43,4 @@ Lastly, and this is the big one, bring a mental health first aid kit. I wish des
 
 That's where I'll end for now. I hope you found something useful out of this reflection. If I haven't been articulate, at least I've been honest. Sometimes travel isn't easy. It's important to talk about it.
 
-<i>This was written for and <a href="https://www.unknownpersists.com">originally posted on</a> The Unknown Persists.</i>
+<i>This was written for and <a href="https://www.unknownpersists.com/features/traveling-with-mental-illness">originally posted on</a> The Unknown Persists.</i>
