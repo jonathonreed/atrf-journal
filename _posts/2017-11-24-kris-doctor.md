@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "Chris, Doctor"
+title: "Kris, Doctor"
 author: jcr
 date: 2017-11-24
 categories:
@@ -11,7 +11,7 @@ image: http://jonathonreed.com/atrf/img/2017/11/IMG_5845-2-JCR-2000-72-web.jpg
 image-sm:
 ---
 
-Chris grew up in Prince Albert, SK, and moved to Saskatoon in 1990. He's a doctor who specializes in infectious disease, which gives him a unique perspective on Saskatchewan medical care, racism and the HIV crisis in rural Indigenous communities.
+Kris grew up in Prince Albert, SK, and moved to Saskatoon in 1990. He's a doctor who specializes in infectious disease, which gives him a unique perspective on Saskatchewan medical care, racism and the HIV crisis in rural Indigenous communities.
 
 <img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5845-2-JCR-2000-72-web.jpg">
 
@@ -21,7 +21,7 @@ Chris grew up in Prince Albert, SK, and moved to Saskatoon in 1990. He's a docto
 
 <img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5847-2-JCR-2000-72-web.jpg">
 
-One of the first things Chris talked about was his experiences with racism in rural Saskatchewan, particularly as he grew up in Prince Albert. Prince Albert, known as PA by its locals, is the third-largest city in the province and the last major centre in the north.
+One of the first things Kris talked about was his experiences with racism in rural Saskatchewan, particularly as he grew up in Prince Albert. Prince Albert, known as PA by its locals, is the third-largest city in the province and the last major centre in the north.
 
 (As an aside, Prince Albert was incorporated as a town in 1885 after the Prince Albert Volunteers militia fought alongside the North-West Mounted Police against the Gabriel Dumont's Métis forces at the Battle of Duck Lake during the North-West Rebellion—which I learned about in <a href="http://jonathonreed.com/atrf/2017/11/23/riel/">my article about Louis Riel</a>. Racism has old roots.)
 
@@ -33,7 +33,7 @@ One of the first things Chris talked about was his experiences with racism in ru
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361646384&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-I like that quote as a glimpse of a relatively young, privileged man recognizing the oppression that was part of his upbringing, owning it and committing to doing better. We don't get to choose where we begin, but we do choose where we go. That's what Chris did.
+I like that quote as a glimpse of a relatively young, privileged man recognizing the oppression that was part of his upbringing, owning it and committing to doing better. We don't get to choose where we begin, but we do choose where we go. That's what Kris did.
 
 The only criticism I have is that education about colonialism and racism began in university. That was my experience as well. Things are changing, though.
 
@@ -43,7 +43,7 @@ The only criticism I have is that education about colonialism and racism began i
 
 "What isn't helpful is that the poverty in those communities is extreme, and that the population growth is extreme, and the money is not keeping up with that. It's an absolute&hellip;there's no future in that. And there's no plan to address it. You can't help but think the idea is to just let it fall apart."
 
-Chris spent the last ten years offering clinics and working with patients in rural Saskatchewan communities, including a number of reserves. His description of res culture wasn't universal, but it had the same concerns that I heard from First Nation chiefs and Elders in different parts of the country.
+Kris spent the last ten years offering clinics and working with patients in rural Saskatchewan communities, including a number of reserves. His description of res culture wasn't universal, but it had the same concerns that I heard from First Nation chiefs and Elders in different parts of the country.
 
 "The reality is, for so many young people in these communities, there is nothing to do. So what are you going to do? I mean, kid with lots of things to do do drugs and alcohol. If there's nothing to do, you're going to do it. Then you add in that there has been so much destruction of their families and multigenerational trauma and violence and neglect, so the kids grow up hurting. And they want to kill that pain. So it is that pain, but it is also boredom."
 
@@ -51,33 +51,33 @@ Chris spent the last ten years offering clinics and working with patients in rur
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361646360&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-From there, Chris began describing the HIV crisis currrently facing First Nations in Saskatchewan. 
+From there, Kris began describing the HIV crisis currrently facing First Nations in Saskatchewan. 
 
 <blockquote>&ldquo;What is going on with those communities, with more than double the incidents of HIV infection in Saskatchewan&mdash;and rates in some of those communities which are on par with communities in the developing world, you know, three hundred cases per hundred thousand versus the national average which would be about six.&rdquo;</blockquote>
 
 Let me repeat that. Three hundred, compared to six. Fifty times higher. 
 
-Chris made it really clear, with the simple logistics of a frontlines worker. "There is an opportunity here. You can go in there, you can educate people, you can create an infrastrucutre, you can treat people and by treating people, you can prevent transmission. You could contain the epidemic, much like they did fairly successfully in the Downtown Eastside of Vancouver."
+Kris made it really clear, with the simple logistics of a frontlines worker. "There is an opportunity here. You can go in there, you can educate people, you can create an infrastrucutre, you can treat people and by treating people, you can prevent transmission. You could contain the epidemic, much like they did fairly successfully in the Downtown Eastside of Vancouver."
 
 That coordinate, effective response has never happened.
 
-"I think we've had some gains," said Chris, "but when you consider not just the humanitarian aspect of it, but the actual health economic cost of not preventing HIV transmission, when every new case is a million dollars—five hundred thousand dollars in drugs, five hundred thousand dollars in doctor visits, et cetera—there's economic benefit there. It's a humanitarian necessity. And they don't do it? How do you explain that?"
+"I think we've had some gains," said Kris, "but when you consider not just the humanitarian aspect of it, but the actual health economic cost of not preventing HIV transmission, when every new case is a million dollars—five hundred thousand dollars in drugs, five hundred thousand dollars in doctor visits, et cetera—there's economic benefit there. It's a humanitarian necessity. And they don't do it? How do you explain that?"
 
 <blockquote>&ldquo;How do you explain that?&rdquo;</blockquote>
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361646345&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-"You can blame the government," Chris continued, "but we just had an election, and the opposition struggled to gain traction on anything. Did they bring up this issue? No. Why? It's toxic."
+"You can blame the government," Kris continued, "but we just had an election, and the opposition struggled to gain traction on anything. Did they bring up this issue? No. Why? It's toxic."
 
 <blockquote>&ldquo;HIV is toxic, because it&rsquo;s an Indigenous problem, among the marginalized component of the Indigenous community. So they could have brought it up, but the people of Saskatchewan don&rsquo;t care."</blockquote>
 
-You have to imagine me listening in silence as Chris directed the conversation back to Prince Albert. His perspective on both Indigenous and non-Indigenous communities' experiences and beliefs was utterly eye-opening.
+You have to imagine me listening in silence as Kris directed the conversation back to Prince Albert. His perspective on both Indigenous and non-Indigenous communities' experiences and beliefs was utterly eye-opening.
 
 "Because I grew up in Prince Albert, I understand—in a sense, although I think it's wrong, but I do understand—where they're coming from." He cleared his throat. "Freezing. Drowning. Car accidents. Murders. Suicides. Overdoses. This is what happens constantly in Indigenous community, in the reserve. This is normal. My patients lose someone close to them every three months, every four months. It's devastating. These are people in communities where each other are their greatest treasures. The bottom falls out of their world every time this happens. That's their reality, that is partly why they have a hard time getting on their feet."
 
 "To the people of Prince Albert, per se, when you say that people are dying of HIV as well, it doesn't register. It's just another problem. This is just one more thing. And what a cynical, working-class Prince Albert person is saying, is, my taxes are going to that community and gets consumed in the leadership class of that community, while the people around them live in squalor. They don't care, I don't care."
 
-Again, to reiterate that Chris wasn't saying he agreed with them. He was describing the racism that he knew was alive and well in the foundation of Saskatchewan and Canada's democracies. 
+Again, to reiterate that Kris wasn't saying he agreed with them. He was describing the racism that he knew was alive and well in the foundation of Saskatchewan and Canada's democracies. 
 
 "That's what they see," he finished. "I think we all seek the evidence which confirms the biases we already have." He described the Harper government's 2014 First Nations Financial Transparency Act, which compelled First Nations to disclose their annual financial reports, and the self-fulfilling racism that was part of that. "So is that working-class guy from PA, is he justified in saying that? I've seen examples of that and I've seen situations that are not like that. But this is where that apathy comes from."
 
@@ -85,11 +85,11 @@ Again, to reiterate that Chris wasn't saying he agreed with them. He was describ
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361646333&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-Chris also described opposition that he had heard from the Indigenous communities themselves. Offering a voice from their perspective, he said: "If we don't fix this community, we're never going to get to this problem. So we don't need you doctors telling us that you just need to come in here and treat people. You need to heal our community first."
+Kris also described opposition that he had heard from the Indigenous communities themselves. Offering a voice from their perspective, he said: "If we don't fix this community, we're never going to get to this problem. So we don't need you doctors telling us that you just need to come in here and treat people. You need to heal our community first."
 
 <blockquote>&ldquo;And I think, okay, but I&rsquo;m standing here outside a burning house, okay, and I&rsquo;ve got a hose, and I&rsquo;m asking you to turn it on and get a couple more people with hoses, because I can save those people that are in that house that&rsquo;s burning. And you want to build a park? I&rsquo;m having a hard time with that. It&rsquo;s not like that park doesn&rsquo;t need to be built, but right now we need to put out this fire.&rdquo;</blockquote>
 
-Maybe that description spoke to me because the burning-house imagery reminded me of Jonathan Cunningham's analogy for the Black Lives Matter movement. Maybe it spoke to me because I imagined Chris desperately trying to save more lives as an epidemic unfolded just beyond his reach.
+Maybe that description spoke to me because the burning-house imagery reminded me of Jonathan Cunningham's analogy for the Black Lives Matter movement. Maybe it spoke to me because I imagined Kris desperately trying to save more lives as an epidemic unfolded just beyond his reach.
 
 He knew he didn't have perfect relations with every community or community member he worked with, and he understood as best he could where they were coming from, naming the systemic widespread discrimination against Indigenous people that he had seen in the medical community and the politics of Saskatchewan.
 
@@ -97,17 +97,17 @@ He knew he didn't have perfect relations with every community or community membe
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361646306&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-I think that speaks to the complexity of trying to do the right thing. Often justice gets made out to be black and white, when really there's a thousand shades of grey, government bureacracy, privilege and neocolonialism in between. That's part of why I value this conversation with Chris. It's not easy, and it's not clear.
+I think that speaks to the complexity of trying to do the right thing. Often justice gets made out to be black and white, when really there's a thousand shades of grey, government bureacracy, privilege and neocolonialism in between. That's part of why I value this conversation with Kris. It's not easy, and it's not clear.
 
 The one thing that does seem to be clear is lives being lost.
 
-Chris described the AIDS crisis of the 1980s. For me, that's history, but for Chris it was completely part of his work today. "I'm colleagues with people that worked through that period, where every single one of their patients died a miserable death. And they fought to have access to experimental medications that didn't work. The gay community had strong community advocates in Vancouver. Business people. Architects. So they had a voice, and they were able to rally the city around the cause."
+Kris described the AIDS crisis of the 1980s. For me, that's history, but for Kris it was completely part of his work today. "I'm colleagues with people that worked through that period, where every single one of their patients died a miserable death. And they fought to have access to experimental medications that didn't work. The gay community had strong community advocates in Vancouver. Business people. Architects. So they had a voice, and they were able to rally the city around the cause."
 
 "Julio Montaner relentlessly lobbied the government that he could save money and save lives by being aggressive and sort of leading many ideas in the world, and went into the Downtown Eastside—where they had the worst injection drug problem in Canada for sure, and arguably North America—and had a dramatic impact on incidents through this concept of treatment as prevention."
 
 <blockquote>&ldquo;That&rsquo;s the frustrating thing. You know, they were through their peak by the mid-90s, seeing their numbers coming down. And here it wasn&rsquo;t until the early 2000s that our number started to go up. Peaking in 2009 at about 200 cases, then it started to go down, and now it&rsquo;s going back up again. We&rsquo;re headed back to 200.&rdquo;</blockquote>
 
-"You would think we could learn from them," said Chris, and his was emphatic, not bitter. "Maybe we could skip this eight-year lag between realizing there&rsquo;s a problem and having an impact if we just implement what they did. We are making progress now but we are eight years into our high, high numbers."
+"You would think we could learn from them," said Kris, and his was emphatic, not bitter. "Maybe we could skip this eight-year lag between realizing there&rsquo;s a problem and having an impact if we just implement what they did. We are making progress now but we are eight years into our high, high numbers."
 
 "Every community we go to, we find more. And our government is still in denial about it."
 
@@ -117,13 +117,13 @@ His voice became softer, almost wistful, and I wondered if he was counting lives
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361646288&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-I was initially drawn to Chris' story just because of the awareness angle. I did not know HIV was still a crisis in Canada. I did not know that it was affecting prodominantly Indigenous communities. Period. But Chris' story had a lot more to it. He took on roots of racism, he acknowledged the struggles of colonial poverty, he connected the history of the AIDS epidemic to the lives being lost today. Holding those kinds of histories and experiences isn't easy. It wasn't easy for the gay community in 1983, and it's not easy today.
+I was initially drawn to Kris' story just because of the awareness angle. I did not know HIV was still a crisis in Canada. I did not know that it was affecting prodominantly Indigenous communities. Period. But Kris' story had a lot more to it. He took on roots of racism, he acknowledged the struggles of colonial poverty, he connected the history of the AIDS epidemic to the lives being lost today. Holding those kinds of histories and experiences isn't easy. It wasn't easy for the gay community in 1983, and it's not easy today.
 
 But it matters. It matters because lives are at stake.
 
 Scientific consensus is that HIV treatment has become effective enough to make the disease untransmittable. That means HIV/AIDS can be eradicated. Literally. But for this to work, people need to know their HIV status, and people who are HIV-positive need to have access to care. 
 
-Laurie Edmiston, executive director of <a href="www.catie.ca/en/home">CATIE</a>, wrote literally an hour ago that Canada is <a href="http://theprovince.com/opinion/op-ed/laurie-edmiston-its-time-to-retire-canadas-aids-epidemic">falling behind on both of these measures</a>. She says it's time for Canada's leaders and policy-makers to step up—and according to Chris' beliefs about democracy, that means it's time for every single one of us to step up. 
+Laurie Edmiston, executive director of <a href="www.catie.ca/en/home">CATIE</a>, wrote literally an hour ago that Canada is <a href="http://theprovince.com/opinion/op-ed/laurie-edmiston-its-time-to-retire-canadas-aids-epidemic">falling behind on both of these measures</a>. She says it's time for Canada's leaders and policy-makers to step up—and according to Kris' beliefs about democracy, that means it's time for every single one of us to step up. 
 
 So make this an issue. Now.
 
