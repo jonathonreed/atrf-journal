@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-12
 categories:
   - History
-description: 
+description: The British did it on purpose. They did it on purpose.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_9810-JCR-2000-72-web.jpg
 image-sm:
 ---

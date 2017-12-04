@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-29
 categories:
   - People
-description: 
+description: The closeness of Inuvik's history brought into clarity how young Canada really is.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_9243-JCR-2000-72-web.jpg
 image-sm:
 ---

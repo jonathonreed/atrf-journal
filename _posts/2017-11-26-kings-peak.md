@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-26
 categories:
   - Places
-description: 
+description: It wasn’t easy. It took 120 km of bicycling along the coast and up into the mountains. It took took six hours of elevation gain.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_0248-HDR-JCR-2000-72-web.jpg
 image-sm:
 ---

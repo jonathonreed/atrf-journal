@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-17
 categories:
   - People
-description: 
+description: No one is two-dimensional. Not an oil worker in rural Alberta, not a Gore-Tex cyclist on the highway.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_6114-JCR-2000-72-web.jpg
 image-sm:
 ---
@@ -61,4 +61,4 @@ My point is no one is two-dimensional. Not an oil worker in rural Alberta, not a
 
 Well, I left Bezanson that morning, and that was it. My footprints lingered in the dust, their son remembered me for a while; but it wasn't my place. I cycled on with gratitude and fresh vegetables, but I still cycled on.
 
-I can tell you, though, the person that arrived in that small town on the edge of Alberta, was not quite the same person who left.
+I can tell you, though, the person that arrived in that small town on the edge of Alberta was not quite the same person who left.

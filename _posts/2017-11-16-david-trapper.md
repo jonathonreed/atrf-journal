@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-16
 categories:
   - Indigenous
-description: 
+description: “But on the land it’s different.”
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_8579-JCR-2000-72-web.jpg
 image-sm:
 ---

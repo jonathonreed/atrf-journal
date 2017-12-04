@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-22
 categories:
   - People
-description: 
+description: A photo essay from a tarot reading I got on the day I left the coast.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_0531-JCR-2000-72-web.jpg
 image-sm:
 ---

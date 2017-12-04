@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-27
 categories:
   - Indigenous
-description: 
+description: You could feel where his words were coming from, you could almost see them beating from his chest to his voice. The loss was there, in his heart, but the hope was too.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_0655-JCR-2000-72-web.jpg
 image-sm:
 ---

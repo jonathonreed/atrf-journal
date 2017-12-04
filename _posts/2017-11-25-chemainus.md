@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-25
 categories:
   - Places
-description: 
+description: A glimpse of a coastal town in southern Vancouver Island.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_0565-JCR-2000-72-web.jpg
 image-sm:
 ---

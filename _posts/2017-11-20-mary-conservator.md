@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-20
 categories:
   - People
-description: 
+description: “The past is who we are.”
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_5407-JCR-2000-72-web.jpg
 image-sm:
 ---

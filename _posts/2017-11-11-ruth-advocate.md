@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-11
 categories:
   - People
-description: 
+description: “My story is about the power of assets for the poor, to help people who are on social assistance.”
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_5079-atrf-jcr-2000-web.jpg
 image-sm:
 ---

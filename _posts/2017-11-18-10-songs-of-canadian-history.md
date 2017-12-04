@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-18
 categories:
   - History
-description: 
+description: Ten different songs from all across Canada, along with short descriptions of the stories they tell.
 image: http://jonathonreed.com/atrf/img/2017/11/Edmund_Fitzgerald,_1971,_3_of_4_(restored).jpg
 image-sm:
 ---

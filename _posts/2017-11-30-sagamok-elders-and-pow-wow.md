@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-30
 categories:
   - Indigenous
-description: 
+description: Stories of residential schooling and visions of healing.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_4601-JCR-2000-72-web.jpg
 image-sm:
 ---
@@ -79,7 +79,7 @@ I think you have to go to a pow wow yourself to truly feel the community spirit,
 
 <img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4544-JCR-2000-72-web.jpg">
 
-At one point, there was a dance to honour the first dance of two young boys in child-sized regalia. Dolores held my hand. "See those kids," she asked, nodding into the circle. "That's the age they would have been taken."
+At one point, there was a dance to honour the first dance of two young boys in child-sized regalia. Dolores held my hand. "See those kids," she said, nodding into the circle. "That's the age they would have been taken."
 
 <img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4546-JCR-2000-72-web.jpg">
 

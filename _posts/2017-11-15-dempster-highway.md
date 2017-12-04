@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-15
 categories:
   - Places
-description: 
+description: Making it to the Arctic was one of the most challenging logistical elements of the route across the country.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_8704-JCR-2000-72-web.jpg
 image-sm:
 ---

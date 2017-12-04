@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-28
 categories:
   - Culture
-description: 
+description: Perhaps by honouring children, we can centre ourselves and our actions on creating a better country and a more gentle, sustainable, resilient planet.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_0714-JCR-2000-72-web.jpg
 image-sm:
 ---

@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-13
 categories:
   - People
-description: 
+description: Glenn marked the transition from north to south.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_0070-JCR-2000-72-web.jpg
 image-sm:
 ---

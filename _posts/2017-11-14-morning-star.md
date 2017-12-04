@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-14
 categories:
   - Masculinity
-description: 
+description: “For me being a man means being honest.”
 image: http://jonathonreed.com/atrf/img/2017/11/023A4769-JCR-2000-72-web.jpg
 image-sm:
 ---

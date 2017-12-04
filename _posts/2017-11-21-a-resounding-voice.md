@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-21
 categories:
   - Indigenous
-description: 
+description: “Our culture is about our relationship to this place, our home, and that’s what we are mandated.”
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_9845-JCR-2000-72-web.jpg
 image-sm:
 ---
@@ -39,7 +39,7 @@ According to Crist, Northern Gateway provided a catalyst for local communities t
 
 That's what happened on Haida Gwaii. During the National Energy Board's Joint Review Panel process in 2012, dozens (or hundreds) of Indigenous and non-Indigenous community members—Elders, elected leaders, local fishermen, traditional knowledge holders—presented oral testimonies describing what was at risk in the face of Northern Gateway.
 
-<blockquote>&ldquo;Our culture is about our relationship to this place, our home, and that&rsquo;s what we are mandated. That&rsquo;s our responsibility as a living generation of an ancient nation, to protect that, and protect that we will&hellip;We declared Duu Guusd Tribal Park&hellip;We drew a line in Gwaii Haanas and said, &lsquo;That area is intact, you&rsquo;re not going there.&rsquo; We never asked anybody permission. We had our Elders&rsquo; direction and&hellip;so we made plans. And then we said to the governments, to anybody who would listen, &lsquo;This is Haida land, these are the rules. We&rsquo;ll work with you. We&rsquo;ll negotiate with you. We&rsquo;ll talk with you. We&rsquo;ll share. We&rsquo;ll get along, but this is the Haida vision.&rsquo;&ldquo; <cite>Miles Richardson</cite></blockquote>
+<blockquote>&ldquo;Our culture is about our relationship to this place, our home, and that&rsquo;s what we are mandated. That&rsquo;s our responsibility as a living generation of an ancient nation, to protect that, and protect that we will&hellip;We declared Duu Guusd Tribal Park&hellip;We drew a line in Gwaii Haanas and said, &lsquo;That area is intact, you&rsquo;re not going there.&rsquo; We never asked anybody permission. We had our Elders&rsquo; direction and&hellip;so we made plans. And then we said to the governments, to anybody who would listen, &lsquo;This is Haida land, these are the rules. We&rsquo;ll work with you. We&rsquo;ll negotiate with you. We&rsquo;ll talk with you. We&rsquo;ll share. We&rsquo;ll get along, but this is the Haida vision.&rsquo;&rdquo; <cite>Miles Richardson</cite></blockquote>
 
 <blockquote>&ldquo;There is a reason why the logging industry collapsed and drove my community into a decade-long depression that it is still in. It wasn&rsquo;t due to park creation or land use planning, and it wasn’t due to blockades. It collapsed because it wasn&rsquo;t sustainable.&rdquo; <cite>Evan Putterill</cite></blockquote>
 

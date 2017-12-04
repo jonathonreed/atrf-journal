@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-24
 categories:
   - Culture
-description: “Race determines so much in North America.”
+description: A candid discussion of the HIV crisis facing Indigenous communities in Canada.
 image: http://jonathonreed.com/atrf/img/2017/11/IMG_5845-2-JCR-2000-72-web.jpg
 image-sm:
 ---
