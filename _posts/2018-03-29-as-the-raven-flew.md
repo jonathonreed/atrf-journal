@@ -6,7 +6,7 @@ author: jcr
 date: 2018-03-29
 categories:
   - Product
-description: It’s done.
+description: From my heart to yours, I hope 2017 meant something.
 image: http://jonathonreed.com/atrf/img/2018/03/IMG_0040-JCR-2000-web.jpg	
 image-sm:
 ---
