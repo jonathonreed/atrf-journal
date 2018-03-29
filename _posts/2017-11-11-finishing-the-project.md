@@ -6,7 +6,7 @@ author: jcr
 date: 2017-11-11
 categories:
   - Product
-description: Just an update about how I'm going to finish this project in the next couple months.
+description: Just an update about how I’m going to finish this project in the next couple months.
 image: http://jonathonreed.com/atrf/img/2017/09/IMG_9701-JCR-2000-72-web.jpg
 image-sm:
 ---
