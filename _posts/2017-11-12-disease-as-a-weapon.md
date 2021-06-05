@@ -7,7 +7,7 @@ date: 2017-11-12
 categories:
   - History
 description: The British did it on purpose. They did it on purpose.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_9810-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_9810-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -17,7 +17,7 @@ I read the booklet from cover to cover, and it's where I'm getting most of the f
 
 To begin with, Haida historians cite the population before European contact at 30,000 or 40,000. The current population of Haida Gwaii is about 4,500. In 1904, it was 587. Let that sink in.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/museum-visual-900.gif">
+<img src="http://jonathonreed.me/atrf/img/2017/11/museum-visual-900.gif">
 
 In the late 18th century, Haida Gwaii was recognized by Europeans on the Pacific coast as a powerful nation with a reputation bolstered by influential trade and long-held autonomy. This began to change after a short-lived gold rush on Haida Gwaii in 1851, along with Haida assertion of rights and the threat of American expansion, led the British to unilaterally declare Haida Gwaii the 'Colony of Queen Charlotte Island.' 
 
@@ -25,11 +25,11 @@ As a 'colony,' Haida Gwaii was connected to the Hudson Bay Company trading post 
 
 On March 12, 1862, however, all that changed. That's when a steamer from San Francisco arrived with three hundred European and American gold seekers, and a single victim of smallpox.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9812-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9812-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9803-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9803-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9802-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9802-JCR-2000-72-web.jpg">
 
 You might think you know this story. I thought I did. I didn't.
 
@@ -61,13 +61,13 @@ The things I saw on Haida Gwaii were amazing, even I could tell that. I read thr
 
 These things don't illustrate a broken, decimated people. Not by a long shot. But with a knowledge of the history they've endured, they do illustrate resilience.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9853-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9853-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9852-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9852-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9850-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9850-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9848-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9848-JCR-2000-72-web.jpg">
 
 There are two feelings I want to leave you with. The first is that sense of awe-through-understanding that I just described. The second is anger.
 

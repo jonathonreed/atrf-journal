@@ -7,7 +7,7 @@ date: 2017-07-20
 categories:
   - People
 description: Earthworms, forest ecology, and things I never knew.
-image: http://jonathonreed.com/atrf/img/2017/07/IMG_0524-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/07/IMG_0524-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -57,7 +57,7 @@ Getting people to recognize that, however, poses challenges because making chang
 
 <blockquote>&ldquo;It&rsquo;s in people&rsquo;s heads, they really do care about earthworms one way or the other, so being able to capitalize on that. They know that earthworms do a lot already, so maybe it&rsquo;s not that much of a leap to realize that earthworms do a lot of bad stuff.&rdquo;</blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_0535-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_0535-atrf-jcr-2000-web.jpg">
 
 Annie and I did talk almost exclusively about earthworms, and I think that ecology and invasive species are an important topic to bring to the forefront. I will also mention, however, that Annise is part of <a href="https://www.feminasci.com/about" target="blank">Femina Sci</a>, a collective of women scientists whose mission is to create an online community that promotes the empowerment of women in science. Their blog contains personal essays and panels about their work and other topics, and their website links to a dozen resources related to women in STEM fields
 

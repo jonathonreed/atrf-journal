@@ -6,7 +6,7 @@ date: 2017-04-24
 categories:
   - Personal
 description: We’ve spent the last couple days in Toronto gathering our last items of gear.
-image: http://jonathonreed.com/atrf/img/2017/04/IMG_8724-JCR-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/04/IMG_8724-JCR-2000-web.jpg
 image-sm:
 ---
 
@@ -18,8 +18,8 @@ Toronto was blue sky and spring air as we walked to MEC, Downtown Camera, Vanhaw
 
 We shot some gear photos thanks to our friends at 500px as the afternoon light dwindled. The sun set again as we crossed the city and headed for home. Currently working on shipments, St. John's logistics and picking up our bikes tomorrow.
 
-<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_8724-JCR-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/04/IMG_8724-JCR-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_8755-JCR-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/04/IMG_8755-JCR-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_9046-JCR-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/04/IMG_9046-JCR-2000-web.jpg">

@@ -7,7 +7,7 @@ date: 2017-11-16
 categories:
   - Indigenous
 description: “But on the land it’s different.”
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_8579-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_8579-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -17,11 +17,11 @@ David was in the middle of his camp, chopping firewood. I could see a few cared-
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1RDoiBftQY082Gip_zk7ZVJofbA9t6ZPI" width="100%" height="480"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_8577-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_8577-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_8574-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_8574-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_8579-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_8579-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356862485&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -47,7 +47,7 @@ I asked if he saw trapping and spending time on the land as a return to somethin
 
 "And I guess that's about it on that."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_8551-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_8551-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_8554-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_8554-JCR-2000-72-web.jpg">
 

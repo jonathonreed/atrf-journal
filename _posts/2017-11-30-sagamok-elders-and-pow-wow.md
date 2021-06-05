@@ -7,7 +7,7 @@ date: 2017-11-30
 categories:
   - Indigenous
 description: Stories of residential schooling and visions of healing.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_4601-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_4601-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -15,7 +15,7 @@ image-sm:
 
 We sat with Harvey and Dolores on their porch in Sagamok, a few kilometres south of Massey along the Spanish River. At first it was a feeling, and later on as they were greeted at the pow wow it was a certainty, that Harvey and Dolores were stalwart members of their community. They both grew up in Sagamok and were as deeply rooted in that place as the trees around us.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4535-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_4535-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356829761&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -45,7 +45,7 @@ Her story was a reminder that residential schools were only part of a larger sys
 
 <blockquote>&ldquo;They have an anger inside. That&rsquo;s why we have our traditional ceremonies, our sweat lodges, to bring that out as community, to restore good feelings about each other and about ourselves.&rdquo;</blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4540-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_4540-JCR-2000-72-web.jpg">
 
 "The general population does not know of the history of the Indian residential school, because it's absent from the curriculum of the provincial schools, that's why people don't know," said Harvey. "Even our children don't know those things, because many of those that were in residential schools never spoke of it. Now, we're in a very significant time period where the government of Canada, the government of Ontario, and the people of this country have to realize and place in their minds that somebody messed up. They messed us up too. They have to realize that. They have to make good, fix what they did."
 
@@ -75,18 +75,18 @@ Part of the power of this experience, for me, was that this discussion about vio
 
 I think you have to go to a pow wow yourself to truly feel the community spirit, the resilience, the intergenerational teaching. There was sacredness and there was laughter. Elders led the opening ceremonies and tended the sacred fire. Children ran around them playing tag. Some of those present were long-time community members, others were from far away.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4716-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_4716-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4544-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_4544-JCR-2000-72-web.jpg">
 
 At one point, there was a dance to honour the first dance of two young boys in child-sized regalia. Dolores held my hand. "See those kids," she said, nodding into the circle. "That's the age they would have been taken."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4546-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_4546-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4723-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_4723-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4624-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_4624-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_4601-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_4601-JCR-2000-72-web.jpg">
 
 I won't ever forget that.

@@ -7,7 +7,7 @@ date: 2017-05-03
 categories:
   - Masculinity
 description: Out with his daughter.
-image: http://jonathonreed.com/atrf/img/2017/05/IMG_9752-atrf-ac-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/05/IMG_9752-atrf-ac-2000-web.jpg
 image-sm:
 ---
 

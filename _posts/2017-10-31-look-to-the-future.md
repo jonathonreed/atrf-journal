@@ -7,13 +7,13 @@ date: 2017-10-31
 categories:
   - Climate
 description: I shared three days with them on the coast of the Salish Sea and I know with them, tomorrow is bright.
-image: http://jonathonreed.com/atrf/img/2017/10/IMG_0681-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/10/IMG_0681-JCR-2000-72-web.jpg
 image-sm:
 ---
 
 I've been friends with Xiuhtezcatl Martinez and <a href="https://www.earthguardians.org">Earth Guardians</a> for years, and it was through them that I connected with Jan Mangan in British Columbia. Her home on Salt Spring Island became my last stopping point in the entire cycle tour. While I was there, I interviewed her grandkids, Róisín and Galveston, about the future. After a journey that had traversed coastlines threatened by rising sea levels, farm fields in drought, forests on fire and permafrost in upheaval, it seemed appropriate to document one more perspective on climate change—the perspective of the young generation.
 
-<img src="http://jonathonreed.com/atrf/img/2017/10/IMG_0679-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/10/IMG_0679-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349646725&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -49,7 +49,7 @@ So perhaps the best answer to a cynic is a seven-year-old child. Róisín spoke 
 
 Tons!
 
-<img src="http://jonathonreed.com/atrf/img/2017/10/IMG_0681-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/10/IMG_0681-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349646710&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -73,6 +73,6 @@ It will be more eco-ly.
 
 I love these words from Galveston because it's so clear to me that he's describing his authentic nine-year-old perspective. More solar panel yard thingies. Less mills putting carbon in the air. He doesn't have a full vocabulary but he has an understanding of what's putting his home at risk, and what he can do to protect it.
 
-<img src="http://jonathonreed.com/atrf/img/2017/10/IMG_0712-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/10/IMG_0712-JCR-2000-72-web.jpg">
 
 When you look at the photos of these two kids, I hope you see not just young people whose lives are threatened by the looming threat of climate disruption, but also leaders who are holding the tools we need for climate action. Whenever you feel dispirited, look into their eyes. Listen to them laugh. I shared three days with them on the coast of the Salish Sea and I know with them, tomorrow is bright.

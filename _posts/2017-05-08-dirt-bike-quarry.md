@@ -6,7 +6,7 @@ date: 2017-05-07
 categories:
   - Places
 description: Newfoundland’s kids.
-image: http://jonathonreed.com/atrf/img/2017/05/IMG_0731-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/05/IMG_0731-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -26,13 +26,13 @@ We got closer and eventually called out a greeting, leaving behind the bicycles 
 
 They were as interested in us as we were in them, and we talked about bicycling across Canada ("Dat's ahbsolutely cooked, man") and they talked about dirt biking after school ("Sometimes wit'out the school if we're fucked-like"). Eventually more teenagers came down from farther up the cliff, A.J. and Colin jumped to tell the others about us, and before we knew it we were down in the quarry shooting photos.
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0678-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_0678-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0731-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_0731-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0682-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_0682-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0742-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_0742-atrf-jcr-2000-web.jpg">
 
 This was a real place of juxtaposition. The bikers had a teenage-sanctioned devil-may-care bravado carried by cussing and Newfoundland slang, but it was clear in the work that had gone into building both the dirt bike track and a more-than-standing-height 'bough shack' in the woods that they really did care about this place and the time they spent in it.
 
@@ -44,8 +44,8 @@ It was young and old at the same time. The twelve year old didn't smoke because 
 
 "Well it's a laugh for us." More laughter and a drag on the cigarette. "But who knows about the adults and them."
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0770-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_0770-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0776-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_0776-atrf-jcr-2000-web.jpg">
 
 When we talk to people about Newfoundland, they usually have an image of icebergs and coastline peninsulas in their minds. Not for no reason. But just a few kilometres inland from Conception Bay South, there's an abandoned quarry that isn't abandoned; there's a group of youth ripping engines and smoking and watching the sun go down. And it stands to reason that's not the only one. Newfoundland's kids are jumping fire and spinning tires and that's worth knowing.

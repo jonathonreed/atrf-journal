@@ -6,7 +6,7 @@ date: 2017-04-12
 categories:
   - Partners
 description: Working with the pressman who loves to impress.
-image: http:/jonathonreed.com/atrf/img/2017/04/IMG_8560-AC-2000-web.jpg
+image: http:/jonathonreed.me/atrf/img/2017/04/IMG_8560-AC-2000-web.jpg
 image-sm:
 ---
 
@@ -16,12 +16,12 @@ Aside from the logistics, the research, and last-minute delays around inventory,
 
 We knew from the very beginning that we'd love to offer a letterpress poster for one of the reward tiers and couldn't think of anyone other than Vince of <a href="http://everlovinpress.com">Everlovin' Press</a>. 
 
-<a href="http://everlovinpress.com" target="blank"><img src="http://jonathonreed.com/atrf/img/2017/04/IMG_8621-AC-2000-WEB.jpg"></a>
+<a href="http://everlovinpress.com" target="blank"><img src="http://jonathonreed.me/atrf/img/2017/04/IMG_8621-AC-2000-WEB.jpg"></a>
 
 Vince was gracious enough to have us over at his studio recently while he pulled the posters through the machine. After giving us a tour, a walkthrough around the process and equipment, we even got to pull some of the posters through the machine ourselves! 
 
-<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_8606-AC-2000-WEB.jpg">
-<img src="http://jonathonreed.com/atrf/img/2017/04/IMG_8611-AC-2000-WEB.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/04/IMG_8606-AC-2000-WEB.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/04/IMG_8611-AC-2000-WEB.jpg">
 
 Having seen his work around town, consistently being impressed, and now having seen him in action, we're thrilled about having gone this route.
 

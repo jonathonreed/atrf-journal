@@ -7,11 +7,11 @@ date: 2017-05-21
 categories:
   - Indigenous
 description: If nobody else hears my story, two more people have heard it and that is how change happens.
-image: http://jonathonreed.com/atrf/img/2017/05/IMG_1602-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/05/IMG_1602-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
-"His name is Calvin White," the text from <a href="http://jonathonreed.com/atrf/2017/05/09/day-009/" target="blank">Steph</a> said, "and he's an Elder in the Mi'kmaq community. He does a lot of speaking and storytelling and such all over Newfoundland and the Atlantic region."
+"His name is Calvin White," the text from <a href="http://jonathonreed.me/atrf/2017/05/09/day-009/" target="blank">Steph</a> said, "and he's an Elder in the Mi'kmaq community. He does a lot of speaking and storytelling and such all over Newfoundland and the Atlantic region."
 
 We called him on the phone while bicycling near Stephenville and he offered to meet us on the Trans-Canada Highway at an upcoming gas-station restaurant. "Better put your jackets on," he remarked. "I can see the rain coming across the water. It's coming with the wind."
 
@@ -21,7 +21,7 @@ He met us in the parking lot and waved us indoors. We unpacked some recording ge
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/358071647&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_7900-atrf-ac-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_7900-atrf-ac-2000-web.jpg">
 
 The first question Asad asked was related to Canada's 150th anniversary, and we quickly understood that Calvin would be pulling no punches. "I'm not about to celebrate the 150th," he said without hesitation. "I don't have any reason to celebrate the atrocities that have been brought on my people."
 
@@ -79,7 +79,7 @@ There were a number of stories that Calvin told that were particularly eye-openi
 
 The term 'Jackatar' wasn't some accidental cultural slang. It was an intentional tool used to discredit the Mi'kmaq and maintain the government's oppression.
 
-Another eye-opening story was Calvin's account of the fishing industry in Newfoundland. While we were <a href="http://jonathonreed.com/atrf/2017/05/10/day-010/" target="blank">in Twillingate</a> we had realized that the island's history of fishing stretched far beyond the collapse of the Atlantic cod in the late 20th century. (Jonathon reflected on it briefly in <a href="https://ello.co/jonathonreed/post/ynupi7-tz4j2vhmdxwunua" target="_blank">a post on Ello</a>.) From Calvin's perspective, the devastation of the fishery had a clear culprit. It wasn't rural Newfoundlanders.
+Another eye-opening story was Calvin's account of the fishing industry in Newfoundland. While we were <a href="http://jonathonreed.me/atrf/2017/05/10/day-010/" target="blank">in Twillingate</a> we had realized that the island's history of fishing stretched far beyond the collapse of the Atlantic cod in the late 20th century. (Jonathon reflected on it briefly in <a href="https://ello.co/jonathonreed/post/ynupi7-tz4j2vhmdxwunua" target="_blank">a post on Ello</a>.) From Calvin's perspective, the devastation of the fishery had a clear culprit. It wasn't rural Newfoundlanders.
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/358071275&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 

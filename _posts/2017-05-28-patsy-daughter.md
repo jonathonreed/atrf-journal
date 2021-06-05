@@ -7,11 +7,11 @@ date: 2017-05-28
 categories:
   - People
 description: Summers come, butterflies grow, and mothers love their daughters.
-image: http://jonathonreed.com/atrf/img/2017/05/IMG_1034-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/05/IMG_1034-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
-This is a story back from eastern Newfoundland, but it's stayed with me and I can't help thinking that it ought to be shared. Patsy was one of those friendly local Newfoundlanders you don't easily forget. We crossed paths in <a href="http://jonathonreed.com/atrf/2017/05/06/day-006/">Deep Bight</a>.
+This is a story back from eastern Newfoundland, but it's stayed with me and I can't help thinking that it ought to be shared. Patsy was one of those friendly local Newfoundlanders you don't easily forget. We crossed paths in <a href="http://jonathonreed.me/atrf/2017/05/06/day-006/">Deep Bight</a>.
 
 "I was born on a small island in Bonavista Bay called Bragg's Island," she told us. I looked it up later and for me it's a bit hard to imagine. Scattered, rugged islands of the bay lie to the west of Bragg's Island, and to the east is nothing but the open water of the Atlantic Ocean.
 

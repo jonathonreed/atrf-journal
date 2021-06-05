@@ -7,7 +7,7 @@ date: 2017-11-28
 categories:
   - Culture
 description: Perhaps by honouring children, we can centre ourselves and our actions on creating a better country and a more gentle, sustainable, resilient planet.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_0714-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_0714-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -15,7 +15,7 @@ Until 2015, Raffi was a melody. Raffi was my six-year-old voice asking my mom to
 
 In 2015, he reappeared in my life as one of the most outspoken pro-democracy voices in the federal election. And in October, he reappeared at the market on Salt Spring Island, prompting me to hug him, take his photo, and research a bit more about this figure who has been in my life since I can remember listening to music. The result is a photo, and a quick story about honouring children.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0714-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0714-JCR-2000-72-web.jpg">
 
 Raffi Cavoukian, named after the 19th-century Armenian poet Raffi, emigrated from Egypt at age 10. He began performing for children in the mid-1970s through the Mariposa Folk Festival's 'Mariposa in the Schools' program. By 1992, the Washington Post was calling him 'the most popular children's singer in the English-speaking world.'
 
@@ -33,11 +33,11 @@ In a <a href="https://www.theguardian.com/commentisfree/2016/feb/08/water-crisis
 
 <blockquote>&ldquo;By putting the universal needs of children first, strategies can be developed to meet our most pressing needs&mdash;building community, restoring the planet’s health, peace-making, and creating sustainable economies devoted to the wellbeing of children and families.&rdquo; <cite><a href="http://www.childhonouring.org/whatischildhonouring.html">Centre for Child Honouring</a></cite></blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/covenant.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/covenant.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/dl-and-r.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/dl-and-r.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/covenant_principles.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/covenant_principles.jpg">
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/aFoYYMbcCI8" frameborder="0" allowfullscreen></iframe>
 

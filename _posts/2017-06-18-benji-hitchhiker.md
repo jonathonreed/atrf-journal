@@ -7,7 +7,7 @@ date: 2017-06-18
 categories:
   - People
 description: $10 and a harmonica.
-image: http://jonathonreed.com/atrf/img/2017/06/IMG_3597-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/06/IMG_3597-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -19,7 +19,7 @@ A few weeks ago, he left Montréal with $20. No phone. The clothes on his back. 
 
 He described his plan for a tattoo of Percé Rock as a souvenir. (You should think of 'souvenir' in the sense of the French verb 'to remember,' not so much in the tourist sense.) He found a local shop and they said they could do it for $60, leaving him just $50 short. Then he met someone who gave him a harmonica as a way to make up the extra money. 
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3606-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_3606-atrf-jcr-2000-web.jpg">
 
 I uploaded a short video, again not colour graded for efficiency's sake. 
 

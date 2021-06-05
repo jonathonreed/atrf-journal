@@ -7,11 +7,11 @@ date: 2017-06-10
 categories:
   - History
 description: A community culture can never survive if the indivudals in it are exploited and compelled by the people outside of it.
-image: http://jonathonreed.com/atrf/img/2017/06/200801317.jpg
+image: http://jonathonreed.me/atrf/img/2017/06/200801317.jpg
 image-sm:
 ---
 
-A few weeks ago we stayed with <a href="http://jonathonreed.com/atrf/2017/05/20/day-020/">Michel and Lucille</a> on the northwest coast of Cape Breton. One of the things I had heard about while we were on Newfoundland was the history and continued practice of forced relocation of isolated communites. Lucille had a direct connection to that history; her father had been forced to move south to Chéticamp when the federal government established Cape Breton Highlands National Park in the 1930s. 
+A few weeks ago we stayed with <a href="http://jonathonreed.me/atrf/2017/05/20/day-020/">Michel and Lucille</a> on the northwest coast of Cape Breton. One of the things I had heard about while we were on Newfoundland was the history and continued practice of forced relocation of isolated communites. Lucille had a direct connection to that history; her father had been forced to move south to Chéticamp when the federal government established Cape Breton Highlands National Park in the 1930s. 
 
 So it was after my conversations with Lucille that I looked up more about the history of relocation in Atlantic Canada, and that's when I came across a document from the National Library of Canada, <a href="http://www.collectionscanada.gc.ca/obj/s4/f2/dsk3/ftp04/nq24734.pdf" target="blank">Engineered Consent: The Relocation of Black Point</a> by Lorraine Vitale Cox. The entire PDF is almost 500 pages, so I haven't and most likely won't read through it closely. But I saved it on my phone and took some time to scroll through it, reading different pieces of the culture and history of Black Point. 
 
@@ -19,7 +19,7 @@ Black Point is found on the northwestern tip of the Bay of St. Lawrence in the h
 
 I'm going to pull a few quotes from the document that I found to be particularly important.
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/andrew-doane.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/andrew-doane.jpg">
 
 <blockquote>&ldquo;Our &lsquo;remembrance of things past&rsquo; as as much to do with our present experience as it does with our past. We forget much more than we remember. The process is one of sifting and winnowing out the chosen kernels of memory from the rest&mdash;the weightless chaff that simply disappears as our stories are told. This process, though, is not entirely of our own making. There are many things we are taught to remember and many we are taught to forget. These shape our experience not only of what was in the past but also of the present and the future.&rdquo;</blockquote>
 
@@ -43,9 +43,9 @@ It hardly sounds like a group of uneducated Gaelic squatters who are eking out a
 
 "There was a sense of plenty and abundance that accompanied tea. There was plenty of tea, plenty of time, and certainly plenty of scones. The whole encounter seemed to be completely spontaneous and there was never a sense of any kind of obligation to the patterns that everyone expected."
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/nq24734-pepin.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/nq24734-pepin.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/nq24734-road.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/nq24734-road.jpg">
 
 <blockquote>&ldquo;In the end the relocation in Black Point really had more to do with the interests of the state and the business ethos that it supported than it did with the needs of the people in the communities.&rdquo;</blockquote>
 

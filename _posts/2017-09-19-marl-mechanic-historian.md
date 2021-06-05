@@ -7,7 +7,7 @@ date: 2017-09-19
 categories:
   - People
 description: “Hang tough. Keep gathering.”
-image: http://jonathonreed.com/atrf/img/2017/09/IMG_7200-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/IMG_7200-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -27,9 +27,9 @@ One of the most powerful things about the Fort Nelson Heritage Museum was that i
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343179830&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_7210-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_7210-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_7212-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_7212-JCR-2000-72-web.jpg">
 
 Proposals for a highway connecting Alaska to the contiguous United States began in the 1920s and continued through the Great Depression, but until World War II the Canadian government didn’t see enough justification for the massive cost of construction. After the 1941 attack on Pearl Harbour and the beginning of the Pacific Theatre, however, both American and Canadian officials agreed a highway needed to be built to defend the Alaska coast and Aleutian Islands. Construction began in March and the rough built-as-fast-as-possible highway was completed in November.
 
@@ -39,7 +39,7 @@ Proposals for a highway connecting Alaska to the contiguous United States began 
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/343180015&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_7207-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_7207-JCR-2000-72-web.jpg">
 
 One of Marl’s favourite recollections was the story of him—along with a friend and his wife—driving a 1908 McLaughlin Buick from Fort Nelson to Whitehorse and back for its 100th anniversary. He had spent two winters restoring it, then decided to “do something for its birthday.” The car experienced no mechanical issues on the Alaska Highway, he told me with fondness. “Although, you know, the roof leaked a little.” I looked. The Buick Model 10 doesn’t have a roof.
 
@@ -47,9 +47,9 @@ This trip is just one of many examples of his love for old cars and their durabi
 
 I asked him if he had any ideas on how to change that culture of planned obsolescence, disposability and consumerism. He didn’t say anything for a long time. “No,” he said finally. “Not really. The only thing, really. Hard times. If you got hard times, it might change. I mean people just never threw anything away before, in the twenties in the teens. That buggy was new in 1888 but still good, and you could use it. I’d like to see a vehicle of today last that long. It wouldn’t happen.”
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_7206-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_7206-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_7201-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_7201-JCR-2000-72-web.jpg">
 
 The museum is a testament to things that last—cars with wooden frames, kitchen appliances with metal handles—and Marl, in his soft-spoken, humble dedication to preserving their histories, is their guardian. He loves old cars from a mechanic standpoint, but in talking to him I got a feeling that he believes intrinsically that the past is worth hanging onto. Without these artifacts, we lose a tangible access point to the way things used to be—good and bad.
 

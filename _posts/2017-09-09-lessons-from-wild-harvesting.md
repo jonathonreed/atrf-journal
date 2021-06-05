@@ -7,7 +7,7 @@ date: 2017-09-09
 categories:
   - Culture
 description: Some conversations from the edge of the Stewart-Cassiar wilderness.
-image: http://jonathonreed.com/atrf/img/2017/09/IMG_9528-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/IMG_9528-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -17,7 +17,7 @@ Through the trees beside the highway I could see a dozen or so tents, trucks, tr
 
 The guys around him chuckled. “Of a sort,” he replied. “You’re standing in a camp of professional mushroom pickers.”
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9526-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9526-JCR-2000-72-web.jpg">
 
 He said there were maybe about thirty of them at the camp right now, and while the picking season in that area was just sort of starting, he worked in various forms of wild harvesting ten months out of the year. They picked chanterelles, pines and morels; and probably others that I forget. They worked in the rain, in the sun, in the forest. Their individually-discovered wild mushroom spots, called ‘patches,’ were closely guarded secrets. Sometimes veteran harvesters passed on their best patches to the next generation of mushroom pickers. Sometimes the knowledge of the patches died with them.
 
@@ -31,9 +31,9 @@ They had a lot of stories. The camp, for example, was called ‘the Zoo’ by th
 
 “He did.”
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9499-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9499-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9496-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9496-JCR-2000-72-web.jpg">
 
 My favourite part of the conversation was when I dared to ask about climate change. “This might be a dumb question,” I started, and the guy who had waved interrupted me.
 
@@ -47,7 +47,7 @@ My favourite part of the conversation was when I dared to ask about climate chan
 
 Another moment passed. “You‘re not American, are you?” he asked.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9507-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9507-JCR-2000-72-web.jpg">
 
 That’s about when I met Mike. We’d been standing beside his shelter the entire time, although I hadn’t realized it. He came out to talk and pretty soon I realized that he was the Mike of Hippy Mike’s Mushroom Depot. He was a pine mushroom buyer. “I let the young guys do the picking now.” He told me about the different classifications of pine mushrooms and gave me advice that I’ve already forgotten about how to transport mushrooms from the forest without damaging them. A damaged mushroom can easily go down a classification.
 
@@ -65,13 +65,13 @@ The Summer of Love was fifty years ago this year. I hadn‘t realized that. Fift
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342583463&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9522-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9522-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9504-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9504-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9509-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9509-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9516-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9516-JCR-2000-72-web.jpg">
 
 I know I’ve digressed from mushroom harvesting. In a lot of ways a pine mushroom is simpler than an idealist counterculture movement from a lifetime ago. In the end, I’m left with more questions than I had when I first pulled off the Stewart-Cassiar Highway and more than I had when I stepped into his shelter. What did he think of Haight-Ashbury? Did he go to Woodstock? Was being a wild-harvest buyer on the periphery of the food industry connected to rejecting the status quo of the 1960s as a young man? What was it about being turned away at the Spanish-Moroccan border that made him remember it almost fifty years later?
 

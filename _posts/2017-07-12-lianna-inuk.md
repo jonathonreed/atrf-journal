@@ -7,13 +7,13 @@ date: 2017-07-12
 categories:
   - Indigenous
 description: “The trauma of the oppression and cultural genocide of hundreds of years, that’s what’s being celebrated today.”
-image: http://jonathonreed.com/atrf/img/2017/07/IMG_4355-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/07/IMG_4355-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
 I want to start by sharing this image of Lianna. It was rushed and not the easiest lighting but I think it captures her in a really accurate way: wearing her purple amauti among the red-and-white Canada 150 celebrators with a smile on her face, present and unapologetic about her culture and her voice. When I first met Lianna, she had just spoken to Prince Charles and the Duchess of Cambridge. She wasn't in awe. She was indignant that she hadn't gotten more time to speak to them about Inuit suicide.
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4356-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_4356-atrf-jcr-2000-web.jpg">
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Nr2hyH9e2vtZm1zX7UtX-GNMj6alQBDu" width="100%" height="480"></iframe>
 
@@ -81,6 +81,6 @@ I looked it up and <a href="http://www.cbc.ca/news/canada/newfoundland-labrador/
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354080822&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4359-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_4359-atrf-jcr-2000-web.jpg">
 
 Before this conversation, I could not have placed Goose Bay on a map, let alone described some of the cultural, economic and social issues facing the people living there and in other parts of Labrador. Now, for me, that part of Canada has a face: an unafraid young woman with sealskin in her hands and a better vision for her people in her heart.

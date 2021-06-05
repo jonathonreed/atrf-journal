@@ -7,11 +7,11 @@ date: 2017-08-08
 categories:
   - History
 description: With one foot on the past, we can step into our present political tensions and injustices with strength and resolve.
-image: http://jonathonreed.com/atrf/img/2017/08/Unknown-1.jpeg
+image: http://jonathonreed.me/atrf/img/2017/08/Unknown-1.jpeg
 image-sm:
 --- 
 
-I <a href="http://jonathonreed.com/atrf/2017/06/28/oka/" target="blank">wrote about Oka</a> at the end of June. The first thing I read about was the leadership of Ellen Gabriel as one of the spokespeople for the Mohawk resistance. The first thing I wrote was that the land issue is still unresolved. Two weeks later, I came across a video of Ellen Gabriel defending The Pines of Kanesatake against development. 
+I <a href="http://jonathonreed.me/atrf/2017/06/28/oka/" target="blank">wrote about Oka</a> at the end of June. The first thing I read about was the leadership of Ellen Gabriel as one of the spokespeople for the Mohawk resistance. The first thing I wrote was that the land issue is still unresolved. Two weeks later, I came across a video of Ellen Gabriel defending The Pines of Kanesatake against development. 
 
 Not from 1990. From 2017.
 
@@ -27,9 +27,9 @@ In <a href="https://www.facebook.com/APTNNews/videos/10154972951723772/" target=
 
 This is exactly what happened in April 1989.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/Unknown-3.jpeg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/Unknown-3.jpeg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/Unknown-2.jpeg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/Unknown-2.jpeg">
 
 These photos are from Oka in 1990, but I could just as easily be sharing images of Standing Rock in 2016, where the Sioux blockaded the Dakota Access pipeline; or Clyde River in 2017, where Inuit hunters were prepearing to swim in the frigid Arctic Ocean to block seismic testing before they won a Supreme Court ruling.
 
@@ -39,9 +39,9 @@ The connection of Indigenous-led resistance to Oka is visible even today. Grand 
 
 <blockquote>&ldquo;We salute all the water protectors, coast protectors and climate warriors on the front lines of these pipeline battles, standing up for Indigenous rights, the water and a safe climate. Resistance to Kinder Morgan's Trans Mountain Expansion tar sands pipeline and tanker project will be strongest in British Columbia, but it won't stop there: Kinder Morgan can count on fierce resistance all over North America by Indigenous people and their allies.&rdquo; <cite>Grand Chief Serge Simon</cite></blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/we-met-with-the-filmmaker-who-changed-the-way-canada-saw-the-oka-crisis-body-image-1443194904-size_1000.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/we-met-with-the-filmmaker-who-changed-the-way-canada-saw-the-oka-crisis-body-image-1443194904-size_1000.jpg">
 
-At the end of July, I <a href="http://jonathonreed.com/atrf/2017/07/28/energy-east/" target="blank">posted an interview with Jim and Donna Sinclair</a> about their resistance to Energy East. During that interview, I also found out that they were at Oka in 1990 as journalists. This is where the pieces of history, for me, started to connect. The attempted development on Kanesatake territory is not separate from the collapse of the Atlantic fishery territory. The intervention of the Sureté du Québec in Oka is not separate from the violence of the NWMP in Winnipeg. Mohawk resistance in 1990 is not separate from opposition to pipeline expansion in 2017.
+At the end of July, I <a href="http://jonathonreed.me/atrf/2017/07/28/energy-east/" target="blank">posted an interview with Jim and Donna Sinclair</a> about their resistance to Energy East. During that interview, I also found out that they were at Oka in 1990 as journalists. This is where the pieces of history, for me, started to connect. The attempted development on Kanesatake territory is not separate from the collapse of the Atlantic fishery territory. The intervention of the Sureté du Québec in Oka is not separate from the violence of the NWMP in Winnipeg. Mohawk resistance in 1990 is not separate from opposition to pipeline expansion in 2017.
 
 I don't mean Canadian history is a conspiracy. I mean our history is connected in ways for which we often don't give it credit. We tend to think about these 'crises' as disconnected events, rather than pieces of a larger history with oppression and exploitation as tools of nation building. 
 
@@ -75,6 +75,6 @@ My purpose of returning to Oka was to draw attention to the ongoing history of l
 
 <blockquote>&ldquo;We can start by talking to each other about Indigenous issues, educating and learning, while refusing to repeat the mistakes the led to July 11, 1990. We can&rsquo;t change the past but we can all shape the future, which starts with giving the respect and honour our people deserve.&rdquo; <cite>Steve Bonspiel, <a href="http://www.cbc.ca/news/opinion/oka-crisis-anniversary-1.4197880" target="blank">The Oka Crisis was supposed to be a wake-up call</a></cite></blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/oka-1990-anniversary-poster-1-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/oka-1990-anniversary-poster-1-web.jpg">
 
 <i>Photos by <a href="http://johnkenneyphotography.com/index.html" target="blank">John Kenney</a> and Shaney Komulainen. Artwork by Gord Hill.</i>

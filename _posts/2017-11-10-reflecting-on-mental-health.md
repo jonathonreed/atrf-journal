@@ -7,7 +7,7 @@ date: 2017-11-10
 categories:
   - Personal
 description: Sometimes things aren’t easy. It’s important to talk about it.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_4818-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_4818-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -19,9 +19,9 @@ The following two photos illustrate how I was feeling. The first photo is from a
 
 In the first photo, I really couldn't be happier. You can see it in my grin, in the sunglasses hooked on my shorts and my bare feet on the rock. In the second, by contrast, you can see lines on my face. When I took that photo, I planned for it to be a joke about Smokey the Bear, but when I looked at it later in the day, I nearly cried. All of a sudden, I could see what I felt.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_6988-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_6988-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9463-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9463-JCR-2000-72-web.jpg">
 
 Back in the winter, I read <a href="https://theoutbound.com/mattvanswol/how-the-outdoors-helped-me-fight-depression">an article written by Matt Van Swol</a> about how the outdoors helped him fight depression. "There’s hope and joy to be found in the outdoors," he wrote. "There's beauty to be viewed and to be celebrated every minute of every day, regardless of whether you are rich or poor, single or married, loved or unloved. There is beauty out there, waiting for you to find it." I resonated with what he said about the outdoors lifting him up. I had experienced that myself a hundred times.
 

@@ -7,15 +7,15 @@ date: 2017-11-29
 categories:
   - People
 description: The closeness of Inuvik's history brought into clarity how young Canada really is.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_9243-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_9243-JCR-2000-72-web.jpg
 image-sm:
 ---
 
 I forget who it was, but someone in Inuvik suggested that I talk to Brian at Alestine's for a perspective on local history and culture. Brian told me right away that he wasn't an expert and that there plenty of people with more knowledge about Inuvik than he, but he was willing to talk about his community in the Arctic and the perspective he shared was thought-provoking.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9231-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9231-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9243-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9243-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/363769985&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -27,11 +27,11 @@ Aklavik, a hamlet on the Peel Channel of the Mackenzie Delta, began as a Hudson'
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/363769967&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-After talking about his family settling in newly built Inuvik, Brian referred to the land claim agreements that defined the region. After our conversation I independently researched the <a href="http://jonathonreed.com/atrf/2017/09/15/a-brief-history-of-self-government/">history of self-government in the Yukon</a>, partly motivated by Brian's firmness that understanding the land claims was fundamental to understanding Inuvik.
+After talking about his family settling in newly built Inuvik, Brian referred to the land claim agreements that defined the region. After our conversation I independently researched the <a href="http://jonathonreed.me/atrf/2017/09/15/a-brief-history-of-self-government/">history of self-government in the Yukon</a>, partly motivated by Brian's firmness that understanding the land claims was fundamental to understanding Inuvik.
 
 "You have the Inuvialuit, the Gwich'in, and the Sahtu, a little bit more southern. I actually belong to the Sahtu region, which is a land claim agreement. I belong to the land claim of the southern region. It would be better if I had a map."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/map-landclaims1-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/map-landclaims1-web.jpg">
 
 Brian's mother was Sahtu. The logo of the restaurant is a photo of her, which I saw but didn't photograph. Through her, and through the very fact of where he lived, Brian was part of the land claims history.
 
@@ -43,7 +43,7 @@ From Brian's perspective, the land claim agreements of the western Arctic were l
 
 <blockquote>&ldquo;People are very protective. I mean, you grow up somewhere all your life and you love the place, you don&rsquo;t want to see all this stuff happen. It had a lot to with&hellip;totally protecting the environment was what it was all about.&rdquo;</blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9240-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9240-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/363769946&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -61,9 +61,9 @@ One of the last things we talked about was climate change, and the effects being
 
 "You start to see the changes, how the permafrost is sinking, creating these big, huge craters. That's from permafrost, just collapsing, changing the whole landscape. It affects us but it also affects animals and stuff like that. Lots of changes, that's for sure."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9238-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9238-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9241-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9241-JCR-2000-72-web.jpg">
 
 The closeness of Inuvik's history brought into clarity how young Canada really is. Aklavik, founded only 100 years ago. Inuvik, built by Brian's father. Stringer Hall residential school, closed in 1971. The Berger Inquiry, 1974. The offshore oil boom of the 1980s. Climate change effects over the last decade.
 

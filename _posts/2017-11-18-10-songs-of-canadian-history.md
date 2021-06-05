@@ -7,11 +7,11 @@ date: 2017-11-18
 categories:
   - History
 description: Ten different songs from all across Canada, along with short descriptions of the stories they tell.
-image: http://jonathonreed.com/atrf/img/2017/11/Edmund_Fitzgerald,_1971,_3_of_4_(restored).jpg
+image: http://jonathonreed.me/atrf/img/2017/11/Edmund_Fitzgerald,_1971,_3_of_4_(restored).jpg
 image-sm:
 ---
 
-After I published <a href="http://jonathonreed.com/atrf/2017/08/08/5-virtual-museums/">5 Virtual Museums of Canadian History</a>, someone sent me a link to Canadian Geographic's <a href="http://maps.canadiangeographic.ca/songmap/">Great Canadian Song Map</a>. I didn't have time to go through it while I was on the road, but I bookmarked it as something to return to. I wanted to research and share some of the histories held within these timeless Canadian songs. So here's ten different songs from all across Canada, along with short descriptions of the stories they tell.
+After I published <a href="http://jonathonreed.me/atrf/2017/08/08/5-virtual-museums/">5 Virtual Museums of Canadian History</a>, someone sent me a link to Canadian Geographic's <a href="http://maps.canadiangeographic.ca/songmap/">Great Canadian Song Map</a>. I didn't have time to go through it while I was on the road, but I bookmarked it as something to return to. I wanted to research and share some of the histories held within these timeless Canadian songs. So here's ten different songs from all across Canada, along with short descriptions of the stories they tell.
 
 <h2>My Country &rsquo;Tis of Thy People You&rsquo;re Dying - Buffy Sainte Marie (1966)</h2>
 

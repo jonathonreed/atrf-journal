@@ -7,7 +7,7 @@ date: 2017-05-27
 categories:
   - Places
 description: A small collection of stories from Cape Breton Island.
-image: http://jonathonreed.com/atrf/img/2017/05/IMG_1864-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/05/IMG_1864-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 

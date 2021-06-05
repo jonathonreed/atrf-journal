@@ -7,7 +7,7 @@ date: 2017-07-05
 categories:
   - People
 description: “I vote, I pay taxes, I donate blood.”
-image: http://jonathonreed.com/atrf/img/2017/06/IMG_4131-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/06/IMG_4131-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -15,9 +15,9 @@ Half of all Canadians will either need blood or know someone who will need blood
 
 I met with Isabelle Robillard, Director of Communications at Canadian Blood Services, to learn more about giving blood.
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4132-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_4132-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4128-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_4128-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354054416&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 

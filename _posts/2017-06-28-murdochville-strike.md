@@ -7,15 +7,15 @@ date: 2017-06-28
 categories:
   - History
 description: Sixty years ago, the miners in Murdochville led one of the most important strikes in Québec history.
-image: http://jonathonreed.com/atrf/img/2017/06/1978_-_mines_gaspe_-_greve_murdochville_ligne_de_piquetage.jpg
+image: http://jonathonreed.me/atrf/img/2017/06/1978_-_mines_gaspe_-_greve_murdochville_ligne_de_piquetage.jpg
 image-sm:
 --- 
 
-I recently researched and wrote <a href="http://jonathonreed.com/atrf/2017/06/27/maison-du-pecheurs/" target="blank">a piece</a> about the Québec sovereignty movement after coming across a colourful mural along the highway southwest of Percé. But what about when there isn't a aesthetic catalyst to take out the camera and audio recorder? What about just an isolated town that's seen better days?
+I recently researched and wrote <a href="http://jonathonreed.me/atrf/2017/06/27/maison-du-pecheurs/" target="blank">a piece</a> about the Québec sovereignty movement after coming across a colourful mural along the highway southwest of Percé. But what about when there isn't a aesthetic catalyst to take out the camera and audio recorder? What about just an isolated town that's seen better days?
 
 Such was my experience in Murdochville. The town seemed pretty deserted and a bit run-down, and apart from a <i>centre-ville</i> hotel with an unexpectedly large dining hall and a stillness that felt somehow nostalgic, there wasn't a lot to note. It wasn't until afterwards that I found out that Murdochville was the site of one of the most important strikes in Québec history.
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/murdochville-histoire-mine-1955.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/murdochville-histoire-mine-1955.jpg">
 
 Murdochville was incorporated in 1953 after the discovery of copper ore and arrival of Noranda Mines. It was a company town, and its peak population of about 4,000 in the 1970s depended entirely on the mining industry. The rise and fall of Murdochville is its own significant story; from a stable, prosperous economy that was the envy of eastern Québec to the mass unemployment and steady decline that followed the mine's inevitable closure. Konrad Yakabuski's 2004 article in The Globe and Mail, <a href="https://www.theglobeandmail.com/report-on-business/rob-magazine/death-of-a-company-town/article18280514/?page=all" target="blank">Death of a Company Town</a>, is worth reading in that respect.
 
@@ -25,7 +25,7 @@ The opening of the mine brought in hundreds of workers, who formed a union in 19
 
 Pierre Elliot Trudeau, still at that point just a Montréal lawyer, <a href="http://www.cbc.ca/player/play/1797440892" target="blank">travelled in solidarity to Murdochville</a> and stated, "This is a fight for recognition, this isn't a fight for certain advantages. And I think trade-union people throughout the province should lay down their tools and show their economic force." Noranda, known for their anti-union position and supported in that position by the Duplessis provincial government, responded to that potential force by seeking to end the strike through any means necessary. 
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/arton8303.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/arton8303.jpg">
 
 The provincial government deployed 80 police officers to Murdochville, while Noranda hired 40 <i>agents de sécurité</i> from the Atlas Detective Agency. These armed <a href="https://en.wikipedia.org/wiki/Goon_squad" target="blank">goons</a> targeted the strikers while Noranda hired hundreds of strikebreakers, or scabs, to undermine the walkout. Clashes between the strikers and law enforcement were frequent.
 
@@ -45,7 +45,7 @@ In <a href="http://journal.alternatives.ca/spip.php?article8303" target="blank">
 
 "The Quiet Revolution," he concludes, "began in Murdochville."
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/murdochville-histoire-greve-mine-1956-1957.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/murdochville-histoire-greve-mine-1956-1957.jpg">
 
 This year marks 60 years since the Murdochville strike, and the fact that we passed through the bloody streets of 1967 without stopping except for a coffee at the unexpectedly large hotel shows how elusive history can be. It is up to all of us to learn these stories in any way that we can, in order to keep the legacy of those who fought for our rights alive.
 

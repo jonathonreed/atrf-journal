@@ -7,7 +7,7 @@ date: 2017-11-20
 categories:
   - People
 description: “The past is who we are.”
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_5407-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_5407-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -15,9 +15,9 @@ While we were in Winnipeg, we cycled up to St. Mary Ave. and Memorial Blvd. to g
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359111132&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5407-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5407-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5414-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5414-JCR-2000-72-web.jpg">
 
 The biggest piece of work being undertaken in the lab was a 9x7&#39; Hudson's Bay Company (HBC) map from 1794. The cartographer was named Philip Turner, with information sourced from surveyors working for both the HBC and the North West Company. HBC surveyors were marked in black, whereas other sources were marked in light grey because they were less trustworthy. When the map was created, it was the most accurate map of what is now Canada, with all the most accurate surveying that they had.
 
@@ -33,11 +33,11 @@ I only really photographed the cartouche, because the rest was rather blank. I w
 
 Mary pointed out the long-haired cow on the left side of the cartouche. "The artist was European," she explained, "and he'd never been to North America. This might have been his idea of a moose."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5369-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5369-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5366-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5366-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5370-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5370-JCR-2000-72-web.jpg">
 
 The biggest reason I kept this audio clip is because you can hear the passion in Mary's voice. You can hear how energized she is by the history all around her. It's tactile. It's tangible. And it's her job to protect it. 
 
@@ -47,6 +47,6 @@ I asked her why she thought history was important, and her answer was simple.
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359111072&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5390-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5390-JCR-2000-72-web.jpg">
 
 I've done a lot of research throughout this project, and I know that a lot of that research has been possible because of the work by dedicated conservators, historians, archivists, archaeologists and every other profession involved in the discovery and preservation of history. So this is an acknowledgement of gratitude, as well as an amplification of why history matters, from someone who works on it every day.

@@ -7,7 +7,7 @@ date: 2017-10-11
 categories:
   - Personal
 description: The same words beat in my heart like they did back then. I refuse to do nothing.
-image: http://jonathonreed.com/atrf/img/2017/10/IMG_0746-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/10/IMG_0746-JCR-2000-72-web.jpg
 image-sm:
 ---
 

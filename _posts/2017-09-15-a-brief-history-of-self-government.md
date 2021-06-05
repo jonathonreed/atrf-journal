@@ -7,15 +7,15 @@ date: 2017-09-15
 categories:
   - History
 description: “We are not here looking for a hand-out. We are here with a plan.”
-image: http://jonathonreed.com/atrf/img/2017/09/d06f9c36-05a1-4bf7-96eb-770cc527c340-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/d06f9c36-05a1-4bf7-96eb-770cc527c340-web.jpg
 image-sm:
 ---
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/d06f9c36-05a1-4bf7-96eb-770cc527c340-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/d06f9c36-05a1-4bf7-96eb-770cc527c340-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/B6-93-86.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/B6-93-86.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/B2-02-180.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/B2-02-180.jpg">
 
 I didn’t know self-government existed in First Nations in Canada outside of Nunavut. I knew that the Indian Act first passed in 1876 was still in effect. I knew self-determination and sovereignty was part of the United Nations Declaration on the Rights of Indigenous Peoples and the Truth and Reconciliation Final Report. But I didn’t know that eleven of the fourteen First Nations in the Yukon were already self-governing and had settled land claims with the Canadian government.
 
@@ -33,7 +33,7 @@ Formal resistance to colonization in the Yukon began with Chief Jim Boss of the 
 
 In 1993, the Council of Yukon Indians, the Government of Canada and the Government of Yukon signed the Umbrella Final Agreement, which acted as the political framework for negotiating individual Yukon First Nations self-government agreements. The Council of Yukon Indians included people who were non-status according to the Indian Act but who could prove their connection to Indigenous heritage. Individual land claims and self-government agreements followed from 1993 to 2005. You can read about the different First Nations’ histories and settlements on <a href="http://mappingtheway.ca/thejourney/">The Journey to Yukon First Nation Self-Government</a> timeline.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/MTW_pop-ups_ENGLISH_PR-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/MTW_pop-ups_ENGLISH_PR-web.jpg">
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/eB11J3KAfcQ" frameborder="0" allowfullscreen></iframe>
 
@@ -43,7 +43,7 @@ As the <a href="http://mappingtheway.ca/">Mapping the Way</a> website says, self
 
 “We have to make sure that when our children—my grandchildren—come in there, you know, they’re being trained to be leaders. They’re going to be going to the university. I know that for a fact. My grandson is only five years old. I know he’s going to go to university. I know my granddaughter is going to go to university. I know they’re going to learn how to take over self-government and run with it. […] A long time ago they were oppressed. Many times they were thrown into mission schools. They were taken away at a very young age—three years old—lived in a mission school, didn’t have the love of their parents. Their parents lost the ability to give them guidance, to take care of them and show them what to do. They got up by the bell, woke by the bell, prayed by the bell, and yet they were told they were sinners and what-not, and everything negative. You bet there’s been a change. It’s better nowadays, you know. Our children are proud of who they are. They’re learning to dance. They’re learning their language. They’re learning to sing.” — <a href="http://mappingtheway.ca/stories/interview-doris-mclean">Doris McLean</a>, Chief of Carcross/Tagish First Nation in the negotiations leading to the Umbrella Final Agreement
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/CTFN1-267.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/CTFN1-267.jpg">
 
 This is far from a complete history of Yukon First Nations self-government. It’s a history that I merely glimpsed while travelling from Teslin to Inuvik, and it’s a history that is still unfolding, both in the Yukon and across Canada. The eleven First Nations in the Yukon represent about half of all comprehensive land claim and self-government agreements in Canada. Some of them would be land claims between the Inuit and the Canadian government between 1975 and 2003. Others I probably don’t know about. As always, there is more to learn.
 

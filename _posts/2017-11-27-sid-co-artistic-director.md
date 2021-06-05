@@ -7,7 +7,7 @@ date: 2017-11-27
 categories:
   - Indigenous
 description: You could feel where his words were coming from, you could almost see them beating from his chest to his voice. The loss was there, in his heart, but the hope was too.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_0655-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_0655-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -15,7 +15,7 @@ We met Sid Bobb in Nipissing First Nation west of North Bay, ON, and sat with hi
 
 "You're in Nipissing Anishinaabe territory," he told us. "This is often called called Duchesnay, but it's part of the ancestral territory of a number of families. We have Big Medicine Studio here. It's owned and operated by myself and my wife, Penny Couchie, who's the other co-artistic director of our company, Annmitaagzi, which means 'He/She Speaks' in Anishinaabemowin. This specific region was home to a lot of ceremonies for the Nipissings, so we hope that this studio and our yard contributes to that ongoing saga of activities."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0655-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0655-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/362763620&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -35,9 +35,9 @@ Trauma and healing are intrinsically part of the work and artistic practice of B
 
 "This recent play that we did, we asked these youth what they hear in the story and what stories do they want to bring forward, and there were a lot of stories of, you know, family violence, sexual violence, alcohol abuse, prescription abuse as children, with a lot of the dialogue around residential school and Canada 150. That seems to be what comes to the front, all these things that have challenged individuals in their own lives."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0638-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0638-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0642-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0642-JCR-2000-72-web.jpg">
 
 <blockquote>&ldquo;We have historic trauma, but we also have ongoing trauma that continues from that cycle of violence. Until we address that trauma, and learn to manage and deal and process that trauma, some of the accompanying ways of coping with it, like alcohol and substance abuse, will be very difficult to overcome.&rdquo;</blockquote>
 
@@ -61,7 +61,7 @@ Sid connected art to Indigenous resistance, as well. "I think that's what's been
 
 Big Medicine Studio stands in resistance to that, an ongoing act of reclamation and resurgence. As Sid talked, a couple of young people wearing jingle dresses walked out of the studio. "You can hear it in the background, the beautiful bells," said Sid. "Those bells, they call our ancestors, they invite our ancestors to come and join us. The jingle dress is a healing dress. And 'Big Medicine' is in acknowledgement of what they used to call the Nipissings: Big Medicine People."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0622-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0622-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/362763521&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -77,11 +77,11 @@ Healthy, sustainable water becomes a lot clearer when you're sitting beside a wi
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/362763503&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-Back in July I wrote about Chief Dan George's <a href="http://jonathonreed.com/atrf/2017/07/28/lament-for-confederation/">Lament for Confederation</a>, a poem and call to action that he wrote and performed in 1967. I found out about Dan George because he was Sid Bobb's great grandfather.
+Back in July I wrote about Chief Dan George's <a href="http://jonathonreed.me/atrf/2017/07/28/lament-for-confederation/">Lament for Confederation</a>, a poem and call to action that he wrote and performed in 1967. I found out about Dan George because he was Sid Bobb's great grandfather.
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/chief_dan_george_03.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/chief_dan_george_03.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/Rita-Joe-world-premiere-program-notes-Chief-Dan-George.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/Rita-Joe-world-premiere-program-notes-Chief-Dan-George.jpg">
 
 Sid said he was too young to really know Dan George, but he knew his songs and his works. "When I first heard the Lament, it just&hellip;emotional overload. It brings everything to the fore in such a way. Because we still have that. We still have heartwrenching rates of alcoholism, heartwrenching rates of substance abuse."
 
@@ -107,7 +107,7 @@ The last part of our conversation was about Indigenous manhood. "I think Tracy B
 
 "When I look back on who did I talk to about what is it to be a man, how do you feel, what is it to be a father, I don't recollect having a lot of conversations with anybody." He looked at Osk, who was gazing back at him with all the quiet pride of a shy eleven year old. "So I want to make sure that my son has the opportunity to have these ceremonies and teachings which allow him a platform to investigate who he is."
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0656-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0656-JCR-2000-72-web.jpg">
 
 <blockquote>&ldquo;If we&rsquo;re to unravel patriarchy and colonialism and capitalism, there&rsquo;s a lot of work that men have to do to balance it out.&rdquo;</blockquote>
 

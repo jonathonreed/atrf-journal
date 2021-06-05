@@ -7,7 +7,7 @@ date: 2017-09-29
 categories:
   - Culture
 description: “A stronger, healthier legacy.”
-image: http://jonathonreed.com/atrf/img/2017/09/IMG_9857-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/IMG_9857-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -15,7 +15,7 @@ The Skidegate Youth Center is in a longhouse beside the ocean. I met Willie when
 
 If you’ve ever been to a youth centre, you probably know the sights and sounds at Skidegate. Kids leaned their bikes against the wall outside and walked through the open door. They lounged on the couches or flipped through the wetsuits beside the windows. I could hear basketballs bouncing on the pavement outside and a whirlwind of conversations from the different rooms. I sat on the floor with an 11 year old braiding my hair until another kid pulled my hand. “Come swimming with us.” We headed out to the ocean. The sun went down. Kids gradually left for dinner and homework, riding their bikes under the streetlights past the longhouse. Eventually, it was just me and Willie. I helped him clean up and then we sat beside each other on the couch. The youth centre was still and quiet.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9821-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9821-JCR-2000-72-web.jpg">
 
 “I am William Russ,” he said, “and we are in the Hiit’aganiina Kuuyas Naay Youth Centre, which means ‘Young People Precious House,’ in Skidegate, British Columbia. I’m the head youth worker in this building.” He told me the youth centre was built in 2012 and opened for a summer, but then stalled while they looked for coordinators to run the programming. “It’s been open since 2015 and so we’ve been going strong since then, getting funding and finding different things to do with the kids and just building the program up into what it is now.”
 
@@ -23,7 +23,7 @@ If you’ve ever been to a youth centre, you probably know the sights and sounds
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345166439&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9856-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9856-JCR-2000-72-web.jpg">
 
 The youth centre doesn’t just have Indigenous kids, but traditional teachings and Indigenous culture are a big part of their focus and programs. Willie and the other staff coordinate with the Rediscovery camp, the Skidegate Haida Immersion Program and the Youth Assembly of the Council of the Haida Nation, as well as local Elders and mentors to connect youth with the land, with their culture and their community.
 
@@ -49,9 +49,9 @@ As for the boys, he said, “I try to be there for them as much as I can, and I 
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345166424&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9820-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9820-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9817-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9817-JCR-2000-72-web.jpg">
 
 In having those strong relationships and emotional conversations, Willie saw himself as filling a void that he had experienced in his own childhood.
 
@@ -65,7 +65,7 @@ But his vision for the youth centre extended beyond the present moment. It began
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/345166421&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9824-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9824-JCR-2000-72-web.jpg">
 
 It’s funny to hear the word ‘legacy’ when you’re in a space like that. You look around at the colourful handprints on the Haida art, at the hanging wetsuits still wet from the ocean, at the bike tracks outside the door and the list of child-written names signing in and out; and you feel it. You don’t feel a building that’s only been open for two years. You feel generations.
 

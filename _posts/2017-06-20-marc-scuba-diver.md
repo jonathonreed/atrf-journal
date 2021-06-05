@@ -7,7 +7,7 @@ date: 2017-06-20
 categories:
   - People
 description: “We need a younger generation to protect the ocean like never before.”
-image: http://jonathonreed.com/atrf/img/2017/06/IMG_3560-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/06/IMG_3560-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 

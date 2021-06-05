@@ -7,11 +7,11 @@ date: 2017-09-16
 categories:
   - History
 description: “Home was the uprooting.”
-image: http://jonathonreed.com/atrf/img/2017/09/BC124-bw-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/BC124-bw-web.jpg
 image-sm:
 ---
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/e010695747-v8-1-bw-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/e010695747-v8-1-bw-web.jpg">
 
 In April 2017, the British Columbia government recognized 56 sites as historic Japanese-Canadian places and created an <a href="https://secure.heritagebc.ca/japanese-canadian-map/">interactive map on Heritage BC</a> to acknowledge all 176 nominated places across the province. That’s where I discovered that there was such a high Japanese Canadian population in Prince Rupert that it had a Japanese language school and segregated housing at the nearby North Pacific Cannery. I also discovered that I had cycled past the ghost town of Port Essington. I had never heard of it.
 
@@ -19,9 +19,9 @@ Port Essington was a cannery town on the estuary of the Skeena River. It was fou
 
 In 1942, all of them were forcibly removed.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/z-31a1e5ee-bw-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/z-31a1e5ee-bw-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/1941_boats-u1369-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/1941_boats-u1369-web.jpg">
 
 After the news of Japan’s attack on Pearl Harbour on December 7, 1941, decades of anti-Japanese fear and resentment erupted in British Columbia. Japanese Canadian industry workers were immediately fired. Japanese Canadian fishermen were ordered to stay in port and some 1,200 fishing boats were seized. Japanese language newspapers and schools were closed. In the following weeks, the unrelenting racism of federal Cabinet minister Ian Mackenzie and British Columbian popular opinion pushed the Canadian government towards a policy of forced relocation and internment. On January 16, 1942, the government designated the area 100 miles from the west coast as a ‘protected area.’ On February 7, every man of Japanese origin was forced to leave. Two weeks later, that expanded to include all persons ‘of the Japanese race.’
 
@@ -29,7 +29,7 @@ By the 1940s, Port Essington had declined significantly with the gradual closure
 
 <blockquote>“It is the government’s plan to get these people out of BC as fast as possible. It is my personal intention, as long as I remain in public life, to see they never come back here. Let our slogan be for British Columbia: No Japs from the Rockies to the seas.” <cite>Ian Mackenzie, 1944</cite></blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/Internment-Map-Tashme-Project-11-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/Internment-Map-Tashme-Project-11-web.jpg">
 
 Throughout 1942 Japanese Canadians were taken with little warning to holding areas, such as the Hasting Park livestock building in Vancouver, where they were held sometimes for months before being transported away from the coast. Some families were separated, with fathers being sent to road camps or prisoner-of-war camps in Ontario. Other families were sent to Manitoba and Alberta to work as farm labour. Many were housed in hastily erected internment camps in the BC Interior, where they suffered unimaginable struggles through the long winters of the war.
 
@@ -55,9 +55,9 @@ Despair for our children<br>
 Fear for our future.”</p>
 <cite>Dorothy Livesay, Call My People Home</cite></blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/CP01123-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/CP01123-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/CP01123-002-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/CP01123-002-web.jpg">
 
 “Our history is made up of people. People who welcomed strangers to their land. People who bravely left their home and families for new opportunities. People who left on these waters to reach the foot of the Rockies—who saw unlimited possibilities in this land. Their actions make our history. Some of it is good. Some is not. But it is all important—it is why we are who we are. And our young people need to know about this. Without understanding where we have been, there is a good chance we will repeat mistakes of the past. Learning about our history helps guide us in the future.” — Governor General Romeo Le Blanc, 1999
 

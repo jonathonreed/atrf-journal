@@ -7,17 +7,17 @@ date: 2017-11-11
 categories:
   - People
 description: “My story is about the power of assets for the poor, to help people who are on social assistance.”
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_5079-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_5079-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
-This story has been waiting to be told for almost four months. It takes place under the midday sun of Thunder Bay in July, in The Hub Bazaar where I met <a href="http://jonathonreed.com/atrf/2017/08/05/lori-entrepreneur/">Lori</a>, whom I wrote about back in August. Lori wasn't the only person to share her story that day. I also met Ruth, an inspiring woman committed to anti-poverty work and other community projects.
+This story has been waiting to be told for almost four months. It takes place under the midday sun of Thunder Bay in July, in The Hub Bazaar where I met <a href="http://jonathonreed.me/atrf/2017/08/05/lori-entrepreneur/">Lori</a>, whom I wrote about back in August. Lori wasn't the only person to share her story that day. I also met Ruth, an inspiring woman committed to anti-poverty work and other community projects.
 
 "My name's Ruth Westcott," she said, "and I'm from Thunder Bay." A bird cried in the blue sky out the window. "We're at The Hub, having lunch with Lori Paras, who's this fabulous connector in the community. She's an amazing entrepreneur and friend."
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354438350&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5079-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5079-atrf-jcr-2000-web.jpg">
 
 Ruth got into her story right away.
 
@@ -57,6 +57,6 @@ I think a shift happens when people with experiences like Ruth or Lori end up in
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354438275&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5087-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5087-atrf-jcr-2000-web.jpg">
 
 <i>I went looking for an article I read about liquid assets and poverty, and while I didn't find it, I did find an article worth reading in The Guardian: <a href="https://www.theguardian.com/society/2014/sep/21/linda-tirado-poverty-hand-to-mouth-extract">‘Poor people don’t plan long-term. We’ll just get our hearts broken’</a>.</i>

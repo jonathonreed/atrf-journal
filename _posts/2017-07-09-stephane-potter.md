@@ -7,7 +7,7 @@ date: 2017-07-09
 categories:
   - People
 description: And 10 tons of clay.
-image: http://jonathonreed.com/atrf/img/2017/06/IMG_4017-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/06/IMG_4017-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -15,9 +15,9 @@ There's a place on the north coast of the St. Lawrence in Québec where a barn i
 
 "I'm the owner of Les Ateliers Charlevoix," he said, "which has been here 32 years."
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3982-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_3982-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3988-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_3988-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354051281&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -33,9 +33,9 @@ I didn't get this in the recording but at one point I interrupted him and asked,
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354051269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3999-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_3999-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4000-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_4000-atrf-jcr-2000-web.jpg">
 
 I asked him what it was like being a potter. "It's very special. We're talking about a piece of clay <i>qui veut absolument rien dire</i>, that has no meaning. Then it becomes something truly useful and truly beautiful."
 
@@ -51,9 +51,9 @@ I also asked him what brought him back to Saint Irénée. He gestured outside.
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354051233&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_4019-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_4019-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3996-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_3996-atrf-jcr-2000-web.jpg">
 
 Perhaps this isn't nationally significant history. Perhaps there's more to be said about the international development of pottery, or apprenticeships in Canada, or artisans on the north coast of the St. Lawrence. But to me the story of a local who knows where he belongs, the story of someone who works with his hands and loves his daughters and greets the people around him with a smile, that story is still worthwhile.
 

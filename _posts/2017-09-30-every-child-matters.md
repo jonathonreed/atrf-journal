@@ -7,13 +7,13 @@ date: 2017-09-30
 categories:
   - Indigenous
 description: “They were fighting for their lives, to reach home, for freedom.”
-image: http://jonathonreed.com/atrf/img/2017/09/missing-stringer-hall-boys.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/missing-stringer-hall-boys.jpg
 image-sm:
 ---
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/missing-stringer-hall-boys.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/missing-stringer-hall-boys.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/freedom-road.png">
+<img src="http://jonathonreed.me/atrf/img/2017/09/freedom-road.png">
 
 I heard while in Tuktoyaktuk that a local is advocating for the new highway between Inuvik and Tuk to be named ‘Freedom Road’ to commemorate three boys who in 1972 ran away from residential school in Inuvik. Bernard Andreason, age 11. Lawrence Jack Elanik, age 11. Dennis Dick, age 13. Bernard was the only one to survive after being found eight miles south of Tuk with swollen feet and having lost 30 lbs.
 
@@ -31,7 +31,7 @@ In the end, one 11 year old had to leave the other. Bernard walked another two w
 
 Jack’s sister called the story that the boys had run away for fear of the consequences of the stolen cigarettes a cover-up from the abuse, and Joe Nasagaluak, the local behind the name ‘Freedom Road,’ echoed her sentiment. “They weren’t running away for stealing a pack of cigarettes,” he said. “There was something more. They were fighting for their lives, to reach home, for freedom.”
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/84-ruben-cci00023.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/84-ruben-cci00023.jpg">
 
 I sought some more stories of residential schooling in Inuvik and that’s how I discovered the story of Abraham Ruben in <a href="http://weweresofaraway.ca/survivor-stories/abraham-ruben/">We Were So Far Away: The Inuit Experience in Residential Schools</a>. He was a student at Sir Alexander Mackenzie School in Inuvik through the 1960s.
 
@@ -57,9 +57,9 @@ The end of September is the time of year in which children were taken from their
 
 Taken back to evil spirits.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_8978-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_8978-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_8936-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_8936-JCR-2000-72-web.jpg">
 
 The point of this is that children matter. They mattered 45 years ago when Bernard lost his friends. They matter today when communities combat youth suicide and the effects of intergenerational trauma. But I’ll conclude with these photos from a community event in Inuvik, because facing the history of residential schooling can feel paralyzing. It’s huge. It’s heartbreaking.
 

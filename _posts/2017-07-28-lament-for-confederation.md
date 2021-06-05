@@ -7,11 +7,11 @@ date: 2017-07-28
 categories:
   - Indigenous
 description: A poem from the centennial.
-image: http://jonathonreed.com/atrf/img/2017/07/056-1984-Chief-Dan-George.jpg
+image: http://jonathonreed.me/atrf/img/2017/07/056-1984-Chief-Dan-George.jpg
 image-sm:
 ---
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/Rita-Joe-world-premiere-program-notes-Chief-Dan-George.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/Rita-Joe-world-premiere-program-notes-Chief-Dan-George.jpg">
 
 Chief Dan George, who lived from 1899 to 1981, was a chief of the Tsleil-Waututh Nation, as well as a poet, actor and activist. He was born Dan Slaholt but had his name changed to George in a residential school at age five. He performed this poem to a silenced crowd of 32,000 with at Empire Stadium in Vancouver in 1967. I've been meaning to share it since I first heard about it from his great grandson Sid Bobb at Big Medicine Studio in Nipissing First Nation outside of North Bay. It's incredibly relevant today, fifty years into the 'next hundred years' since the centennial.
 
@@ -25,7 +25,7 @@ Chief Dan George, who lived from 1899 to 1981, was a chief of the Tsleil-Waututh
 
 <iframe src="//www.cbc.ca/i/caffeine/syndicate/?mediaId=936571971508" width="100%" height="400" frameborder="0" allowfullscreen style="padding:0"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/chief_dan_george_03.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/chief_dan_george_03.jpg">
 
 In an article on CBC called <a href="http://www.cbc.ca/2017/has-anything-changed-revisiting-chief-dan-george-s-iconic-lament-for-confederation-1.4079657" target="blank">Has anything changed? Revisiting Chief Dan George's iconic 'Lament for Confederation'</a>, poet Janet Rogers wrote: "I look forward to hearing Chief Dan George's Lament for Confederation read again and again during 2017. Let's revisit this honest and accurate piece of writing penned by an Indigenous leader who all of Canada proudly recognized and embraced."
 

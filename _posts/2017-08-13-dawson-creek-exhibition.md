@@ -7,15 +7,15 @@ date: 2017-08-17
 categories:
   - Culture
 description: Stories and photos of western Canadian culture.
-image: http://jonathonreed.com/atrf/img/2017/08/IMG_6457-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/08/IMG_6457-JCR-2000-72-web.jpg
 image-sm:
 ---
 
-I crossed into British Columbia in time for the <a href="http://dawsoncreekfair.com/" target="blank">Dawson Creek Exhibition & Stampede</a>. I expected it to be sort of similar to what I knew from fall fairs in Ontario and the <a href="http://jonathonreed.com/atrf/2017/06/21/shigawake-fair/" target="blank">Shigawake Agricultural Fair</a> I learned about on the east coast—but with a rodeo. I wanted to spend time at the rodeo to learn about and document western Canadian culture. These are some of the people and stories I encountered.
+I crossed into British Columbia in time for the <a href="http://dawsoncreekfair.com/" target="blank">Dawson Creek Exhibition & Stampede</a>. I expected it to be sort of similar to what I knew from fall fairs in Ontario and the <a href="http://jonathonreed.me/atrf/2017/06/21/shigawake-fair/" target="blank">Shigawake Agricultural Fair</a> I learned about on the east coast—but with a rodeo. I wanted to spend time at the rodeo to learn about and document western Canadian culture. These are some of the people and stories I encountered.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6160-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6160-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6176-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6176-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/4h88axiE5ew" frameborder="0" allowfullscreen></iframe>
 
@@ -23,9 +23,9 @@ It was Sunday morning in Dawson Creek. The fairgrounds were quiet, with a few co
 
 As the rain began to disappear above a sky filled with wildfire smoke, I headed west towards the VJV Auction Company auction house. That's near where I met Brett. 
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6222-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6222-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6220-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6220-JCR-2000-72-web.jpg">
 
 Brett was 13 and had won Reserve Grand Champion for his yearling steer. His hair was wet from the rain and he held a brush for his calf in his hands. I asked if there were lots of kids involved in 4-H like he was. "By age 9, yeah, I guess it's pretty popular," he said. "But by the time you're 15 or 16 you could be buying and selling your own cattle. So you don't have time anymore." He said there's 4-H sheep and goats, but not in the same way. "This is cattle country."
 
@@ -37,11 +37,11 @@ He didn't record a very long audio clip, and he was really more comfortable talk
 
 Brett said it. It was simple as that. With the rodeo queens, however, everything about them embodied love for rodeo culture and western Canada. I photographed them before they left to join the drill team for the grand entry of the rodeo.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6230-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6230-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6244-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6244-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6259-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6259-JCR-2000-72-web.jpg">
 
 The role of rodeo queen started in the early 20th century and according to the Encyclopedia of the Great Plains rose to prominence in the 1930s and &rsquo;40s. I sort of accidentally found an article, <a href="https://medium.com/matter/rodeo-queens-of-the-west-9bcfb7fa8911" target="blank">Queens of the West</a>, that offers a worthwhile glimpse at phenomenon of rodeo queens in the United States.
 
@@ -51,7 +51,7 @@ Each day the rodeo was preceded by a grand entry led by the rodeo queens, and th
 
 I didn't record any audio from the rodeo queens, but I did hang out for a bit with the 'queen moms,' who had gotten the horses groomed and tacked up for their daughters.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6266-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6266-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744206&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -65,7 +65,7 @@ I didn't record any audio from the rodeo queens, but I did hang out for a bit wi
 
 I gestured to myself. "Yeah, like you," she said. "Look how much you learned today!"
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6279-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6279-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744183&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -73,7 +73,7 @@ On my way to the rodeo, I stopped in and met two women quilting in the handicraf
 
 The quilt they were working on had all kinds of stitching, because all kinds of people had contributed to it. I particularly loved the crooked, uneven stitches on the bottom border—clearly a kid's first try with a needle and thread. They recalled different experiences from the days before—a boy seeing an egg being laid for the first time, the kids bringing their artwork in to be exhibited.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6269-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6269-JCR-2000-72-web.jpg">
 
 Their space stood perhaps in contrast or perhaps in complement to the agribusiness equipment and livestock industry that surrounded it. At first I thought it didn't quite belong. Then I remembered Brett's row of ribbons, and the intricate leatherwork on the rodeo queens' saddles.
 
@@ -81,29 +81,29 @@ Their space stood perhaps in contrast or perhaps in complement to the agribusine
 
 From there I ran to the rodeo in time to catch the ending of the grand entry. Cowboys leaned on the bucking chutes and finished tying their chaps. It was time.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6347-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6347-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6457-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6457-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6547-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6547-JCR-2000-72-web.jpg">
 
 I hope the photos speak for themselves, but it's probably in vain. I want you to hear the whoosh of the honda knot as it leaves the cowboy's hands and tightens around the rear legs of a running steer. I want you to feel the pounding of hooves go by as the cowboy jumps from the bucking horse to the pickup. I want you to see the soft, flexible body of the bull rider hit the hard back of the steer. I want you to feel the emotion in your throat as a thrown cowboy limps with his arms around the medics. I want you to taste mud on your lips as the barrel racer whips her horse around.
 
 I want you to smell the leather.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6665-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6665-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6429-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6429-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6703-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6703-JCR-2000-72-web.jpg">
 
 But it's not really possible, and that's kind of the point. Before I showed up in Dawson Creek, I knew what a rodeo was. I knew what the pictures looked like. I didn't know what it <i>felt</i> like. And I still don't completely, but I've felt a part.
 
 I climbed behind the bucking chutes to meet a few of the cowboys when it was over. Most were packing their gear, preparing to head off to the next rodeo. A few were talking about the steers' bucking consistency. One of the cowboys had been caught on his bull until one of the bullfighters managed to dislodge him, so he had his jeans down to check a purple bruise that was already forming on his thigh.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6727-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6727-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6730-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6730-JCR-2000-72-web.jpg">
 
 I photographed three of the last cowboys, then asked if any of them would record an audio clip. A fourth guy, Scott, said he hadn't been in the photo, so that meant it couldn't be him. "No way," said one of the others. "That means it has to be you!"
 
@@ -119,9 +119,9 @@ Then I asked about the culture of rodeo and if it was going to continue.
 
 Cowgirls, too.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6676-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6676-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6753-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6753-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744149&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -137,15 +137,15 @@ Shaylayne was an athlete with a vision. She talked about her future, imagining r
 
 "And they were too slow."
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6775-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6775-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6789-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6789-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6852-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6852-JCR-2000-72-web.jpg">
 
 Through it all there was a sense of pride. Not the kind of pride that tramples on other people, but the kind that quietly polishes a belt buckle, or stitches beads onto a breastgirth. Everyone from the 13-year-old cattle rancher to the gritted-teeth barrel racer knew what they loved, and knew they belonged. 
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6909-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6909-JCR-2000-72-web.jpg">
 
 The last event was the chuckwagon races, which were more thunderous but less varied than the rodeo finals. The most significant part of the chuckwagon competition was the final race of Kelly 'The King' Sutherland, who was retiring after fifty years.
 
@@ -155,7 +155,7 @@ The announcer, Les McIntyre, said what Michael Jordan did for basketball, what M
 
 If you look closely at the photo, you can see him in the back of the white carriage. Eagle feather, thumbs up. A western Canada icon.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_6920-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_6920-JCR-2000-72-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/348744133&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -165,11 +165,11 @@ And with that, it was over. The bucking chutes were empty and the evening wind c
 
 And in that air of finality, I saw Miss Teepee Creek Stampede one last time. We shared a couple more stories and laughter and I photographed her in the orange glow of the stables.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_7059-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_7059-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_7067-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_7067-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/IMG_7071-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/IMG_7071-JCR-2000-72-web.jpg">
 
 In those final moments, I had a feeling that it wasn't over. That the rodeo would continue on, in other communities across western North America and in years to come. Her crown was old, you see, a bit tarnished from stampedes gone by, but her belt buckle was new, with this year proudly emblazoned on it.
 

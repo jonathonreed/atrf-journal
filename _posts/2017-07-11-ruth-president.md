@@ -7,7 +7,7 @@ date: 2017-07-11
 categories:
   - Indigenous
 description: “We should all have pride in our identity. Just the word Inuit gives me chills sometimes.”
-image: http://jonathonreed.com/atrf/img/2017/07/IMG_4337-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/07/IMG_4337-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -21,7 +21,7 @@ I interviewed her in between meetings with the Governor General and other dignit
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1taSka8MxzbYdSrfkGsDs-T9sVdeIkhBT" width="100%" height="480"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4343-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_4343-atrf-jcr-2000-web.jpg">
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085247&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
@@ -31,7 +31,7 @@ I started out by asking her about her role with the National Inuit Youth Council
 
 The Nunavut Land Claims Agreement was the largest Indigenous land claim settlement in Canadian history. It was signed in 1993 between the Tunngavik Federation of Nunavut, the Government of Canada and the Government of the Northwest Territories; and in 1999 Nunavut as an independent body became a reality. The Tunngavik Federation of Nunavut was founded in 1982 by regional associations of Inuit Tapiriit Kanatami (ITK) in order to negotiate the land claim. The ITK was in turn founded in 1971 with the rise of Indigenous political action following the 1969 White Paper. 
 
-Indigenous land claims were gaining momentum in Canadian federal courts in the 1970s, and in between 1975 and 2003 the Inuit negotiated four comprehensive land claim agreements with the federal government. Also within that period was the 1990 land dispute between a group of Mohawks and the town of Oka (read about it <a href="http://jonathonreed.com/atrf/2017/06/28/oka/">here</a>); as well as the 1995 referendum on Québec sovereignty, which followed the rise of the Parti Québecois after the October Crisis (read about that <a href="http://jonathonreed.com/atrf/2017/06/27/maison-du-pecheur/">here</a>) and was boycotted by the ITK because it did not address Indigenous sovereignty and ongoing land claims.
+Indigenous land claims were gaining momentum in Canadian federal courts in the 1970s, and in between 1975 and 2003 the Inuit negotiated four comprehensive land claim agreements with the federal government. Also within that period was the 1990 land dispute between a group of Mohawks and the town of Oka (read about it <a href="http://jonathonreed.me/atrf/2017/06/28/oka/">here</a>); as well as the 1995 referendum on Québec sovereignty, which followed the rise of the Parti Québecois after the October Crisis (read about that <a href="http://jonathonreed.me/atrf/2017/06/27/maison-du-pecheur/">here</a>) and was boycotted by the ITK because it did not address Indigenous sovereignty and ongoing land claims.
 
 All that is to say that as I researched the origins of Nunavut, I found firstly that I did not know much about the governmental structure of the territories, nor the colonization of the Arctic; and that other marginalized histories that I had already learned about were still connected in different ways to Inuit sovereignty and the politics of the mid- to late-20th century.
 
@@ -71,7 +71,7 @@ I asked if she ever thought about her young siblings when she was working with I
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085166&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4349-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_4349-atrf-jcr-2000-web.jpg">
 
 Ruth proudly wore a pin that said in block letters, 'president.' It wasn't from ITK. It was from her father. "My dad was the president for all the firemen in all of NWT, when Nunavut was still NWT. He was 19, I think. And then, not long ago, he passed the pin on to me for my new role in NIYC."
 
@@ -81,7 +81,7 @@ Ruth's 19 now, and like her father and ancestors before her she is providing lea
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354085142&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_4351-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_4351-atrf-jcr-2000-web.jpg">
 
 Ruth is a leader in her community and for all of Canada. She values her closeness with her family and the resilience of her culture. She speaks Inuktitut, and talks about mental health, affordable nutrition, education reform and climate action.
 

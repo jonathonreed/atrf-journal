@@ -7,7 +7,7 @@ date: 2017-08-05
 categories:
   - People
 description: “Together we’re so strong.”
-image: http://jonathonreed.com/atrf/img/2017/07/IMG_5074-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/07/IMG_5074-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -62,7 +62,7 @@ As I young person myself, I see something immeasurable in that recognition of in
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/354101195&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_5077-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_5077-atrf-jcr-2000-web.jpg">
 
 In the context of Thunder Bay, there's a lot of multifaceted history, politics and intercultural relations. There's racism and systemic oppression and intercity division. In enterpreneurship, there's hard work combined with vision, risk meeting reward—and sometimes, failure.
 

@@ -7,7 +7,7 @@ date: 2017-06-13
 categories:
   - Indigenous
 description: Excerpts from a book in Gegapegiag.
-image: http://jonathonreed.com/atrf/img/2017/06/IMG_9343-atrf-ac-2000-2-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/06/IMG_9343-atrf-ac-2000-2-web.jpg
 image-sm:
 ---
 
@@ -37,9 +37,9 @@ If you live in eastern Canada or are interested in Indigenous history and rights
 
 <blockquote>&ldquo;For the Gespe&rsquo;gewa&rsquo;gi Mi&rsquo;gmaq who read this history, know that you can be proud of your Nation and everything that has been accomplished. Live your history, reclaim it, and see how you can use this history to rebuild your nation so that you can create a new memory in the minds of your children.&rdquo;</blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3432-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_3432-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/06/IMG_3429-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/06/IMG_3429-atrf-jcr-2000-web.jpg">
 
 It was in this book that I found an excerpt of a poem from Lindsay Marshall, former Chief of Potlotek First Nation. We didn't cycle through Potlotek First Nation, but did share its coastline on Bras d'Or Lake in Cape Breton. I found the poem online and wrote it down to share here.
 

@@ -7,7 +7,7 @@ date: 2018-03-29
 categories:
   - Product
 description: From my heart to yours, I hope 2017 meant something.
-image: http://jonathonreed.com/atrf/img/2018/03/IMG_0040-JCR-2000-web.jpg	
+image: http://jonathonreed.me/atrf/img/2018/03/IMG_0040-JCR-2000-web.jpg	
 image-sm:
 ---
 
@@ -17,9 +17,9 @@ So I didn't give up. I poured everything I had into this.
 
 The booklet is around 30 pages. Writing and photography interweaving specific stories and individuals into a Canada-wide reflection on what this country has been and could become. Self-published thanks to the EDGE Network and Staples. I've packaged them up and they're ready to send to finish off Kickstarter rewards, but I have a handful left over. Hoping to sell them for $15 to make up for how far in the red this project as put me. Contact me if you're interested.
 
-<img src="http://jonathonreed.com/atrf/img/2018/03/IMG_0040-JCR-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2018/03/IMG_0040-JCR-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2018/03/IMG_0049-JCR-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2018/03/IMG_0049-JCR-2000-web.jpg">
 
 Here's part of the conclusion of the booklet, one of my favourite parts:
 
@@ -29,9 +29,9 @@ Canada is as broken as it ever was. The violence and discrimination that underli
 
 We need more than inspirational quotes to face the next 50 years, and we need more than half a story. We need every piece of what we have been, because every piece that carries shame, or loss, every voice that speaks of resilience, or vision—every single one of them is a human story. Each story is a starting point for empathy.
 
-<img src="http://jonathonreed.com/atrf/img/2018/03/IMG_0043-JCR-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2018/03/IMG_0043-JCR-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2018/03/IMG_0041-JCR-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2018/03/IMG_0041-JCR-2000-web.jpg">
 
 I'm writing this now from a sunbeam in southwestern British Columbia. Things are quieter now and I'm starting to feel a little bit like I used to. I even miss biking sometimes. All in time.
 

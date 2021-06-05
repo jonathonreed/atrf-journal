@@ -7,7 +7,7 @@ date: 2017-05-15
 categories:
   - Places
 description: Fog and ice and emptiness.
-image: http://jonathonreed.com/atrf/img/2017/05/IMG_1419-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/05/IMG_1419-atrf-jcr-2000-web.jpg
 image-sm:
 ---
 
@@ -19,9 +19,9 @@ As it was, it was foggy and deserted. This isn't meant to characterize Stag Harb
 
 Not empty in a particularly bad way. I guess in way that lent itself to the fog and ice. The wood-built playground wasn't being used, but its colourful paint was a couple years old at the most. The outdoor hockey rink was flooded, but in a springtime way. It wasn't as if Stag Harbour was abandoned, in fact the smell of woodsmoke suggested otherwise. More as if the islanders were cosied up in their homes, drinking coffee and baking bread and staying dry like any sensible person would do.
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1419-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_1419-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_0666-atrf-ac-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_0666-atrf-ac-2000-web.jpg">
 
 Empty in a way that left us alone with the sea. One of the many fascinating things for me about the ocean is how different it can be from one moment and one place to the next. Crashing or lapping, roaring or lingering. Here, it was still. Not quite like glass; more like the stillness of someone holding something fragile, wanting to touch it but afraid if they move too quickly they'll break it.
 
@@ -33,10 +33,10 @@ I kicked one. I wanted to feel what it felt like and my hands were cold. It was 
 
 I didn't kick it a second time.
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1427-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_1427-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1431-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_1431-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/05/IMG_1448-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/05/IMG_1448-atrf-jcr-2000-web.jpg">
 
 This isn't the story of a life-changing place or even a spectacularly beautiful one. It's just a spot that I want to remember, a little bit unique and a little bit out of the way. A few minutes from the ferry terminal and the rest of Newfoundland was a cove that was empty but for fog and ice.

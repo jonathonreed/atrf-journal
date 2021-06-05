@@ -7,7 +7,7 @@ date: 2017-09-13
 categories:
   - Indigenous
 description: Asia was like the fireweed.
-image: http://jonathonreed.com/atrf/img/2017/09/IMG_7828-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/IMG_7828-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -39,7 +39,7 @@ So it was significant to me to hear that in Asia’s experience, Dawson City was
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342567801&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_7824-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_7824-JCR-2000-72-web.jpg">
 
 I don’t know if I can express the power of a high-school-aged girl talking unhesitatingly about her Indigenous culture, describing a childhood free of racism. I’ve met grown men on this journey whose eyes would fill with tears at the thought. Instead I’ll describe this image, an entire wall of sticky-note messages left by visitors of the cultural centre. They echoed like hundreds of voices sharing pride and encouragement. “An inspiration,” they said. “Keep moving forward.” “My heart is with you.”
 
@@ -49,6 +49,6 @@ Asia knew racism. She knew assimilation and degradation and colonialism. Of cour
 
 Fireweed.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_7816-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_7816-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_7817-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_7817-JCR-2000-72-web.jpg">

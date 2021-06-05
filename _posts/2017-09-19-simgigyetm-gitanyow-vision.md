@@ -7,7 +7,7 @@ date: 2017-09-19
 categories:
   - Indigenous
 description: A coexistence of Gitanyow and Crown title, sustainable land and resource use.
-image: http://jonathonreed.com/atrf/img/2017/09/IMG_9591-HDR-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/IMG_9591-HDR-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -15,11 +15,11 @@ I stopped in Gitanyow on the Kitwanga River along the Stewart-Cassiar Highway. I
 
 I went online and found that they’re described as ‘some of the oldest-known totem poles in the world.’
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9587-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9587-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/-sm-Gitanyow_Poles_BW.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/-sm-Gitanyow_Poles_BW.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/-sm-Gitanyow_3_poles_BW.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/-sm-Gitanyow_3_poles_BW.jpg">
 
 I also found out about the <a href="http://www.gitanyowchiefs.com/">Gitanyow Hereditary Chiefs</a>, the Wilp system, the Lax’yip, Ayookxw and Hla’ Am Wil. Rather than just being a historical site, Gitanyow is a place of great vision and unfolding agreements. I’ve spent some time reading about Gwelx ye’enst, the ‘exercise of Gitanyow’s rights and responsibilities to hold, protect and pass on the land in a sustainable manner from generation to generation.’ This is some of what I’ve learned.
 
@@ -33,7 +33,7 @@ In 2005, the Gitanyow Hereditary Chiefs described the Huwilp as being heavily im
 
 That’s where the vision comes in.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9583-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9583-JCR-2000-72-web.jpg">
 
 <blockquote>“Through government-to-government agreements we are able to benefit from the resources from the Lax’yip without ever having to sacrifice any land, thus extinguishing the Gitanyow reliance on the Indian Act, ultimately creating a fully self-reliant system in which the Gitanyow are sustained through the resources on the land.” <cite>Glen Williams, Simogyet of the Maliii Clan and President of the Simgigyet’m Gitanyow</cite></blockquote>
 
@@ -41,9 +41,9 @@ The Gitanyow Hereditary Chiefs’ vision is a coexistence of Gitanyow and Crown 
 
 “The Gitanyow legal system,” reads the Hereditary Chiefs’ website, “does not reflect Western concepts of resource extraction for profit and unlimited consumption.” From what I can tell, that means this treaty agreement is begin written on their terms.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9577-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9577-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9560-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9560-JCR-2000-72-web.jpg">
 
 Treaties with First Nations in British Columbia differ from the rest of the country because they are being written now, in a context that differs greatly from earlier treaties in eastern and central Canada. The Rice Lake Treaty in 1818 was essentially viewed by the British as a land surrender. Treaty No. 6 in 1876 was signed in amidst the devastating effects of buffalo extirpation and smallpox epidemics. In contrast, the Gitanyow have a reputation as being both tough negotiators and having authentic collaborative relationships. This is the potential for something new.
 

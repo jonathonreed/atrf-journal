@@ -7,11 +7,11 @@ date: 2017-09-15
 categories:
   - Places
 description: Hunter’s paradise.
-image: http://jonathonreed.com/atrf/img/2017/09/IMG_9110-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/09/IMG_9110-JCR-2000-72-web.jpg
 image-sm:
 ---
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9108-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9108-JCR-2000-72-web.jpg">
 
 Tuktoyaktuk is an isolated hamlet on the east side of the Mackenzie Delta in the Beaufort Sea. Population around 900. Accessible in the winter by an ice road and soon to be connected to Inuvik and the rest of Canada with an 187-km all-weather road through the Arctic tundra. The locals call it Tuk.
 
@@ -27,9 +27,9 @@ I met a father in Tuk who drew his bloodline from the Inuvialuit at Kittigazuit.
 
 The construction of a Hudson’s Bay Company trading post in 1928 led to a Roman Catholic Mission, a school and an RCMP detachment in Tuk. In 1957, a Distant Early Warning Line site was built. After the 1973 oil crisis and the establishment of the National Energy Program in 1980, Tuk was the site of extensive exploration for oil in the Beaufort Sea. Today it doesn’t see much industry, but it’s on the brink of massive change with the arrival of the all-weather road.
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9047-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9047-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9059-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9059-JCR-2000-72-web.jpg">
 
 On our way to Tuktoyaktuk, we stopped at a present-day whaling camp near Kittigazuit. It was windswept and wet with rain. Firewood was stacked against the buildings and driftwood lined the beach. I could see the infrastructure for cutting and drying whale meat, but I couldn’t really imagine a beluga lying there. I hadn’t seen a beluga since I was a kid, and never out of the water.
 
@@ -43,9 +43,9 @@ The whale hunt takes place for most of July, when dozens of families spend time 
 
 “He caught his first whale this summer.”
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9052-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9052-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9071-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9071-JCR-2000-72-web.jpg">
 
 Our boat’s route on the Mackenzie River’s east channel followed the Tuktoyaktuk Winter Road, an ice road that for most of its existence was traversable for about four months out of the year. For the people of Tuk, it was a lifeline. For our guide Gerry, it was a part of everyday winter life. He pointed out a spot where a road sign pointing to the Arctic Ocean constantly got stolen. Ty told me about skating with his friends as far as they could down the ice road.
 
@@ -57,9 +57,9 @@ I found out that one Tuktoyaktuk resident, Joe Nasogaluak, has proposed calling 
 
 “We have to remember these kids,” Nasogaluak said in an article on CBC. “They were running away, to freedom. To get away from whatever happened or might have happened. They were afraid and tried to make it to the village of Tuk, to their home. They weren’t running away for stealing a pack of cigarettes, there was something more. They were afraid. They were fighting for their lives, to reach home, for freedom.”
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9098-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9098-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9105-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9105-JCR-2000-72-web.jpg">
 
 A big part of home for the people of Tuk is hunting. I knew there were caribou, and I knew the Inuvialuit and other Inuit peoples hunted whale and other mammals. But still I thought sort of subconsciously that food was relatively inaccessible in the Arctic. I told John, a local guide, that it wasn’t barren like I thought.
 
@@ -73,9 +73,9 @@ He talked about how clean the environment was and how lucky he felt to be there.
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342600182&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9157-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9157-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9135-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9135-JCR-2000-72-web.jpg">
 
 I asked if everyone was living off the land, or just a select few, and whether they could get food all year round.
 
@@ -91,6 +91,6 @@ Tuktoyaktuk, at the end of the Mackenzie Delta and on the coast of the Beaufort 
 
 <blockquote>“We can never return to the world of our ancestors as it was. However, the spirit of our ancestors remains with us. […] This spirit is a great source of strength to our people.” <cite>Inuvialuit Pitqusiit</cite></blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9187-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9187-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/09/IMG_9198-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/09/IMG_9198-JCR-2000-72-web.jpg">

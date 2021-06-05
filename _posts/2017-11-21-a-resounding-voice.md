@@ -7,7 +7,7 @@ date: 2017-11-21
 categories:
   - Indigenous
 description: “Our culture is about our relationship to this place, our home, and that’s what we are mandated.”
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_9845-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_9845-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -15,21 +15,21 @@ The poster was nestled among old photographs, Haida language booklets and maps o
 
 They were surrounded by Haida culture—at the heart of the Islands.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9841-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9841-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_9845-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_9845-JCR-2000-72-web.jpg">
 
 I didn't have any specific conversations about oil, pipelines or supertankers while I was on Haida Gwaii, but I did pick up a copy of <a href="http://www.haidanation.ca/?page_id=66">Haida Laas</a> that spoke about the issue, and it was present on the Islands in a way that is hard to describe. It was on the counter at Queen B's coffeeshop in Queen Charlotte. It was on the beach west of Skaayas, and on the wall of the Skidegate Haida Immersion Program longhouse.
 
 A name that I heard multiple times was Valine Crist, and when I looked her up I found that she had written a master's thesis about Haida Gwaii's response to the proposed Enbridge Northern Gateway project. That's where I'm pulling most of the research for this article.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/eng-map-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/eng-map-web.jpg">
 
 Northern Gateway was a proposal to build two pipelines from central Alberta to Kitimat, ultimately transporting half a million barrels of unrefined bitumen, every day, to the northern British Columbia coast. Throughout the proposal process, Enbridge was confronted with their track record of over 800 oil spills between 1999-2010 with 20 million litres of contamination; and diverse opposition concentrated on specific details of the project. Northern Gateway would require, for example, 225 supertankers to navigate the Douglas Channel and cross the Hecate Strait—the fourth most dangerous body of water in the world. A catastrophic oil spill was, according to the opposition, inevitable.
 
 Northern Gateway was approved by the Harper government in 2014 but Enbridge couldn't finalize a shipping contract to begin construction before a coalition of Indigenous nations overturned the federal approval in June 2016. In November 2016, Northern Gateway was formally rejected. At the end of March 2017, the communities of Haida Gwaii held a day-long celebration with hundreds of people in attendance.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/Victory.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/Victory.jpg">
 
 There's more to say about federal politics, oil industry and consultation processes in Canada, but what I want to focus on is the Indigenous leadership to this resistance, beginning with the voice of Valine Crist.
 
@@ -47,7 +47,7 @@ In Crist's conclusion, she wrote: "Even with Haida Gwaii's history and experienc
 
 That's a powerful statement. Particularly because there are Indigenous communities all across Canada and the United States rising up to protect their lands and our collective future. Our allyship with them matters.
 
-I already wrote about this in <a href="http://jonathonreed.com/atrf/2017/08/08/return-to-oka/">an article about Oka</a>, but it's a message that bears repeating. These fights are happening now, and they are not all being won. Two weeks ago, the Supreme Court <a href="https://www.theguardian.com/world/2017/nov/03/canada-supreme-court-ski-resort-indigenous-sacred-land">ruled in favour</a> of developers building a ski resort in the sacred Qat'muk valley. Last week, Kinder Morgan <a href="http://www.cbc.ca/news/canada/calgary/kinder-morgan-appeal-trans-mountain-pipeline-1.4402594">appealed to the National Energy Board</a> to undermine the city of Burnaby's local government. COP 23 concluded this past weekend, with a conclusion that the planet is on track for a <a href="https://www.ecowatch.com/cop23-conclusions-questions-2511054818.html">catastrophic 3 ºC of global warming</a>.
+I already wrote about this in <a href="http://jonathonreed.me/atrf/2017/08/08/return-to-oka/">an article about Oka</a>, but it's a message that bears repeating. These fights are happening now, and they are not all being won. Two weeks ago, the Supreme Court <a href="https://www.theguardian.com/world/2017/nov/03/canada-supreme-court-ski-resort-indigenous-sacred-land">ruled in favour</a> of developers building a ski resort in the sacred Qat'muk valley. Last week, Kinder Morgan <a href="http://www.cbc.ca/news/canada/calgary/kinder-morgan-appeal-trans-mountain-pipeline-1.4402594">appealed to the National Energy Board</a> to undermine the city of Burnaby's local government. COP 23 concluded this past weekend, with a conclusion that the planet is on track for a <a href="https://www.ecowatch.com/cop23-conclusions-questions-2511054818.html">catastrophic 3 ºC of global warming</a>.
 
 If there's anything I've learned from the people of Haida Gwaii, or the Gitanyow Hereditary Chiefs, or the Elders of Northern Gespe'gewa'gi, it's that news articles like these are about real people, and real communities—and a real history of violence and colonization that we have yet to adequately confront.
 

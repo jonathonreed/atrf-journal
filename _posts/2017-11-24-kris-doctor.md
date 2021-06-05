@@ -7,23 +7,23 @@ date: 2017-11-24
 categories:
   - Culture
 description: A candid discussion of the HIV crisis facing Indigenous communities in Canada.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_5845-2-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_5845-2-JCR-2000-72-web.jpg
 image-sm:
 ---
 
 Kris grew up in Prince Albert, SK, and moved to Saskatoon in 1990. He's a doctor who specializes in infectious disease, which gives him a unique perspective on Saskatchewan medical care, racism and the HIV crisis in rural Indigenous communities.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5845-2-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5845-2-JCR-2000-72-web.jpg">
 
 "In Saskatchewan, we're so under-resourced," he said. "There absolutely was a huge need for people to treat HIV because the ID department was completely under-staffed. At one point there was about six full-time employees here in the province, and Edmonton had twenty-five."
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/361646402&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_5847-2-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_5847-2-JCR-2000-72-web.jpg">
 
 One of the first things Kris talked about was his experiences with racism in rural Saskatchewan, particularly as he grew up in Prince Albert. Prince Albert, known as PA by its locals, is the third-largest city in the province and the last major centre in the north.
 
-(As an aside, Prince Albert was incorporated as a town in 1885 after the Prince Albert Volunteers militia fought alongside the North-West Mounted Police against the Gabriel Dumont's Métis forces at the Battle of Duck Lake during the North-West Rebellion—which I learned about in <a href="http://jonathonreed.com/atrf/2017/11/23/riel/">my article about Louis Riel</a>. Racism has old roots.)
+(As an aside, Prince Albert was incorporated as a town in 1885 after the Prince Albert Volunteers militia fought alongside the North-West Mounted Police against the Gabriel Dumont's Métis forces at the Battle of Duck Lake during the North-West Rebellion—which I learned about in <a href="http://jonathonreed.me/atrf/2017/11/23/riel/">my article about Louis Riel</a>. Racism has old roots.)
 
 "I think growing up in Prince Albert, where, you know, in many ways it is the epicentre of bad race relations in Saskatchewan. I grew up right in the midst of a racist culture, the non-Indigenous people of Prince Albert."
 

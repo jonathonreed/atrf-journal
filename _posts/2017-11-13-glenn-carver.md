@@ -7,7 +7,7 @@ date: 2017-11-13
 categories:
   - People
 description: Glenn marked the transition from north to south.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_0070-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_0070-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -17,11 +17,11 @@ In my mind, Glenn marked the transition from north to south. I met him at the Sa
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1l_jaMhWKI-luk3Qb5Z-UgnSBBCG6unnD" width="100%" height="480"></iframe>
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0077-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0077-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0075-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0075-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0052-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0052-JCR-2000-72-web.jpg">
 
 I was glad to get out of the rain and Glenn was glad to talk. I learned about his beginnings in craftsmanship, his work with Husqvarna and art festivals and a hotel in Japan. He's worked with old-growth tree cuts five metres tall and individual wood sculptures that you can hold in your hand.
 
@@ -29,4 +29,4 @@ I don't have a lot to say other than I met him, and it was interesting, and it w
 
 Eye-opening conversations abound.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0059-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0059-JCR-2000-72-web.jpg">

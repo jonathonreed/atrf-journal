@@ -7,7 +7,7 @@ date: 2017-08-06
 categories:
   - Culture
 description: Artists are part of how we define our culture, and how we have defined our culture for millenia. 
-image: http://jonathonreed.com/atrf/img/2017/07/IMG_5144-atrf-jcr-2000-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/07/IMG_5144-atrf-jcr-2000-web.jpg
 image-sm:
 --- 
 
@@ -29,6 +29,6 @@ I'm not trying to say that Matt is a cultural icon. I'm just trying to say perha
 
 <blockquote>&ldquo;Politicians don&rsquo;t bring people together. Artists do.&rdquo; <cite>Richard Daly</cite></blockquote>
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_5128-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_5128-atrf-jcr-2000-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/07/IMG_5122-atrf-jcr-2000-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/07/IMG_5122-atrf-jcr-2000-web.jpg">

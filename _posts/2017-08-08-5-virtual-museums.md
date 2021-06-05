@@ -7,7 +7,7 @@ date: 2017-08-08
 categories:
   - History
 description: Explore some virtual exhibits and learn something you didn't know about Canadian history.
-image: http://jonathonreed.com/atrf/img/2017/08/Unknown-5.jpeg
+image: http://jonathonreed.me/atrf/img/2017/08/Unknown-5.jpeg
 image-sm:
 --- 
 
@@ -15,7 +15,7 @@ I came across the <a href="http://www.virtualmuseum.ca/" target="blank">Virtual 
 
 Here are a few of the ones that I thought were most interesting (and, to some extent, best designed; because that influences what I like on the internet). I encourage you to explore some virtual exhibits and learn something you didn't know about Canadian history. I didn't know, for example, that Canada interned Jewish refugees in work camps during the Second World War. There's always more to learn.
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/Unknown-5.jpeg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/Unknown-5.jpeg">
 
 <h2>Land of the Thundering Snow</h2>
 
@@ -23,7 +23,7 @@ Here are a few of the ones that I thought were most interesting (and, to some ex
 
 <a href="http://www.landofthunderingsnow.ca/index-eng.php" target="blank">Explore the avalanches &rarr;</a>
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/dzunukwa_plat_de_fete-dzunukwa_feast_dish-1536w.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/dzunukwa_plat_de_fete-dzunukwa_feast_dish-1536w.jpg">
 
 <h2>Living Tradition: The Kwakw<u>a</u>k<u>a</u>'wakw Potlatch on the Northwest Coast</h2>
 
@@ -33,7 +33,7 @@ Here are a few of the ones that I thought were most interesting (and, to some ex
 
 <a href="https://umistapotlatch.ca/intro-eng.php" target="blank">Learn about the potlatch &rarr;</a>
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/b42062ccd791c24b6fa4c8d1a5d093ca-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/b42062ccd791c24b6fa4c8d1a5d093ca-web.jpg">
 
 <h2>Enemy Aliens: The Internment of Jewish Refugees in Canada, 1940-1943</h2>
 
@@ -41,7 +41,7 @@ Here are a few of the ones that I thought were most interesting (and, to some ex
 
 <a href="http://enemyaliens.ca/accueil-home-eng.html" target="blank">Hear the stories of Jewish internment in Canada &rarr;</a>
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/Unknown-6.jpeg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/Unknown-6.jpeg">
 
 <h2>Expedition Arctic</h2>
 
@@ -49,7 +49,7 @@ Here are a few of the ones that I thought were most interesting (and, to some ex
 
 <a href="http://www.expeditionarctic.ca/site/" target="blank">Follow the expedition &rarr;</a>
 
-<img src="http://jonathonreed.com/atrf/img/2017/08/2007382_s_1-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/08/2007382_s_1-web.jpg">
 
 <h2>Narrative Threads: Crafting the Canadian Quilt</h2>
 

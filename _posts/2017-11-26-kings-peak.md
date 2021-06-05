@@ -7,7 +7,7 @@ date: 2017-11-26
 categories:
   - Places
 description: It wasn’t easy. It took 120 km of bicycling along the coast and up into the mountains. It took took six hours of elevation gain.
-image: http://jonathonreed.com/atrf/img/2017/11/IMG_0248-HDR-JCR-2000-72-web.jpg
+image: http://jonathonreed.me/atrf/img/2017/11/IMG_0248-HDR-JCR-2000-72-web.jpg
 image-sm:
 ---
 
@@ -17,19 +17,19 @@ One of those moments was off the planned route in my last week of cycling. I det
 
 I'm not saying this to brag, but rather to acknowledge some of what this journey was. It wasn't easy. It wasn't glamorous. It was gritted teeth, pounding heart, stretched muscles and eyes closed with the setting of each day's sun. Plus the reading, the listening, the writing and editing.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0130-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0130-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0168-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0168-JCR-2000-72-web.jpg">
 
 I don't want to forget what that took. Especially because of the perspective I've gained—part of which is the knowledge that doing your best and doing what's right is not always easy. Sometimes it takes all you've got, and sometimes it takes more.
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0201-HDR-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0201-HDR-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0282-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0282-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0263-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0263-JCR-2000-72-web.jpg">
 
-<img src="http://jonathonreed.com/atrf/img/2017/11/IMG_0248-HDR-JCR-2000-72-web.jpg">
+<img src="http://jonathonreed.me/atrf/img/2017/11/IMG_0248-HDR-JCR-2000-72-web.jpg">
 
 <iframe src="https://jonathonreed.exposure.co/reaching-the-sky/embed/cover?embed=true" style="width:100%;min-height:602px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe>
 
